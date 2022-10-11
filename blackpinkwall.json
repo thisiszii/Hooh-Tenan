@@ -17,7 +17,7 @@
 		"onesignal_app_id": "0855da51-0ba7-45dc-b790-000000000"
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
@@ -31,7 +31,7 @@
 		"ad_manager_native_unit_id": "/6499/example/native",
 		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
 		"startapp_app_id": "0",
-		"unity_game_id": "4089993",
+		"unity_game_id": "",
 		"unity_banner_placement_id": "banner",
 		"unity_interstitial_placement_id": "video",
 		"applovin_banner_ad_unit_id": "0",
@@ -39,7 +39,7 @@
 		"applovin_native_ad_manual_unit_id": "0",
 		"applovin_banner_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
-		"ironsource_app_key": "85460dcd",
+		"ironsource_app_key": "",
 		"ironsource_banner_id": "DefaultBanner",
 		"ironsource_interstitial_id": "DefaultInterstitial",
 		"interstitial_ad_interval": 3
@@ -50,19 +50,19 @@
 			"image": "https://i.pinimg.com/originals/7f/cf/d1/7fcfd129068ce91b002a4c5e9b0e0677.png"
 		},
 		{
-			"term": "Oppo",
+			"term": "Jennie",
 			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
 		},
 		{
-			"term": "Samsung",
+			"term": "Jisoo",
 			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
 		},
 		{
-			"term": "Android",
+			"term": "Rose",
 			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
 		},
 		{
-			"term": "Google",
+			"term": "Lisa",
 			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
 		}
 	]
