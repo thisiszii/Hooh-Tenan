@@ -5,12 +5,12 @@
 	},
 	"app": {
 		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Hooh+Tenan",
 		"redirect_url": "",
-		"privacy_policy_url": "https://sites.google.com/view/blogger-wallpaper-app-privacy",
+		"privacy_policy_url": "https://sites.google.com/view/twicewallpaperhd4k",
 		"display_wallpaper_name": "true",
 		"center_crop_wallpaper": "true",
-		"custom_label_list": "false"
+		"custom_label_list": "true"
 	},
 	"notification": {
 		"fcm_notification_topic": "blogger_wallpaper_app_topic",
@@ -46,52 +46,45 @@
 	},
 	"labels": [
 	    {
-			"term": "Motorola",
+			"term": "All Member",
 			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
 		},
 		{
-			"term": "Oppo",
+			"term": "Chaeyoung",
 			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
 		},
 		{
-			"term": "Samsung",
+			"term": "Dahyun",
 			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
 		},
 		{
-			"term": "Android",
+			"term": "Jeongyeon",
 			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
 		},
 		{
-			"term": "Google",
+			"term": "Jihyo",
 			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
 		},
 		{
-			"term": "Realme",
+			"term": "Mina",
 			"image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
 		},
 		{
-			"term": "Nokia",
+			"term": "Momo",
 			"image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
 		},
 		{
-			"term": "Vivo",
+			"term": "Nayeon",
 			"image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
 		},
 		{
-			"term": "Live Wallpaper",
+			"term": "Sana",
 			"image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
 		},
 		{
-			"term": "Lenovo",
+			"term": "Tzuyu",
 			"image": "https://i.ibb.co/wp6mhZv/cat-lenovo.jpg"
-		},
-		{
-			"term": "iPhone",
-			"image": "https://i.ibb.co/1b74h0S/cat-iphone.jpg"
-		},
-		{
-			"term": "Asus",
-			"image": "https://i.ibb.co/RjkDq5r/cat-asus.jpg"
 		}
+		
 	]
 }
