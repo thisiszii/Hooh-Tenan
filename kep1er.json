@@ -45,45 +45,45 @@
 		"interstitial_ad_interval": 3
 	},
 	"labels": [
-	    {
-			"term": "Motorola",
+		{
+			"term": "All Member",
+			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
+		},
+	   	{
+			"term": "Chaehyun",
 			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
 		},
 		{
-			"term": "Oppo",
+			"term": "Dayeon",
 			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
 		},
 		{
-			"term": "Samsung",
+			"term": "Hikaru",
 			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
 		},
 		{
-			"term": "Android",
+			"term": "Huening Bahiyyih",
 			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
 		},
 		{
-			"term": "Google",
+			"term": "Mashiro",
 			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
 		},
 		{
-			"term": "Realme",
+			"term": "Xiaoting",
 			"image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
 		},
 		{
-			"term": "Nokia",
+			"term": "Yeseo",
 			"image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
 		},
 		{
-			"term": "Vivo",
+			"term": "Youngeun",
 			"image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
 		},
 		{
-			"term": "Live Wallpaper",
+			"term": "Yujin",
 			"image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
-		},
-		{
-			"term": "Lenovo",
-			"image": "https://i.ibb.co/wp6mhZv/cat-lenovo.jpg"
 		}
 		
 	]
