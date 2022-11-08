@@ -31,7 +31,7 @@
 		"ad_manager_native_unit_id": "/6499/example/native",
 		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
 		"startapp_app_id": "0",
-		"unity_game_id": "4089993",
+		"unity_game_id": "0",
 		"unity_banner_placement_id": "banner",
 		"unity_interstitial_placement_id": "video",
 		"applovin_banner_ad_unit_id": "0",
@@ -39,59 +39,55 @@
 		"applovin_native_ad_manual_unit_id": "0",
 		"applovin_banner_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
-		"ironsource_app_key": "85460dcd",
+		"ironsource_app_key": "0",
 		"ironsource_banner_id": "DefaultBanner",
 		"ironsource_interstitial_id": "DefaultInterstitial",
 		"interstitial_ad_interval": 3
 	},
 	"labels": [
 	    {
-			"term": "Motorola",
-			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
+			"term": "NCT Dream",
+			"image": "https://image-1.uhdpaper.com/wallpaper/nct-dream-beatbox-members-hd-wallpaper-uhdpaper.com-295@1@h.jpg"
 		},
 		{
-			"term": "Oppo",
-			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
+			"term": "NCT 127",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-punch-all-members-uhdpaper.com-hd-6.1652.jpg"
 		},
 		{
-			"term": "Samsung",
-			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
+			"term": "Haechan",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-punch-haechan-uhdpaper.com-hd-6.1658.jpg"
 		},
 		{
-			"term": "Android",
-			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
+			"term": "Jaehyun",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-jaehyun-neo-zone-the-final-round-uhdpaper.com-hd-6.1662.jpg"
 		},
 		{
-			"term": "Google",
-			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
+			"term": "Johnny",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-johnny-neo-zone-the-final-round-uhdpaper.com-hd-6.1668.jpg"
 		},
 		{
-			"term": "Realme",
-			"image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
+			"term": "Jungwoo",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/jungwoo-nct-127-punch-uhdpaper.com-hd-6.1673.jpg"
 		},
 		{
-			"term": "Nokia",
-			"image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
+			"term": "Mark",
+			"image": "https://image-0.uhdpaper.com/wallpaper/nct-dream-glitch-mode-mark-hd-wallpaper-uhdpaper.com-700@0@f.jpg"
 		},
 		{
-			"term": "Vivo",
-			"image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
+			"term": "Doyoung",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-doyoung-neo-zone-the-final-round-uhdpaper.com-hd-6.1647.jpg"
 		},
 		{
-			"term": "Live Wallpaper",
-			"image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
+			"term": "Taeil",
+			"image": "https://image4.uhdpaper.com/wallpaper-hd/nct-127-taeil-neo-zone-uhdpaper.com-hd-4.2852.jpg"
 		},
 		{
-			"term": "Lenovo",
-			"image": "https://i.ibb.co/wp6mhZv/cat-lenovo.jpg"
+			"term": "Taeyong",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-taeyong-neo-zone-the-final-round-uhdpaper.com-hd-6.1692.jpg"
 		},
 		{
-			"term": "iPhone",
-			"image": "https://i.ibb.co/1b74h0S/cat-iphone.jpg"
-		},
-		{
-			"term": "Asus",
-			"image": "https://i.ibb.co/RjkDq5r/cat-asus.jpg"
+			"term": "Yuta",
+			"image": "https://image6.uhdpaper.com/wallpaper-hd/nct-127-punch-yuta-uhdpaper.com-hd-6.1700.jpg"
 		}
 	]
 }
