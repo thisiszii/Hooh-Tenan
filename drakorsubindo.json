@@ -31,16 +31,13 @@
   "Categories": [
     {
       "name_category": "Taxi Driver Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg"
+      "image": "https://asianwiki.com/images/2/2f/Taxi_Driver-teaser03S02.jpeg"
     },
     {
       "name_category": "Taxi Driver Season 2",
-      "image": "file:///android_asset/image/qawiyyun.jpg"
-    },
-    {
-      "name_category": "Ferry Chanel",
-      "image": "file:///android_asset/image/ferry.jpg"
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
     }
+	
   ],
   "Video": [
     {
@@ -170,25 +167,10 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
       "link_video": "",
       "description": "The notorious serial killer Oh Chul Young turns out to be the murderer who killed Do Ki's mother and Sung Chul's parents. Also, there is a man named Kim Chul Jin who had to serve 20 years in prison for a crime that Oh Chul Young committed. Despite Rainbow Transport's ups and downs, they decide to carry out their last revenge. Part 2: Ha Na decides not to arrest Do Ki, even though he insists that he should be punished for his actions. A year goes by and Baek Sung Mi and the twins receive their final verdicts, while Oh Chul Young begs for forgiveness at Kim Chul Jin’s retrial. The Rainbow Transport members also move onto the next chapter of their lives."
-    },
-    
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-    {
-      "id": 1000,
-      "name_category": "Ferry Chanel",
-      "title": "Alam Malaikat",
-      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
     }
+	
+	
+	
+	
   ]
 }
