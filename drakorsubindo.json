@@ -29,14 +29,15 @@
 	 
    ],
   "Categories": [
+	{
+      "name_category": "Taxi Driver Season 2",
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
+    },
     {
       "name_category": "Taxi Driver Season 1",
       "image": "https://asianwiki.com/images/2/2f/Taxi_Driver-teaser03S02.jpeg"
-    },
-    {
-      "name_category": "Taxi Driver Season 2",
-      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
     }
+    
 	
   ],
   "Video": [
