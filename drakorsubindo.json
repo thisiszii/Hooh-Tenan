@@ -30,7 +30,10 @@
    ],
   "Categories": [
 	
-	
+	{
+      "name_category": "Call It Love",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/04/3357257333.jpg"
+    },
 	{
       "name_category": "Taxi Driver Season 2",
       "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
@@ -304,7 +307,143 @@
       "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
       "link_video": "https://kangmediadev.com/",
       "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	{
+      "id": 99967,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2001%20540p.mp4",
+      "description": "Woo Joo loses her home to someone else, so she goes out to reclaim it. Dong Jin faces financial problems due to Shin Woo Fair's downright interference."
+    },
+	{
+      "id": 99966,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2002%20540p.mp4",
+      "description": "Best Fairs' business secrets are leaked while evidence points to Woo Joo as the culprit. A few days later, Woo Joo receives a phone call from Dong Jin."
+    },
+	{
+      "id": 99965,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2003%20540p.mp4",
+      "description": "Woo Joo receives an unexpected offer, and CEO Shin plans to destroy Best Fair."
+    },
+	{
+      "id": 99964,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2004%20540p.mp4",
+      "description": "Best Fair's project is put on hold, and Woo Joo has a secret rendezvous."
+    },
+	{
+      "id": 99963,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 5",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2005%20540p.mp4",
+      "description": "Woo Joo wavers as Dong Jin falls apart. Things proceed according to CEO Shin's plans."
+    },
+	{
+      "id": 99962,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 6",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2006%20540p.mp4",
+      "description": "Best Fair is driven to the brink. Amidst the chaos, Woo Joo and Dong Jin are contacted separately. "
+    },
+	{
+      "id": 99961,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 7",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2007%20540p.mp4",
+      "description": "Ji Goo is one step closer to finding out Dong Jin's identity, and Woo Joo fixes her mistakes."
+    },
+	{
+      "id": 99960,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 8",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2008%20540p.mp4",
+      "description": "Woo Joo asks Dong Jin for a favor. Someone begins to question Woo Joo's identity."
+    },
+	{
+      "id": 99959,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 9",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2009%20540p.mp4",
+      "description": "CEO Shin tries to win over Woo Joo, but Woo Joo and Dong Jin work as a team."
+    },
+	{
+      "id": 99958,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2010%20540p.mp4",
+      "description": "Jun's concerns deepen, and Dong Jin musters up the courage to face Woo Joo."
+    },
+	{
+      "id": 99957,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 11",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99956,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 12",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99955,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 13",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99954,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 14",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99953,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 15",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99952,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 16",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
     }
+	
+	
+	
+	
 	
 	
 	
