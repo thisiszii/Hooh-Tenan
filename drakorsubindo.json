@@ -1,18 +1,18 @@
  { "Ads": [
     {
      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3379099559308238/3606659165",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/7839765256",
+      "main_ads_natives":"ca-app-pub-3379099559308238/6526683587",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3379099559308238/5213601914",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
-      "interval_intertitial": 5,
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Insurance",
@@ -29,6 +29,8 @@
 	 
    ],
   "Categories": [
+	
+	
 	{
       "name_category": "Taxi Driver Season 2",
       "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
@@ -168,7 +170,141 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2016%20END%20540p.mp4",
       "description": "The notorious serial killer Oh Chul Young turns out to be the murderer who killed Do Ki's mother and Sung Chul's parents. Also, there is a man named Kim Chul Jin who had to serve 20 years in prison for a crime that Oh Chul Young committed. Despite Rainbow Transport's ups and downs, they decide to carry out their last revenge. Part 2: Ha Na decides not to arrest Do Ki, even though he insists that he should be punished for his actions. A year goes by and Baek Sung Mi and the twins receive their final verdicts, while Oh Chul Young begs for forgiveness at Kim Chul Jin’s retrial. The Rainbow Transport members also move onto the next chapter of their lives."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99983,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 1",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2001%20540p.mp4",
+      "description": "Despite the disbandment of Rainbow Taxi, Do Gi is still out there going after bad guys. While keeping it from the rest of the members, Do Gi and Seong Cheol secretly help out a father who is searching for his missing son. To confirm his whereabouts, Do Gi sets off abroad to a foreign country to accomplish his first mission."
+    },
+	{
+      "id": 99982,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 2",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2002%20540p.mp4",
+      "description": "Do Gi successfully infiltrates Cheongeum with the help of his old crew. He pretends to be an abducted recruit but secretly searches for Dong Jae. During the search, he runs into Lim Bok Ja. He uses her revengeful anger to make it easier to find the missing boy. Just when he is about to capture the mastermind, a mysterious gunshot interrupts his arrest."
+    },
+	{
+      "id": 99981,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 3",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2003%20540p.mp4",
+      "description": "An elderly woman visits Rainbow Transport as a victim. She owes a lot of money because of a young scammer who only rips money off old people. Do Gi and the team get infuriated upon seeing this and set up a plan to prevent this criminal from ever scamming the elderly again."
+    },
+	{
+      "id": 99980,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 4",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2004%20540p.mp4",
+      "description": "Rainbow Transport officially begins its operation to bring punishment to Sang Gi. The plan mainly depends on Seong Cheol being a loaded old man as bait. As soon as Sang Gi sees this and plans to scam him, he does not realize the karma that he is about to face. Meanwhile, the secret organization Do Gi is after is also keeping an eye on Do Gi as well."
+    },
+	{
+      "id": 99979,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 5",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2005%20540p.mp4",
+      "description": "Do Gi runs into a stray little girl on the street. Out of concern, he takes her to Rainbow Transport and learns that suspicious people are after her. Do Gi and the team tries to infiltrate Feel Consulting and get some info on Kang Pil Seung to find out why he is in search of this poor little girl."
+    },
+	{
+      "id": 99978,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 6",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2006%20540p.mp4",
+      "description": "Do Gi and Go Eun get busted by Pil Seung for putting up an act. However, Do Gi manages to win back his trust by acting how desperate he is for a house. Now that they are back on track, Do Gi learns how Pil Seung is able to help couples get housing by using children. Disgusted by his ways, the team is determined to bring down Pil Seung at all costs."
+    },
+	{
+      "id": 99977,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 7",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2007%20540p.mp4",
+      "description": "The following client is a woman named Lee Jin Hee. Her beloved sister Jin Sun is suffering from a terminal disease and is relying on a cult to cure her. Rainbow Transport begins service to save her from the cult and take down its leader. However, Do Gi is not the one who will be infiltrating the cult this time."
+    },
+	{
+      "id": 99976,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 8",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2008%20540p.mp4",
+      "description": "The plan to destroy Ok Ju Man is now set. The only thing that remains is for Ju Man to take the bait. Although he does not have faith in any kind of religion, the Rainbow Transport team makes it seem believable. By setting the perfect scam, Ok Ju Man becomes faithful to the fake cult that Do Gi makes."
+    },
+	{
+      "id": 99975,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 9",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99974,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 10",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99973,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 11",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99972,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 12",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99971,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 13",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99970,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 14",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99969,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 15",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
+    },
+	{
+      "id": 99968,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 16",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": ""
     }
+	
 	
 	
 	
