@@ -31,6 +31,10 @@
   "Categories": [
 	
 	{
+      "name_category": "Big Mouth",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/15/3962918704.jpg"
+    },
+	{
       "name_category": "Start-Up",
       "image": "https://wartabanjar.com/wp-content/uploads/2020/12/Poster-drakor-Start-Up.jpg"
     },
@@ -721,6 +725,139 @@
       "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2016%20END%20540p.mp4",
       "description": "Do-san and Dal-mi envision new goals for their future. Ji-pyeong finds a way to pay forward his gratitude for Won-deok. In-jae returns to her roots."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99919,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 1",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2001%20540p.mp4",
+      "description": "Chang Ho, who has no money and is about to lose his wife, receives a call from the mayor of Gucheon."
+    },
+	{
+      "id": 99918,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 2",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2002%20540p.mp4",
+      "description": "Chang Ho is charged with drug abuse and locked up in Gucheon Prison. But wait, Chang Ho is Big Mouse?"
+    },
+	{
+      "id": 99917,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 3",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2003%20540p.mp4",
+      "description": "Who made Chang Ho, Big Mouse, and why? However, he needs to be recognized as such to protect Mi Ho."
+    },
+	{
+      "id": 99916,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 4",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2004%20540p.mp4",
+      "description": "Is Changho really Big Mouse? Gong Ji Hoon makes a bet with Chang Ho to find out his true identity."
+    },
+	{
+      "id": 99915,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 5",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2005%20540p.mp4",
+      "description": "Ji Hoon approaches Mi Ho to find Seo Jae Young's thesis. Does Mi Ho know Chang Ho's true identity?"
+    },
+	{
+      "id": 99914,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 6",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2006%20540p.mp4",
+      "description": "Has Chang Ho been lying to Mi Ho? Mi Ho joins the prison medical volunteer program to meet Chang Ho."
+    },
+	{
+      "id": 99913,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 7",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2007%20540p.mp4",
+      "description": "Jae Ho warns Chang Ho to stop looking into Seo Jae Young's thesis. Mi Ho is suddenly attacked."
+    },
+	{
+      "id": 99912,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 8",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2008%20540p.mp4",
+      "description": "Changho is in a mental hospital. Will Changho be able to hide his identity in a state of confusion?"
+    },
+	{
+      "id": 99911,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 9",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2009%20540p.mp4",
+      "description": "Chang Ho stands as an informant in Seo Jae Young's trial, and Jih Hoon and Jung Rak search for Chang Ho. "
+    },
+	{
+      "id": 99910,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 10",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2010%20540p.mp4",
+      "description": "Chang Ho calls out Big Mouse, and they respond. An unexpected character turns up at the agreed time."
+    },
+	{
+      "id": 99909,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 11",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2011%20540p.mp4",
+      "description": "Chang Ho shifts the power dynamics in the prison to pressure Big Mouse. Do Ha plants a new warden."
+    },
+	{
+      "id": 99908,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 12",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2012%20540p.mp4",
+      "description": "The warden plans to use the prison riots to take out Changho and Miho."
+    },
+	{
+      "id": 99907,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 13",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2013%20540p.mp4",
+      "description": "The hot-plate restaurant is in ruins. The agitated Chang Ho meets someone unexpected there."
+    },
+	{
+      "id": 99906,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 14",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2014%20540p.mp4",
+      "description": "Chang Ho makes a tempting offer to Chairman Kang. Do Ha conspires with Yoon Gab to get rid of Chang Ho."
+    },
+	{
+      "id": 99905,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 15",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2015%20540p.mp4",
+      "description": "Chang Ho prepares for the full-fledged elections against Do Ha, but Mi Ho's health is in trouble. "
+    },
+	{
+      "id": 99904,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 16",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "The TV debate begins, and Mi Ho almost has the smoking gun that will bring down Choi Do Ha."
     }
 	
 	
