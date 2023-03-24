@@ -31,6 +31,10 @@
   "Categories": [
 	
 	{
+      "name_category": "Start-Up",
+      "image": "https://wartabanjar.com/wp-content/uploads/2020/12/Poster-drakor-Start-Up.jpg"
+    },
+	{
       "name_category": "The Glory Part 2",
       "image": "https://awsimages.detik.net.id/community/media/visual/2023/02/09/the-glory-part-2-3.jpeg?w=1080"
     },
@@ -584,6 +588,139 @@
       "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2008%20540p.mp4",
       "description": "As the final pieces of Dong Eun's revenge plot slot into place, she considers what comes next- and what it will mean for Yeo Jeong."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99935,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 1",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2001%20540p.mp4",
+      "description": "The spring Seo Dal-mi lost everything, Nam Do-san's letters kept her company. Fifteen years later, she needs him by her side to prove Won In-jae wrong. "
+    },
+	{
+      "id": 99934,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 2",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2002%20540p.mp4",
+      "description": "To preserve Dal-mi's past and to support her future, Choi Won-deok asks Han Ji-pyeong to pull off an impossible task."
+    },
+	{
+      "id": 99933,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 3",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2003%20540p.mp4",
+      "description": "Ji-pyeong scrambles to transform Do-san into the man of Dal-mi's dreams. A rude awakening prompts In-jae to close one door and open another."
+    },
+	{
+      "id": 99932,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 4",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2004%20540p.mp4",
+      "description": "Despite differing pasts, Dal Mi and In Jae fight for their dreams at the same starting line. Ji Pyeong sets out to protect Dal Mi and help Do San."
+    },
+	{
+      "id": 99931,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 5",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2005%20540p.mp4",
+      "description": "Dal-mi and In-jae present their teams' ideas on the hackathon stage. A story about Dal-mi's upbringing moves Ji-pyeong to fight for her success."
+    },
+	{
+      "id": 99930,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 6",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2006%20540p.mp4",
+      "description": "In-jae uses lessons from her father and stepfather to her advantage. A clash over company shares tests Dal-mi, who turns to Ji-pyeong for advice."
+    },
+	{
+      "id": 99929,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 7",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2007%20540p.mp4",
+      "description": "Grappling with his feelings for Dal Mi, Ji Pyeong avoids her. Do San's knowledge of Won Deok's condition inspires a business idea for Samsan Tech."
+    },
+	{
+      "id": 99928,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 8",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2008%20540p.mp4",
+      "description": "Devastating news gives Dal Mi another reason to make the app a success. Won Du Jeong's plan to teach Do San and Dal Mi a lesson backfires."
+    },
+	{
+      "id": 99927,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 9",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2009%20540p.mp4",
+      "description": "Do-san and Ji-pyeong struggle to bear the weight of their untold truths. Doubts and a mix-up lead Dal-mi to the place where it all started."
+    },
+	{
+      "id": 99926,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 10",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2010%20540p.mp4",
+      "description": "Ji-pyeong gives Dal-mi long-awaited answers and a confession. Seeking success on his own terms, Do-san considers a golden opportunity."
+    },
+	{
+      "id": 99925,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 11",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2011%20540p.mp4",
+      "description": "Kim Yong-san forces Ji-pyeong to reflect on his past remarks. In-jae and Dal-mi's companies showcase rivaling programs using the same technology."
+    },
+	{
+      "id": 99924,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 12",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2012%20540p.mp4",
+      "description": "Alex Kwon shows his true colors, proving Ji-pyeong right and fulfilling Samsan Tech's worst fears. Do-san tells Ji-pyeong about Won-deok's health."
+    },
+	{
+      "id": 99923,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 13",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2013%20540p.mp4",
+      "description": "Dal-mi and In-jae's self-driving car is hit by a ransomware attack. Samsan Tech founders return after a successful three-year stint in San Francisco."
+    },
+	{
+      "id": 99922,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 14",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2014%20540p.mp4",
+      "description": "Tasked with recruiting top developers into her company, Dal-mi pitches her idea at Samsan Tech. Do-san gets away to clear his head."
+    },
+	{
+      "id": 99921,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 15",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2015%20540p.mp4",
+      "description": "Jung Sa-ha and Lee Chul-san begin dating in secret. A boozy, heartfelt conversation with Do-san helps Ji-pyeong make a decision about Dal-mi."
+    },
+	{
+      "id": 99920,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 16",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "Do-san and Dal-mi envision new goals for their future. Ji-pyeong finds a way to pay forward his gratitude for Won-deok. In-jae returns to her roots."
     }
 	
 	
