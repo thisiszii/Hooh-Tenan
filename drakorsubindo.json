@@ -29,7 +29,14 @@
 	 
    ],
   "Categories": [
-	
+	{
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/11/16/1183991976.jpeg"
+    },
+	{
+      "name_category": "Alchemy of Souls",
+      "image": "https://dryedmangoez.com/images/dryedmangoez/2022top20-06.jpg"
+    },
 	{
       "name_category": "Vincenzo",
       "image": "https://media.suara.com/pictures/970x544/2021/02/22/59530-poster-drama-korea-vincenzo.jpg"
@@ -1026,15 +1033,258 @@
       "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2020%20END%20540p.mp4",
       "description": "Han Seok lets nothing stand in his way of revenge. Seeking justice the Mafia way, Vincenzo gives his enemies a slow and painful death."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99883,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 1",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20eps%20-%2001%20540p.mp4",
+      "description": "Naksu casts one last spell to save her soul. Jang Uk looks for the only sorcerer who would dare to help him. Mu-deok gets taken under a new master."
+    },
+	{
+      "id": 99882,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 2",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2002%20540p.mp4",
+      "description": "When Mu Deok refuses Uk's proposal to form an alliance, he convinces her in other ways. Park Jin barricades Songrim to catch a spy."
+    },
+	{
+      "id": 99881,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 3",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2003%20540p.mp4",
+      "description": "Mu Deok sets the terms before beginning proper training. Uk discovers that Heo Yeom left him with a gift he must learn to claim as his own."
+    },
+	{
+      "id": 99880,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 4",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2004%20540p.mp4",
+      "description": "Uk suffers a fever and chills, much to Mu-deok's delight. The Crown Prince visits the Jang household, demanding a family heirloom and a show of respect."
+    },
+	{
+      "id": 99879,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 5",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2005%20540p.mp4",
+      "description": "Mu Deok and Uk arrive at a secluded, empty cabin. Jin Mu orders a body dump. Jin Ho Gyeong offers protection for Uk... at a cost."
+    },
+	{
+      "id": 99878,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 6",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2006%20540p.mp4",
+      "description": "Seo Yul and Park Dang Gu visit Uk at his training ground. Mu Deok pushes her student to the extreme. Jin Cho Yeon prepares a wedding gift."
+    },
+	{
+      "id": 99877,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 7",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2007%20540p.mp4",
+      "description": "The Prince encounters an illusion. Uk demands entry into Jinyowon. Gil Ju goes after Naksu to acquire a body."
+    },
+	{
+      "id": 99876,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 8",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2008%20540p.mp4",
+      "description": "Gil Ju stumbles into town to satisfy his hunger. Uk follows closely behind him. Rumors surface of Naksu's comeback."
+    },
+	{
+      "id": 99875,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 9",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2009%20540p.mp4",
+      "description": "Jin Ho Gyeong looks for her long-lost child. Jin Mu devises a plan to help end that search. Uk and Mu Deok are driven apart."
+    },
+	{
+      "id": 99874,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 10",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2010%20540p.mp4",
+      "description": "Uk is given a book to read. Yul saves a girl at the market. Mu Deok goes through an intensive selection process to become a servant at Songrim."
+    },
+	{
+      "id": 99873,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 11",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2011%20540p.mp4",
+      "description": "Uk loses the will to train. Mu Deok makes a bet with the Prince. At Cheonbugwan, a line of blind girls await judgment."
+    },
+	{
+      "id": 99872,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 12",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2012%20540p.mp4",
+      "description": "An unusual death draws Park Jin’s attention. Uk learns of Naksu’s tragic past. Maid Kim sends Mu Deok on an errand to Cheonbugwan."
+    },
+	{
+      "id": 99871,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 13",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2013%20540p.mp4",
+      "description": "A sudden lightning strike causes damage to Cheonbugwan. Park Jin and Jin Mu dispute who's to blame. Master Lee takes Uk on a special fishing trip."
+    },
+	{
+      "id": 99870,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 14",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2014%20540p.mp4",
+      "description": "Uk faces his tenth and final opponent with a trick or two up his sleeve. Seo Yul keeps Mu Deok close. Jin U Tak plays a trick on his daughter."
+    },
+	{
+      "id": 99869,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 15",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2015%20540p.mp4",
+      "description": "Mu Deok is caught at the site of a bloody murder. Master Lee presents the royal family with a gift and a prophecy. So Yi tracks down a blind friend."
+    },
+	{
+      "id": 99868,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 16",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2016%20540p.mp4",
+      "description": "Park Jin and Jin Ho Gyeong get into a heated dispute as they both lay claim to an artifact. Uk runs into the Prince while on the search for a shaman."
+    },
+	{
+      "id": 99867,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 17",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2017%20540p.mp4",
+      "description": "Mu Deok investigates Jin Bu Yeon’s true identity. Jin Mu convinces Jin Ho Gyeong to make a special announcement at an important assembly."
+    },
+	{
+      "id": 99866,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 18",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2018%20540p.mp4",
+      "description": "Trapped inside an enchanted force field, Mu Deok explores her newfound powers but soon learns of its drawbacks. So Yi makes a deal with a soul shifter."
+    },
+	{
+      "id": 99865,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 19",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2019%20540p.mp4",
+      "description": "Uk comes up with a solution to break the force field that would require him to risk it all. Dang Gu and Cho Yeon make a startling discovery."
+    },
+	{
+      "id": 99864,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 20",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2020%20END%20540p.mp4",
+      "description": "Love is in the air with a wedding on the way and Uk playing matchmaker. Jin Mu appoints an assassin to do his dirty work and become his scapegoat."
+    },
+	
+	
+	
+	
+	
+	
+	{
+      "id": 99863,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 1",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2001%20540p.mp4",
+      "description": "A search leads Uk into Jinyowon, where he runs into a mysterious woman who is planning an escape. Meanwhile, haunting visions of the dead trouble him."
+    },
+	{
+      "id": 99862,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 2",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2002%20540p.mp4",
+      "description": "Jin Ho Gyeong makes a family secret public. Jin Bu Yeon finds new shelter but realizes that her freedom is limited and time is running out."
+    },
+	{
+      "id": 99861,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 3",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2003%20540p.mp4",
+      "description": "A debate surrounding a secret wedding ends with a shocking announcement. Jin Ho Gyeong tries to summon Bu Yeon back by causing her excruciating pain."
+    },
+	{
+      "id": 99860,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 4",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2004%20540p.mp4",
+      "description": "Flashes of another's memory leads Bu-yeon to find out more about Uk's past heartbreak. News of a feared assassin's return shakes the whole kingdom."
+    },
+	{
+      "id": 99859,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 5",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2005%20540p.mp4",
+      "description": "Yul uncovers the mystery of his ill health as So I becomes desperate to save him. Uk and Bu Yeon continue to hit barriers in their relationship."
+    },
+	{
+      "id": 99858,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 6",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2006%20540p.mp4",
+      "description": "While Yul bears the burden of a heavy secret, Uk investigates a conspiracy involving a mysterious animal that could cause a devastating drought."
+    },
+	{
+      "id": 99857,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 7",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2007%20540p.mp4",
+      "description": "To save a fatally injured mage, Uk gives Jin Mu a firm warning and asks Jin Ho Gyeong for help, who agrees to cooperate under one condition."
+    },
+	{
+      "id": 99856,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 8",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2008%20540p.mp4",
+      "description": "Go Won presents Uk with a choice. Jin Mu sets the next step of his plan in motion. Heo Yun Ok requests to meet Bu Yeon in private."
+    },
+	{
+      "id": 99855,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 9",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2009%20540p.mp4",
+      "description": "As the search for the ice stone continues, Uk reaffirms his alliances while Jin Mu prepares for battle with an army of loyal soul shifters."
+    },
+	{
+      "id": 99854,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 10",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2010%20END%20540p.mp4",
+      "description": "Jin Ho Gyeong takes a risk to protect Jinyowon and its treasures from attack. Having had a glimpse into the future, Uk braces for the inevitable."
     }
-	
-	
-	
-	
-	
-	
-	
-	
 	
   ]
 }
