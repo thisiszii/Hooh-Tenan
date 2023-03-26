@@ -29,13 +29,24 @@
 	 
    ],
   "Categories": [
+	
+	
+	
+	{
+      "name_category": "Kokdu: Season of Deity",
+      "image": "https://photos.hancinema.net/photos/largephoto1611062.jpg"
+    },
+	{
+      "name_category": "Pandora: Beneath the Paradise",
+      "image": "https://www.nme.com/wp-content/uploads/2023/03/pandora-beneath-the-paradise-review.jpg"
+    },
 	{
       "name_category": "True Beauty",
       "image": "https://annyeongkimchiland.files.wordpress.com/2022/08/fe.jpg"
     },
 	{
       "name_category": "Alchemy of Souls: Light and Shadow",
-      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg"
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/11/16/1183991976.jpeg"
     },
 	{
       "name_category": "Alchemy of Souls",
@@ -1421,13 +1432,271 @@
       "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2016%20540p.mp4",
       "description": "Ju Kyung and Soo Ho finally confirm that their feelings for one another haven't changed after all these years. After shedding tears from their reunion, they start their happy relationship, which is more grown-up from their high school days. Meanwhile, Seo Jun, who has now moved on from his unrequited love, gets ready to debut while Hee Kyung asks Soo Ho to include Missing Love on Seo Joon's debut album."
+    },
+	
+	
+	
+	{
+      "id": 99837,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E01%20WEB-DL.540p.mp4",
+      "description": "After the success of the Hatch presentation, Jae Hyun gets touted as the presidential candidate. Meanwhile, his wife, Tae Ra, regains her lost memory."
+    },
+	{
+      "id": 99836,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E02%20WEB-DL.540p.mp4",
+      "description": "Tae Ra cannot believe she is No.50, the killer who shot Hae Soo's father fifteen years ago. Chaos ensues at Hatch as super chimpanzee Red gets killed. "
+    },
+	{
+      "id": 99835,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E03%20WEB-DL.540p.mp4",
+      "description": "Jae Hyun declares his candidacy for president, and Kim Seon Duck finally appears. Worried about Tae Ra not acting like herself, Jae Hyun hires a bodyguard. "
+    },
+	{
+      "id": 99834,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 4",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E04%20WEB-DL.540p.mp4",
+      "description": "Hae Soo cannot accept that Tae Ra is the killer who took her father's life. Tae Ra confronts Kim Seon Duck and chases the person who manipulated her life."
+    },
+	{
+      "id": 99833,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 5",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E05%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99832,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 6",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E06%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99831,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 7",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99830,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99829,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 9",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99828,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 10",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99827,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 11",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99826,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99825,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 13",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99824,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 14",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99823,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 15",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99822,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 16",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99821,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2001%20540p.mp4",
+      "description": "Things aren't going great for Gye Jeol. She gets fired at the hospital she is doing her fellowship and nearly falls when a mysterious man saves her. She falls for him the minute she lays eyes on him, but then he disappears. The man turns out to be Professor Do Jin Woo of the Pilseong Medical Center, who hires her. However, there is something suspicious about him."
+    },
+	{
+      "id": 99820,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2002%20540p.mp4",
+      "description": "Kokdu, the Deity of the Underworld, has possessed Do Jin Woo's body. However, Gye Jeol has no clue where Do Jin Woo has disappeared and begins to face the repercussions. Without knowing Do Jin Woo has become Kokdu, she finally finds him, only to learn that he wants to kill her. "
+    },
+	{
+      "id": 99819,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2003%20540p.mp4",
+      "description": "A clue that could help uncurse Kokdu appears. Kokdu tries to change his fate by seducing Gye Jeol. However, it's not as easy as he thinks. His first attempt puts him in the gutters, and he needs a better way to disguise his true colours. Maybe money will do the trick? Or how about a clinic?"
+    },
+	{
+      "id": 99818,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 4",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2004%20540p.mp4",
+      "description": "Gye Jeol and Kokdu get caught up in a strange, unexplainable car accident with a man who suddenly appears in front of them and then disappears. Meanwhile, Gye Jeol opens her clinic and agrees to date Kokdu. However, will they find their way out through the misunderstandings and secrets and end their date unscathed?"
+    },
+	{
+      "id": 99817,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 5",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2005%20540p.mp4",
+      "description": "Kokdu learns that Han Gye Jeol was Seol Hee all along, and he prepares to propose to her. However, unexpected obstacles get in the way, giving Kokdu a difficult time. Meanwhile, Yi Deun calls Gye Jeol in the middle of the night."
+    },
+	{
+      "id": 99816,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 6",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2006%20540p.mp4",
+      "description": "Jung Won doubts Jin Woo regained his memories and tells him to prove it by doing a test with her. They go on a date, and Kokdu does whatever he can to deceive her. Later, Gye Jeol and Kokdu get caught up in a new crisis with a patient needing emergency medical aid."
+    },
+	{
+      "id": 99815,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 7",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2007%20540p.mp4",
+      "description": "Do Jin Woo is back! Kokdu returns to the underworld, where he helplessly watches over Han Gye Jeol and Do Jin Woo. Will he ever get a second chance to return to the human world and break his curse? Meanwhile, Oksin and Gaksin think of a way to get Gye Jeol to wish Kokdu back."
+    },
+	{
+      "id": 99814,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2008%20540p.mp4",
+      "description": "Kokdu returns! Gye Jeol realizes that she has feeling for Kokdu as she scours the recycling center for Kokdu's desk. Kokdu hears from Gaksin that Gye Jeol cried for his presence, and he makes his move. Meanwhile, Kokdu finds out who has been trying to get the better of them."
+    },
+	{
+      "id": 99813,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 9",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2009%20540p.mp4",
+      "description": "Pil Soo finds out that Kokdu’s only weakness is Gye Jeol. In order to take advantage of Kokdu someday, he keeps an eye on Gye Jeol. To keep her safe from Pil Soo, Kokdu asks her to move in with him. However, as Kokdu is not honest with her and is not able to say he wants to live together because he likes her, Gye Jeol is confused about his intention."
+    },
+	{
+      "id": 99812,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 10",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2010%20540p.mp4",
+      "description": "Gye Jeol and Kokdu are now officially living together under one roof. Although there are some troubles in sharing a home, they try to make things work. Meanwhile, Chul is extremely curious about who his sister’s new boyfriend is. Gye Jeol knows for sure that he will not like Kokdu, but she still introduces him to Chul because he is her only family."
+    },
+	{
+      "id": 99811,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 11",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2011%20540p.mp4",
+      "description": "Kokdu gets released from police custody. Gye Jeol learns about the mysterious list, and Kim Pil Soo sets his sights on Gye Jeol. Meanwhile, Gye Jeol offends Kokdu and looks for a way to apologize but can't find the right time to do it."
+    },
+	{
+      "id": 99810,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2012%20540p.mp4",
+      "description": "How dare you mess with Han Gye Jeol? The conflict between Kokdu and Kim Pil Soo grows fiercer. Luckily, Gye Jeol escapes uninjured, but her brother falls into harm's way. Meanwhile, little by little, Kokdu and Gye Jeol find clues in their past lives."
+    },
+	{
+      "id": 99809,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 13",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2013%20540p.mp4",
+      "description": "Gye Jeol and Kokdu save Han Chul from his abduction. Gye Jeol learns about Kokdu's true nature and identity while rescuing Han Chul, and their trust in one another starts to fade. However, Nam Chul also discovers who Kokdu is and joins forces with him to bring down Kim Pil Soo without telling Gye Jeol."
+    },
+	{
+      "id": 99808,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 14",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2014%20540p.mp4",
+      "description": "Gye Jeol remembers her past life and feels Kokdu's pain and sorrow. However, the truth becomes even more unbearable. Later, the legal battle between Kokdu and Kim Pil Soo begins, and Kokdu suffers from a wound that won't heal in his chest. Meanwhile, Gye Jeol and Kokdu decide to break up."
+    },
+	{
+      "id": 99807,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 15",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2015%20540p.mp4",
+      "description": "Kokdu gets stabbed by Kim Pil Soo. Pil Soo faces a crisis with incriminating evidence while Gye Jeol waits beside Kokdu's hospital bed for him to wake up. Meanwhile, Tae Joong Sik wakes up in the hospital, and Jung Won begs Gye Jeol for forgiveness to be with her brother, Chul."
+    },
+	{
+      "id": 99806,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 16",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "Kokdu disappears as Gye Jeol says she loves him. Gye Jeol misses Kokdu dearly and wishes he would come back. However, he is nowhere to be seen except through a present that comes every day. As she longs for him, Gye Jeol gradually regains her everyday life, wishing she would see him again."
     }
-	
-	
-	
-	
-	
-	
 	
 	
 	
