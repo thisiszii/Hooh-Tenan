@@ -31,7 +31,10 @@
   "Categories": [
 	
 	
-	
+	{
+      "name_category": "Business Proposal",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/23/4137074397.png"
+    },
 	{
       "name_category": "Kokdu: Season of Deity",
       "image": "https://photos.hancinema.net/photos/largephoto1611062.jpg"
@@ -1694,12 +1697,110 @@
       "name_category": "Kokdu: Season of Deity",
       "title": "Kokdu: Season of Deity Episode 16",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
-      "link_video": "https://kangmediadev.com/",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2016%20END%20540p.mp4",
       "description": "Kokdu disappears as Gye Jeol says she loves him. Gye Jeol misses Kokdu dearly and wishes he would come back. However, he is nowhere to be seen except through a present that comes every day. As she longs for him, Gye Jeol gradually regains her everyday life, wishing she would see him again."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99805,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 1",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2001%20540p.mp4",
+      "description": "To appease his grandfather's wishes, Kang Tae Moo agrees to a blind date. Jin Young Seo enlists Shin Ha Ri's help to scare away her latest prospect."
+    },
+	{
+      "id": 99804,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 2",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2002%20540p.mp4",
+      "description": "Tae Moo lies about having a girlfriend to stop the endless barrage of blind dates, with the perfect person in mind to play the part."
+    },
+	{
+      "id": 99803,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 3",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2003%20540p.mp4",
+      "description": "Ha Ri has a long list of facts about Tae Moo to memorize — as well as someone important to meet. Young Seo declares her independence."
+    },
+	{
+      "id": 99802,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 4",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2004%20540p.mp4",
+      "description": "In and outside of work, Ha Ri scrambles to hide her true identity from Tae Moo and his grandfather. A fake one-year anniversary comes up. "
+    },
+	{
+      "id": 99801,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 5",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2005%20540p.mp4",
+      "description": "As payback for being fooled, Tae-moo sets a trap for Ha-ri at a company event. But when she drunkenly apologizes, he has a change of heart."
+    },
+	{
+      "id": 99800,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 6",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2006%20540p.mp4",
+      "description": "When plans for a confession go awry, Tae Moo takes Ha Ri on a date by the sea disguised as a work trip. Cha Sung Hoon confronts a red-faced Young Seo. "
+    },
+	{
+      "id": 99799,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 7",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2007%20540p.mp4",
+      "description": "Tae Moo plays the part of Ha Ri's smitten boyfriend in front of her friends, much to the chagrin of a wary Lee Min Woo and a jealous Go Yoo Ra."
+    },
+	{
+      "id": 99798,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 8",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2008%20540p.mp4",
+      "description": "Calling their kiss a mistake, Ha Ri continues to reject Tae Moo's advances. But an unreturned text and word of his blind date stir up her emotions."
+    },
+	{
+      "id": 99797,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 9",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2009%20540p.mp4",
+      "description": "Jo Yoo Jung falls for Sung Hoon, landing him in hot water with Young Seo. Tae Moo and Ha Ri try to keep their relationship a secret at work."
+    },
+	{
+      "id": 99796,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 10",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2010%20540p.mp4",
+      "description": "Kang Da Goo's suspicions about his grandson's love life are proven true. On a rainy night after work, Ha Ri takes Tae Moo out on a date."
+    },
+	{
+      "id": 99795,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 11",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2011%20540p.mp4",
+      "description": "When Ha Ri's personal life becomes the talk of the town, Tae Moo's grandfather gives her an ultimatum. Young Seo's dad suggests dinner with Sung Hoon."
+    },
+	{
+      "id": 99794,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 12",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2012%20END%20540p.mp4",
+      "description": "Ha Ri tries to win Da Goo over by keeping him company at his hospital bedside. A worried Tae Moo asks Ha Ri to go to the U.S. with him."
     }
-	
-	
-	
 	
 	
 	
