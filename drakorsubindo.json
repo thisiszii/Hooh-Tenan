@@ -30,7 +30,18 @@
    ],
   "Categories": [
 	
-	
+	{
+      "name_category": "Our Blooming Youth",
+      "image": "https://artworks.thetvdb.com/banners/v4/series/409188/backgrounds/63e1a9407eb5d.jpg"
+    },
+	{
+      "name_category": "Divorce Attorney Shin",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/19/1157029146.jpg"
+    },
+	{
+      "name_category": "Oasis",
+      "image": "https://assets.pikiran-rakyat.com/crop/337x524:1599x1367/x/photo/2023/02/06/3524150490.jpg"
+    },
 	{
       "name_category": "Business Proposal",
       "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/23/4137074397.png"
@@ -1468,7 +1479,7 @@
       "name_category": "Pandora: Beneath the Paradise",
       "title": "Pandora: Beneath the Paradise Episode 4",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
-      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E04%20WEB-DL.540p.mp4",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29/Pandora%20E04%20WEB-DL.480p.mp4",
       "description": "Hae Soo cannot accept that Tae Ra is the killer who took her father's life. Tae Ra confronts Kim Seon Duck and chases the person who manipulated her life."
     },
 	{
@@ -1800,6 +1811,405 @@
       "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2012%20END%20540p.mp4",
       "description": "Ha Ri tries to win Da Goo over by keeping him company at his hospital bedside. A worried Tae Moo asks Ha Ri to go to the U.S. with him."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99793,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 1",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E01%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99792,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 2",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E02%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99791,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 3",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E03.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99790,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 4",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E04%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99789,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 5",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E05.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99788,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 6",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E06.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99787,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 7",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E07.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99786,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 8",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99785,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 9",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99784,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 10",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99783,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 11",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99782,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 12",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99781,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 13",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99780,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 14",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99779,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 15",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99778,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 16",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99777,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 1",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E01.WEB-DL.540p.mp4",
+      "description": "Lee Seo Jin approaches Shin Sung Han to be her representation in her divorce. Sung Han later meets with a central figure in the case."
+    },
+	{
+      "id": 99776,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 2",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E02.WEB-DL.540p.mp4",
+      "description": "Determined to win, Sung Han convinces Seo Jin to take her case to trial. Park Ae Ran struggles to contain her mother-in-law's belittlement."
+    },
+	{
+      "id": 99775,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 3",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E03.WEB-DL.540p.mp4",
+      "description": "Ae Ran approaches Sung Han for his services. Seo Jin attempts to settle on her next steps post-divorce. Later, Sung Han suffers from visions of the past."
+    },
+	{
+      "id": 99774,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 4",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E04.WEB-DL.540p.mp4",
+      "description": "Upon learning useful intel, Park Yu Seok schemes to antagonize Sung Han. Jang Hyeong Geun finds himself in a daze after receiving distressing news."
+    },
+	{
+      "id": 99773,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 5",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E05.WEB-DL.540p.mp4",
+      "description": "A new lawyer joins Sung Han's firm — but not without aggravating Sung Han first. Hyeong Geun springs into action after receiving an alarming call."
+    },
+	{
+      "id": 99772,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 6",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E06.WEB-DL.540p.mp4",
+      "description": "A figure from the past pays Sung Han a visit — leaving him rattled. Seo Jin begins consulting clients alone. Hyeong Geun says his final goodbye."
+    },
+	{
+      "id": 99771,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 7",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E07.WEB-DL.540p.mp4",
+      "description": "Jin Yeong Ju ups the ante in her war against Sung Han. Seo Jin panics after hearing shocking news about her client — but finds solace nearby."
+    },
+	{
+      "id": 99770,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 8",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E08.WEB-DL.540p.mp4",
+      "description": "Sung Han uses an opportunity to bolster one of his cases — but inconsistencies arise. Seo Jin considers returning to her old job."
+    },
+	{
+      "id": 99769,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 9",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99768,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 10",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99767,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 11",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99766,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 12",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99765,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 1",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E01.mp4",
+      "description": "A rumor about how Prince Hwan has been cursed by a ghost has spread throughout the country. He has a dark secret he can't tell anyone. People who are trying to get Hwan dethroned prepare a trap and Hwan must stand against them. Meanwhile, the one who killed Hwan's Master comes to see him of her own free will."
+    },
+	{
+      "id": 99764,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 2",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E02.mp4",
+      "description": "After facing a crisis at the hunting grounds, Hwan finds himself in an unbelievable situation. Jae Yi claims that she's innocent and blames Hwan for the death of her family. Hwan is confused when he finds out Jae Yi knows about his secret. Meanwhile, Jae Yi's servant disguises herself as a man to learn from the mad scientist, Kim Myeong Jin."
+    },
+	{
+      "id": 99763,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 3",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E03.mp4",
+      "description": "Hwan can't trust Jae Yi and tells her to come find him in the East Palace one her own. To get there, Jae Yi turns herself into a eunuch. Meanwhile, Seong On is shock to learn that his father might have something to do with the written prayer incident."
+    },
+	{
+      "id": 99762,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 4",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E04.mp4",
+      "description": "Hwan gives Jae Yi a second test. She must figure out why the messenger he sent to Master Min's house was killed, and Jae Yi finds out it has something to do with Hwan. Finally, Hwan gives the last test which is to solve a serial murder case. Now Jae Yi must face her fiancé."
+    },
+	{
+      "id": 99761,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 5",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E05.mp4",
+      "description": "Hwan, Jae Yi, Myeong Jin and Ga Ram finally meet. They head out to solve the Cardinal Point case. Meanwhile, Seong On feels humiliated since he's competing against Sun Dol and feels upset when he sees Hwan and Sun Dol together."
+    },
+	{
+      "id": 99760,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 6",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E06.mp4",
+      "description": "After Jae Yi proves herself by solving the Cardinal Point case, Hwan affirms his trust in her. Hwan listens to what happened to Jae Yi's family and believes she is innocent. When Seong On and Jae Yi run into each other, Jae Yi finds something regarding her that Seong On has been carrying."
+    },
+	{
+      "id": 99759,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 7",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E07.mp4",
+      "description": "After Hwan decides that he can't trust Jae Yi, he kicks her out of the palace. Ga Ram is ordered a chusoeryeong and is put in danger. Seong On is curious as to why Hwan is looking into the case of his ex-fiancé and Hwan feels lonely now more than ever without Jae Yi."
+    },
+	{
+      "id": 99758,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 8",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E08.mp4",
+      "description": "The Prince's Guards and the War Department have a match of polo while Jae Yi watches. The interrogation of the shaman begins, and she starts to curse the royal family which brings chaos to the capital and the palace."
+    },
+	{
+      "id": 99757,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 9",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E09.mp4",
+      "description": "The palace and the capital is in chaos after the shaman's curse. Jo Won Bo turns the crisis into an opportunity and starts to pressure the royal family. Hwan and Jae Yi tried to prove that a human set fire to the plum tree and they find out that the real culprit is someone they didn't expect."
+    },
+	{
+      "id": 99756,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 10",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E10.mp4",
+      "description": "Thank to Jae Yi, Hwan opens his heart and become friends with Seong On again and they become even closer. Meanwhile, after the shaman's curse, the Byeokcheon case comes to light again. Jae Yi and Hwan look at the Royal Secretary's journal to figure out what happened."
+    },
+	{
+      "id": 99755,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 11",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E11.mp4",
+      "description": "After finding the royal secretary's journal suspicious, Hwan starts investigating what happened in Byeokcheon and the dried peony petals. After getting a mysterious letter, Cho Won Bo tries to subjugate the remnants of the thieves."
+    },
+	{
+      "id": 99754,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 12",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E12.mp4",
+      "description": "Hwan teams up with Jae Yi and Seong On to find a way to leave the palace after getting confined. Jae Yi finally remembers the face of the messenger who was at her house and is in shock. She runs to Hwan after realizing he's in danger."
+    },
+	{
+      "id": 99753,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 13",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E13.mp4",
+      "description": "Jae Yi claims that her memories are true, but Hwan trusts Tae Gang which confuses Jae Yi even more. Meanwhile, to teach 'Woodpecker' a lesson, Ga Ram steps up. Upon learning that the man who tampered with the written prayer is in Paju, Hwan leaves with Jae Yi and Seong On, but they find themselves in danger."
+    },
+	{
+      "id": 99752,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 14",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E14.mp4",
+      "description": "After returning to the palace, Hwan tries to send Jae Yi to Seong On because he doesn't want Jae Yi to get hurt anymore. A mysterious woman comes to Seong On's house. Bounty hunters go to Cho Won Bo about Ga Ram, and while having a good time at the inn, Hwan, Jae Yi, Myeong Jin and Ga Ram are faced with another murder case."
+    },
+	{
+      "id": 99751,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 15",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E15.mp4",
+      "description": "The Manyeondang group manages to get the bracelet Sim Yeong gave to Jae Yi and starts to figure out how Jae Yi's family was murdered. The King announces that the Crown Princess selection will take place soon, so Hwan gets ready to let Jae Yi go. Meanwhile, Prince Myeong Han, who was suffering from nightmares, says something shocking."
+    },
+	{
+      "id": 99750,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 16",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E16.mp4",
+      "description": ""
+    },
+	{
+      "id": 99749,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 17",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99748,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 18",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99747,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 19",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99746,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 20",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
     }
 	
 	
