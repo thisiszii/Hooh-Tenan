@@ -30,6 +30,11 @@
    ],
   "Categories": [
 	
+	
+	{
+      "name_category": "Duty After School: Part 1",
+      "image": "https://cdn-2.tstatic.net/suryamalang/foto/bank/images2/Download-Drama-Korea-Duty-Aftr-School-Sub-Indo-Episode-1-6-Tamat-Lengkap-dengan-Sinopsisnya.jpg"
+    },
 	{
       "name_category": "Our Blooming Youth",
       "image": "https://artworks.thetvdb.com/banners/v4/series/409188/backgrounds/63e1a9407eb5d.jpg"
@@ -1488,7 +1493,7 @@
       "title": "Pandora: Beneath the Paradise Episode 5",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E05%20WEB-DL.540p.mp4",
-      "description": ""
+      "description": "When Yu Ra is found dead, Do Jin, who had an affair with Yu Ra, becomes a prime suspect. Soon after, Hae Soo suggests Tae Ra appear on her talk show."
     },
 	{
       "id": 99832,
@@ -1496,23 +1501,23 @@
       "title": "Pandora: Beneath the Paradise Episode 6",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E06%20WEB-DL.540p.mp4",
-      "description": ""
+      "description": "Hae Soo reveals Tae Ra's identity on the talk show. Meanwhile, Sung Chan finds an unexpected item and becomes Tae Ra's ally."
     },
 	{
       "id": 99831,
-      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "name_category": "Pandora: Beneath the Paradise",
       "title": "Pandora: Beneath the Paradise Episode 7",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E07%20WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99830,
-      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "name_category": "Pandora: Beneath the Paradise",
       "title": "Pandora: Beneath the Paradise Episode 8",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E08%20WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99829,
@@ -2019,16 +2024,16 @@
       "name_category": "Divorce Attorney Shin",
       "title": "Divorce Attorney Shin Episode 9",
       "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E09.WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99768,
       "name_category": "Divorce Attorney Shin",
       "title": "Divorce Attorney Shin Episode 10",
       "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E10.WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99767,
@@ -2210,7 +2215,61 @@
       "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
       "link_video": "https://kangmediadev.com/",
       "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	{
+      "id": 99745,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 1",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E01.WEB-DL.540p.mp4",
+      "description": "A year ago, an unidentified ball fell over the world. In order to receive additional points for the SAT, where the national mobilization order was issued, high school students write a consent form, and afterschool war activities begin."
+    },
+	{
+      "id": 99744,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 2",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E02.WEB-DL.540p.mp4",
+      "description": "Leaving behind the heavy sphere that fell to the school, Sungjin High School students begin military training. Children getting used to the training, finally going out of school for the first time since the first training day of the first live ammunition shooting... But didn't they have to come out of school?"
+    },
+	{
+      "id": 99743,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 3",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E03.WEB-DL.540p.mp4",
+      "description": "The surviving children from Class 3-2 return to Sugjin High School. The children who learn the reality of the sphere are conflicted about whether to stay at school or leave for the shelter where their parents are. Soldiers stop the children, who eventually decide to leave. At that time!"
+    },
+	{
+      "id": 99742,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 4",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E04.WEB-DL.540p.mp4",
+      "description": "After a lot of hard work, the 1st car on the way to the garrison after exiting the school suffers from an overturning accident. The children in Car No. 1, who fell out, go to a safe place to treat the injured So Yeon. Will they be able to return safely?"
+    },
+	{
+      "id": 99741,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 5",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E05.WEB-DL.540p.mp4",
+      "description": "Students who are no longer wearing school uniforms but military uniforms get used to garrison life by escaping from the threat of the sphere for a while. However, the hope of returning home is short-lived, and now he is put into operation as a supplementary soldier, not a training soldier."
+    },
+	{
+      "id": 99740,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 6",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E06.WEB-DL.540p.mp4",
+      "description": "In the midst of a crisis of desperation that is dangerous on all sides. Otherwise, everyone could lose their lives. Can the 3-2 squad recruits safely complete the operation and survive?"
     }
+	
+	
 	
 	
 	
