@@ -1,14 +1,14 @@
  { "Ads": [
     {
-     "select_main_ads": "",
+     "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
+      "main_ads_banner": "ca-app-pub-3379099559308238/3606659165",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/7839765256",
+      "main_ads_natives":"ca-app-pub-3379099559308238/6526683587",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-3379099559308238/5213601914",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"2",
@@ -31,11 +31,2246 @@
   "Categories": [
 	
 	
-	
+	{
+      "name_category": "Duty After School: Part 1",
+      "image": "https://cdn-2.tstatic.net/suryamalang/foto/bank/images2/Download-Drama-Korea-Duty-Aftr-School-Sub-Indo-Episode-1-6-Tamat-Lengkap-dengan-Sinopsisnya.jpg"
+    },
+	{
+      "name_category": "Our Blooming Youth",
+      "image": "https://artworks.thetvdb.com/banners/v4/series/409188/backgrounds/63e1a9407eb5d.jpg"
+    },
+	{
+      "name_category": "Divorce Attorney Shin",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/19/1157029146.jpg"
+    },
+	{
+      "name_category": "Oasis",
+      "image": "https://assets.pikiran-rakyat.com/crop/337x524:1599x1367/x/photo/2023/02/06/3524150490.jpg"
+    },
+	{
+      "name_category": "Business Proposal",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/23/4137074397.png"
+    },
+	{
+      "name_category": "Kokdu: Season of Deity",
+      "image": "https://photos.hancinema.net/photos/largephoto1611062.jpg"
+    },
+	{
+      "name_category": "Pandora: Beneath the Paradise",
+      "image": "https://www.nme.com/wp-content/uploads/2023/03/pandora-beneath-the-paradise-review.jpg"
+    },
+	{
+      "name_category": "True Beauty",
+      "image": "https://annyeongkimchiland.files.wordpress.com/2022/08/fe.jpg"
+    },
+	{
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/11/16/1183991976.jpeg"
+    },
+	{
+      "name_category": "Alchemy of Souls",
+      "image": "https://dryedmangoez.com/images/dryedmangoez/2022top20-06.jpg"
+    },
+	{
+      "name_category": "Vincenzo",
+      "image": "https://media.suara.com/pictures/970x544/2021/02/22/59530-poster-drama-korea-vincenzo.jpg"
+    },
+	{
+      "name_category": "Big Mouth",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/15/3962918704.jpg"
+    },
+	{
+      "name_category": "Start-Up",
+      "image": "https://wartabanjar.com/wp-content/uploads/2020/12/Poster-drakor-Start-Up.jpg"
+    },
+	{
+      "name_category": "The Glory Part 2",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2023/02/09/the-glory-part-2-3.jpeg?w=1080"
+    },
+	{
+      "name_category": "The Glory Part 1",
+      "image": "https://s.gohitv.com/origin/e546b1f85fcc4680b2a679536798889f1671689722558.png"
+    },
+	{
+      "name_category": "Call It Love",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/04/3357257333.jpg"
+    },
+	{
+      "name_category": "Taxi Driver Season 2",
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Poster-drama-Korea-Taxi-Driver-Season-2.jpg"
+    },
+    {
+      "name_category": "Taxi Driver Season 1",
+      "image": "https://asianwiki.com/images/2/2f/Taxi_Driver-teaser03S02.jpeg"
+    }
+    
 	
   ],
   "Video": [
-   
+    {
+      "id": 100000,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2001%20540p.mp4",
+      "description": "A mysterious taxi appears in front of Cho Do Chul, a sexual predator, who is released from prison today. Do Ki picks Cho Do Chul up with his taxi and disappears. Maria, a girl from an orphanage attempts to commit suicide from Han River Bridge, and Do Ki comes and saves her. He listens to her tragic story and decides to help. Part 2: Maria requests Rainbow Deluxe Taxi to help her get her revenge. Do Ki and his team prepare themselves and start investigating the factory Maria worked at. Meanwhile, Ha Na tries to find where Cho Do Chul went to and realizes that there is something weird about the deluxe taxi he was in."
+    },
+	{
+      "id": 99990,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2002%20540p.mp4",
+      "description": "Do Ki joins Sung Chul in the taxi service business after his mother’s death. He manages to sneak into Ju Chan’s factory and even puts in an order for their food products. As Do Ki and his team carry out the investigation, they realize that Ju Chan did not only abused disabled workers but also committed frauds to embezzle more money. Ha Na finds the deluxe taxi which Cho Do Chul took but it was all burnt down. She wants to investigate Cho Do Chul’s case further, but the chief prosecutor stops her. She decides to visit Rainbow Transport by herself. Meanwhile, Do Ki and Sung Chul kidnap all three of Ju Chan’s people one by one. "
+    },
+	{
+      "id": 99998,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2003%20540p.mp4",
+      "description": "When Ha Na questions Sung Chul about the deluxe taxi that went missing, she finds out that he has a setback of losing both of his parents to murder. Meanwhile, A young boy from high school who lives with his deaf mother, gets in touch with Rainbow Deluxe Taxi to take revenge on his bullies."
+    },
+	{
+      "id": 99997,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2004%20540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99996,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 5",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2005%20540p.mp4",
+      "description": "Do Ki wakes up from a nightmare after fainting on the street. Although everyone worries about his health, he still chooses to keep working without taking a break. Meanwhile, Ha Na visits Mr. Jang to discuss something. But before she does, she gets a chance to observe a victim-sharing session, which makes a small change in her heart. Part 2: Do Ki gets his hands on the Seo Young Min case file. Ha Na also goes after this case despite Jin Woo’s strict orders to drop it. Now, both Do Ki and Ha Na are after the cruel owner of U data to make him pay for what he did to Young Min. The question now is who will get to him first."
+    },
+	{
+      "id": 99995,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 6",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2006%20540p.mp4",
+      "description": "Do Ki heads to U data for his first day of work. What he finds there is beyond anything any of them could have imagined. Chairman Park Yang Jin is practically worshipped by his employees. Once he figures out that the Strategic Planning Team is the core of the company, Do Ki does everything he can to get transferred there. Part 2: Do Ki manages to find out what kind of people work on the Strategic Planning Team. After a rather extravagant display of his prowess, Do Ki finally gets transferred to the team. Meanwhile, Ha Na finds out about the Strategic Planning Team through Jin Woo. When Ha Na approaches Do Ki, Chairman Park Yang Jin wants to test Do Ki's overly zealous loyalty."
+    },
+	{
+      "id": 99994,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 7",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2007%20540p.mp4",
+      "description": "Jung Eun's suicide surfaces again, and her sister Go Eun gets a glimpse of what caused it all to happen. Sung Chul and Do Ki do what it takes to bring justice to those involved. Do Ki gets on to a lead and heads straight into the heart of where it all begins. Meanwhile, Ha Na asks Do Ki to be their informant. Part 2: The chairman of U data pays a surprise visit to the prosecution and meets with Prosecutor Kang Ha Na. However, her accusations do not affect the chairman surrounded by his big law firm lawyers. Later, Do Ki calls Ha Na to catch them red-handed, but the prosecution’s visit turns out to be worthless."
+    },
+	{
+      "id": 99993,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 8",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2008%20540p.mp4",
+      "description": "Do Ki arrives at Park Yang Jin's vacation home with Jin Won. As he fails to harm Jin Won as Chairman Park commands him to, he ends up getting tied up as well. Meanwhile, Sung Chul attends a meeting at the Prosecutors’ Office about the funding for the Blue Bird Foundation. Finally, Ha Na gets Jin Woo’s approval to raid Chairman Park’s vacation home. Part 2: Go Eun returns to help Do Ki and the others finish Park Yang Jin and U data once and for all. With Go Eun back on his side, Do Ki reveals his identity to Chairman Park and locates the data mine as well. Meanwhile, Ha Na arrives at the vacation home with backup in tow, but when they arrive, Do Ki and his team are already finished with their plans."
+    },
+	{
+      "id": 99992,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 9",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2009%20540p.mp4",
+      "description": "Ha Na finds Do Ki's employee identification card at Park Yang Jin's vacation home, or at least what's left of it after the explosion. She believes that someone stole her suspect and tried to cover up the evidence. As she grows more and more suspicious, Ha Na visits Do Ki to try to get some information out of him. Part 2: Kyung Gu loses money to a voice phishing scam. When he goes to report it to the police, he realizes that he is not the only victim. Sung Chul and the team discuss whether they should take on this voice phishing ring as their next target. Once they decide to do so, Jin Eon and Do Ki go undercover."
+    },
+	{
+      "id": 99991,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2010%20540p.mp4",
+      "description": "Do Ki disguises himself as a burner phone peddler, Mr. Wang, from Harbin. Using his good looks, he tries to win the heart of the boss of the voice phishing ring, Madam Lim. However, things start to get complicated when Ha Na arrives on the scene of their undercover operation and Jin Won's cover is blown. Part 2: Do Ki pretends to be on the run from the law and tells Madam Lim that he must leave the following day. Not knowing that this is all part of Do Ki’s plan, Madam Lim’s feelings for Mr. Wang grow deeper. Meanwhile, Go Eun fiddles with Madam Lim’s bank account and tricks her into revealing her bank information."
+    },
+	{
+      "id": 99990,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 11",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2011%20540p.mp4",
+      "description": "Ha Na closes in on Do Ki and the Rainbow Transport team, and she decides to search Sung Chul's house. However, the search proves to be in vain as nothing suspicious turns up. Meanwhile, Do Ki meets the family of the victim in a murder case without a body. When he sees that the suspect is Chairman Baek's man, he contemplates what to do. Part 2: Ha Na tries to find evidence that Gu Young Tae is guilty of murdering Ko Dong Hee, but it isn’t an easy feat. She tries to get Sim Woo Sub, one of Gu Young Tae’s men, to turn on him. However, as he finally gets some information, he gets into trouble. As Ha Na and Min Ho chase down the suspect, they walk straight into danger."
+    },
+	{
+      "id": 99989,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 12",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2012%20540p.mp4",
+      "description": "After Min Ho's death, Ha Na is determined to catch his killer. She succeeds in having Gu Young Tae arrested, as he is the lead suspect in this case. However, without any real evidence, the prosecution has no choice but to set him free. Ha Na goes to Do Ki, who has already been chasing Gu Young Tae, and asks for his help. Part 2: Ha Na questions Chairman Baek about MH Trading since she is their biggest investor, but she denies knowing anything about it or what they do. The investigation continues and it leads to the discovery of a large organ trafficking ring. Do Ki and the team at Rainbow Transport find a surprise when they go to the private jail."
+    },
+	{
+      "id": 99987,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 13",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2013%20540p.mp4",
+      "description": "Ha Na searches all over for Gu Young Tae, even calling Baek Sung Mi in for an interview and barging into the Embassy of the Bahamas where she has ties. Do Ki ends up finding Gu Young Tae, and Ha Na asks Do Ki to hand him over. However, Do Ki plans an exchange to get the criminals back. Part 2: Ha Na implores Do Ki to hand over Gu Young Tae and to stop trying to get revenge, but Do Ki has a plan of his own. Meanwhile, Sung Mi suggests to the criminals that they get their revenge on the Rainbow Transport team. As Do Ki gets arrested, the criminals each go looking for their own revenge."
+    },
+	{
+      "id": 99986,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 14",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2014%20540p.mp4",
+      "description": "The Rainbow Transport team faces off with Baek Sung Mi, Gu Seok Tae, and the criminals. Choi Min tries to film a video of Go Eun, just like he did with her sister Jung Eun. Do Ki and Jin Won must save the rest of the team and Do Ki shows up to save Go Eun just in time. However, Park Ju Chan rams a truck into the taxi that Jin Won is driving. Part 2: Do Ki decides that he can't stand by and watch his people get hurt anymore, and he sets out for revenge, burning with rage. As Go Eun waits for Jin Won to get out of surgery, Do Ki goes to save Sung Chul and Kyung Gu. Ha Na and the police come to arrest the criminals, but Baek Sung Mi gets away. Finally, Do Ki chases her down."
+    },
+	{
+      "id": 99985,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 15",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2015%20540p.mp4",
+      "description": "Sung Chul and Do Ki decide to disband Rainbow Transport and stop getting revenge. Do Ki tells Ha Na all about what they used to do. However, a man claiming to be the killer of Do Ki's mom suddenly appears and says that the man who was previously arrested for the crime was just lying. Part 2: Ha Na and Jin Woo go and apologize to the man who was blamed for killing a teenage girl in place of Oh Chul Young. He contacts Rainbow Taxi, asking for revenge, but Sung Chul tries to refuse the case. However, Do Ki says that this will be their last case, not knowing what he is about to discover regarding his own mom’s murder."
+    },
+	{
+      "id": 99984,
+      "name_category": "Taxi Driver Season 1",
+      "title": "Taxi Driver Episode 16",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282021%29%2fTD%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "The notorious serial killer Oh Chul Young turns out to be the murderer who killed Do Ki's mother and Sung Chul's parents. Also, there is a man named Kim Chul Jin who had to serve 20 years in prison for a crime that Oh Chul Young committed. Despite Rainbow Transport's ups and downs, they decide to carry out their last revenge. Part 2: Ha Na decides not to arrest Do Ki, even though he insists that he should be punished for his actions. A year goes by and Baek Sung Mi and the twins receive their final verdicts, while Oh Chul Young begs for forgiveness at Kim Chul Jin’s retrial. The Rainbow Transport members also move onto the next chapter of their lives."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99983,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 1",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2001%20540p.mp4",
+      "description": "Despite the disbandment of Rainbow Taxi, Do Gi is still out there going after bad guys. While keeping it from the rest of the members, Do Gi and Seong Cheol secretly help out a father who is searching for his missing son. To confirm his whereabouts, Do Gi sets off abroad to a foreign country to accomplish his first mission."
+    },
+	{
+      "id": 99982,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 2",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2002%20540p.mp4",
+      "description": "Do Gi successfully infiltrates Cheongeum with the help of his old crew. He pretends to be an abducted recruit but secretly searches for Dong Jae. During the search, he runs into Lim Bok Ja. He uses her revengeful anger to make it easier to find the missing boy. Just when he is about to capture the mastermind, a mysterious gunshot interrupts his arrest."
+    },
+	{
+      "id": 99981,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 3",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2003%20540p.mp4",
+      "description": "An elderly woman visits Rainbow Transport as a victim. She owes a lot of money because of a young scammer who only rips money off old people. Do Gi and the team get infuriated upon seeing this and set up a plan to prevent this criminal from ever scamming the elderly again."
+    },
+	{
+      "id": 99980,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 4",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2004%20540p.mp4",
+      "description": "Rainbow Transport officially begins its operation to bring punishment to Sang Gi. The plan mainly depends on Seong Cheol being a loaded old man as bait. As soon as Sang Gi sees this and plans to scam him, he does not realize the karma that he is about to face. Meanwhile, the secret organization Do Gi is after is also keeping an eye on Do Gi as well."
+    },
+	{
+      "id": 99979,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 5",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2005%20540p.mp4",
+      "description": "Do Gi runs into a stray little girl on the street. Out of concern, he takes her to Rainbow Transport and learns that suspicious people are after her. Do Gi and the team tries to infiltrate Feel Consulting and get some info on Kang Pil Seung to find out why he is in search of this poor little girl."
+    },
+	{
+      "id": 99978,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 6",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2006%20540p.mp4",
+      "description": "Do Gi and Go Eun get busted by Pil Seung for putting up an act. However, Do Gi manages to win back his trust by acting how desperate he is for a house. Now that they are back on track, Do Gi learns how Pil Seung is able to help couples get housing by using children. Disgusted by his ways, the team is determined to bring down Pil Seung at all costs."
+    },
+	{
+      "id": 99977,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 7",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2007%20540p.mp4",
+      "description": "The following client is a woman named Lee Jin Hee. Her beloved sister Jin Sun is suffering from a terminal disease and is relying on a cult to cure her. Rainbow Transport begins service to save her from the cult and take down its leader. However, Do Gi is not the one who will be infiltrating the cult this time."
+    },
+	{
+      "id": 99976,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 8",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2008%20540p.mp4",
+      "description": "The plan to destroy Ok Ju Man is now set. The only thing that remains is for Ju Man to take the bait. Although he does not have faith in any kind of religion, the Rainbow Transport team makes it seem believable. By setting the perfect scam, Ok Ju Man becomes faithful to the fake cult that Do Gi makes."
+    },
+	
+	{
+      "id": 99975,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 9",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2009%20540p.mp4",
+      "description": "The plan to destroy Ok Ju Man is now set. The only thing that remains is for Ju Man to take the bait. Although he does not have faith in any kind of religion, the Rainbow Transport team makes it seem believable. By setting the perfect scam, Ok Ju Man becomes faithful to the fake cult that Do Gi makes."
+    },
+	{
+      "id": 99974,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 10",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2010%20540p.mp4",
+      "description": "Do Gi becomes a patient himself to infiltrate the operating room. When he is put to sleep, Go Eun finds out that there is a proxy who does the actual surgery while Young Sook goes somewhere else for a drink. Now that the team knows she is a complete fraud, they set up a meticulous plan to bring the witch down."
+    },
+	{
+      "id": 99973,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 11",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2011%20540p.mp4",
+      "description": "Do Gi makes it out alive from the car bomb explosion. He uses his death to track down the person behind the vicious attack. While his funeral progresses, Do Gi and the team monitor any suspicious people coming and going, which leads them to a club for the rich in Gangnam. Do Gi makes his entrance to find out more."
+    },
+	{
+      "id": 99972,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 12",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2012%20540p.mp4",
+      "description": "After Do Gil gets kicked out from Black Sun and gets beaten up, the police arrive. However, the police arrest Do Gi instead. Although Yong Min helps to bail him out, Do Gi now knows that the police are working with Black Sun. Rainbow Transport infiltrates the club to take them down for all the crimes they are committing."
+    },
+	{
+      "id": 99971,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 13",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99970,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 14",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99969,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 15",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99968,
+      "name_category": "Taxi Driver Season",
+      "title": "Taxi Driver Episode 16",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	{
+      "id": 99967,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2001%20540p.mp4",
+      "description": "Woo Joo loses her home to someone else, so she goes out to reclaim it. Dong Jin faces financial problems due to Shin Woo Fair's downright interference."
+    },
+	{
+      "id": 99966,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2002%20540p.mp4",
+      "description": "Best Fairs' business secrets are leaked while evidence points to Woo Joo as the culprit. A few days later, Woo Joo receives a phone call from Dong Jin."
+    },
+	{
+      "id": 99965,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2003%20540p.mp4",
+      "description": "Woo Joo receives an unexpected offer, and CEO Shin plans to destroy Best Fair."
+    },
+	{
+      "id": 99964,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2004%20540p.mp4",
+      "description": "Best Fair's project is put on hold, and Woo Joo has a secret rendezvous."
+    },
+	{
+      "id": 99963,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 5",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2005%20540p.mp4",
+      "description": "Woo Joo wavers as Dong Jin falls apart. Things proceed according to CEO Shin's plans."
+    },
+	{
+      "id": 99962,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 6",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2006%20540p.mp4",
+      "description": "Best Fair is driven to the brink. Amidst the chaos, Woo Joo and Dong Jin are contacted separately. "
+    },
+	{
+      "id": 99961,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 7",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2007%20540p.mp4",
+      "description": "Ji Goo is one step closer to finding out Dong Jin's identity, and Woo Joo fixes her mistakes."
+    },
+	{
+      "id": 99960,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 8",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2008%20540p.mp4",
+      "description": "Woo Joo asks Dong Jin for a favor. Someone begins to question Woo Joo's identity."
+    },
+	{
+      "id": 99959,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 9",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2009%20540p.mp4",
+      "description": "CEO Shin tries to win over Woo Joo, but Woo Joo and Dong Jin work as a team."
+    },
+	{
+      "id": 99958,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2010%20540p.mp4",
+      "description": "Jun's concerns deepen, and Dong Jin musters up the courage to face Woo Joo."
+    },
+	{
+      "id": 99957,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 11",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2011%20540p.mp4",
+      "description": "Woo Joo tells Hyun Joo what she has been up to, and someone reveals those secrets to Sun Woo. "
+    },
+	{
+      "id": 99956,
+      "name_category": "Call It Love",
+      "title": "Call It Love Episode 12",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2012%20540p.mp4",
+      "description": "An unwelcome guest visits Dong Jin's house. A suspicious man approaches Hyun Joo with information."
+    },
+	{
+      "id": 99955,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 13",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99954,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 14",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99953,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 15",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99952,
+      "name_category": "Call It Love Ongoing",
+      "title": "Call It Love Episode 16",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99951,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 1",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2001%20540p.mp4",
+      "description": "Tormented by her high school classmates and with nowhere to turn for help, Moon Dong Eun sinks into despair before deciding on a new mission in life."
+    },
+	{
+      "id": 99950,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 2",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2002%20540p.mp4",
+      "description": "With Park Yeon Jin’s wedding on the way, Dong Eun’s revenge rolls out according to plan. Meanwhile, a fateful encounter at a hospital takes place."
+    },
+	{
+      "id": 99949,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 3",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2003%20540p.mp4",
+      "description": "After securing the services of an amateur sleuth, Dong Eun uncovers scandalous secrets that she leverages for the next phase of her scheme."
+    },
+	{
+      "id": 99948,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 4",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2004%20540p.mp4",
+      "description": "Already on edge over the past resurfacing, Yeon Jin grows more anxious when she learns about her daughter's new homeroom teacher — and of a sudden death."
+    },
+	{
+      "id": 99947,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 5",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2005%20540p.mp4",
+      "description": "While Ha Do Yeong comes across an intriguing game opponent, Yeon Jin realizes her deepest secrets are at stake when she tries to intimidate Dong Eun. "
+    },
+	{
+      "id": 99946,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 6",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2006%20540p.mp4",
+      "description": "Son Myeong Oh's sudden absence causes tension in the friend group. Dong Eun finds her trust in Kang Hyun Nam tested."
+    },
+	{
+      "id": 99945,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 7",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2007%20540p.mp4",
+      "description": "Dong Eun shares her traumatic past with Joo Yeo Jeong, who has unfinished business of his own. A new plan is put in place for Hyeon Nam’s daughter."
+    },
+	{
+      "id": 99944,
+      "name_category": "The Glory Part 1",
+      "title": "The Glory Part 1 Episode 8",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d327a19ffeb1a00014c6773/de64636d-9ddb-4eb0-92be-b3f21db3efc1/The_Glory-p2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282022%29%2fTGlory%20Eps%20-%2008%20540p.mp4",
+      "description": "Do Yeong meets with Choi Hye Jeong to find out more about his wife — and her past. Yeon Jin digs into Dong Eun’s private life."
+    },
+	
+	
+	
+	
+	{
+      "id": 99943,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 1",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2001%20540p.mp4",
+      "description": "Questions arise over Myeong Oh, Dong Eun gives Yeon Jin a chance to come clean about her past, and the circumstances of Yoon So Hee's death are revealed."
+    },
+	{
+      "id": 99942,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 2",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2002%20540p.mp4",
+      "description": "Yeon Jin threatens Hyeon Nam after discovering her involvement with Dong Eun. Yeo Jeong devises a way to get the truth out of Yeon Jin."
+    },
+	{
+      "id": 99941,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 3",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2003%20540p.mp4",
+      "description": "Hye Jeong finds an incriminating recording on Myeong Oh's tablet, and Hyeon Nam receives an unwelcome visitor as she prepares to send her daughter abroad. "
+    },
+	{
+      "id": 99940,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 4",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2004%20540p.mp4",
+      "description": "Dong Eun's end game comes into focus as she sends Jae Jun a troubling package and orchestrates a plan to take down Yeon Jin and Lee Sa Ra."
+    },
+	{
+      "id": 99939,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 5",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2005%20540p.mp4",
+      "description": "As Sa Ra and Yeon Jin deal with the aftermath of their crumbling reputations, Dong Eun learns the details behind Yeo Jeong's private struggles."
+    },
+	{
+      "id": 99938,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 6",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2006%20540p.mp4",
+      "description": "Yeon Jin and Shin Yeong Jun panic over Myeong Oh. Dong Eun takes care of a lingering problem. Yeon Jin's mother schemes to remove a threat."
+    },
+	{
+      "id": 99937,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 7",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2007%20540p.mp4",
+      "description": "Do Yeong issues an ultimatum. Dong Eun demands a piece of evidence be handed over. Yeon Jin attempts to do damage control after old videos appear online."
+    },
+	{
+      "id": 99936,
+      "name_category": "The Glory Part 2",
+      "title": "The Glory Part 2 Episode 8",
+      "image": "https://asianwiki.com/images/0/0d/The_Glory_Part_2-mp1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Glory%20%282023%29%2fTGlory2%20Eps%20-%2008%20540p.mp4",
+      "description": "As the final pieces of Dong Eun's revenge plot slot into place, she considers what comes next- and what it will mean for Yeo Jeong."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99935,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 1",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2001%20540p.mp4",
+      "description": "The spring Seo Dal-mi lost everything, Nam Do-san's letters kept her company. Fifteen years later, she needs him by her side to prove Won In-jae wrong. "
+    },
+	{
+      "id": 99934,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 2",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2002%20540p.mp4",
+      "description": "To preserve Dal-mi's past and to support her future, Choi Won-deok asks Han Ji-pyeong to pull off an impossible task."
+    },
+	{
+      "id": 99933,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 3",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2003%20540p.mp4",
+      "description": "Ji-pyeong scrambles to transform Do-san into the man of Dal-mi's dreams. A rude awakening prompts In-jae to close one door and open another."
+    },
+	{
+      "id": 99932,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 4",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2004%20540p.mp4",
+      "description": "Despite differing pasts, Dal Mi and In Jae fight for their dreams at the same starting line. Ji Pyeong sets out to protect Dal Mi and help Do San."
+    },
+	{
+      "id": 99931,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 5",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2005%20540p.mp4",
+      "description": "Dal-mi and In-jae present their teams' ideas on the hackathon stage. A story about Dal-mi's upbringing moves Ji-pyeong to fight for her success."
+    },
+	{
+      "id": 99930,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 6",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2006%20540p.mp4",
+      "description": "In-jae uses lessons from her father and stepfather to her advantage. A clash over company shares tests Dal-mi, who turns to Ji-pyeong for advice."
+    },
+	{
+      "id": 99929,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 7",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2007%20540p.mp4",
+      "description": "Grappling with his feelings for Dal Mi, Ji Pyeong avoids her. Do San's knowledge of Won Deok's condition inspires a business idea for Samsan Tech."
+    },
+	{
+      "id": 99928,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 8",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2008%20540p.mp4",
+      "description": "Devastating news gives Dal Mi another reason to make the app a success. Won Du Jeong's plan to teach Do San and Dal Mi a lesson backfires."
+    },
+	{
+      "id": 99927,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 9",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2009%20540p.mp4",
+      "description": "Do-san and Ji-pyeong struggle to bear the weight of their untold truths. Doubts and a mix-up lead Dal-mi to the place where it all started."
+    },
+	{
+      "id": 99926,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 10",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2010%20540p.mp4",
+      "description": "Ji-pyeong gives Dal-mi long-awaited answers and a confession. Seeking success on his own terms, Do-san considers a golden opportunity."
+    },
+	{
+      "id": 99925,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 11",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2011%20540p.mp4",
+      "description": "Kim Yong-san forces Ji-pyeong to reflect on his past remarks. In-jae and Dal-mi's companies showcase rivaling programs using the same technology."
+    },
+	{
+      "id": 99924,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 12",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2012%20540p.mp4",
+      "description": "Alex Kwon shows his true colors, proving Ji-pyeong right and fulfilling Samsan Tech's worst fears. Do-san tells Ji-pyeong about Won-deok's health."
+    },
+	{
+      "id": 99923,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 13",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2013%20540p.mp4",
+      "description": "Dal-mi and In-jae's self-driving car is hit by a ransomware attack. Samsan Tech founders return after a successful three-year stint in San Francisco."
+    },
+	{
+      "id": 99922,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 14",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2014%20540p.mp4",
+      "description": "Tasked with recruiting top developers into her company, Dal-mi pitches her idea at Samsan Tech. Do-san gets away to clear his head."
+    },
+	{
+      "id": 99921,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 15",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2015%20540p.mp4",
+      "description": "Jung Sa-ha and Lee Chul-san begin dating in secret. A boozy, heartfelt conversation with Do-san helps Ji-pyeong make a decision about Dal-mi."
+    },
+	{
+      "id": 99920,
+      "name_category": "Start-Up",
+      "title": "Start-Up Episode 16",
+      "image": "https://www.dreamers.id/img_editor/39989/images/start-up-poster-drama-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fStart-Up%20%282020%29%2fSU%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "Do-san and Dal-mi envision new goals for their future. Ji-pyeong finds a way to pay forward his gratitude for Won-deok. In-jae returns to her roots."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99919,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 1",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2001%20540p.mp4",
+      "description": "Chang Ho, who has no money and is about to lose his wife, receives a call from the mayor of Gucheon."
+    },
+	{
+      "id": 99918,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 2",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2002%20540p.mp4",
+      "description": "Chang Ho is charged with drug abuse and locked up in Gucheon Prison. But wait, Chang Ho is Big Mouse?"
+    },
+	{
+      "id": 99917,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 3",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2003%20540p.mp4",
+      "description": "Who made Chang Ho, Big Mouse, and why? However, he needs to be recognized as such to protect Mi Ho."
+    },
+	{
+      "id": 99916,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 4",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2004%20540p.mp4",
+      "description": "Is Changho really Big Mouse? Gong Ji Hoon makes a bet with Chang Ho to find out his true identity."
+    },
+	{
+      "id": 99915,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 5",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2005%20540p.mp4",
+      "description": "Ji Hoon approaches Mi Ho to find Seo Jae Young's thesis. Does Mi Ho know Chang Ho's true identity?"
+    },
+	{
+      "id": 99914,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 6",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2006%20540p.mp4",
+      "description": "Has Chang Ho been lying to Mi Ho? Mi Ho joins the prison medical volunteer program to meet Chang Ho."
+    },
+	{
+      "id": 99913,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 7",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2007%20540p.mp4",
+      "description": "Jae Ho warns Chang Ho to stop looking into Seo Jae Young's thesis. Mi Ho is suddenly attacked."
+    },
+	{
+      "id": 99912,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 8",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2008%20540p.mp4",
+      "description": "Changho is in a mental hospital. Will Changho be able to hide his identity in a state of confusion?"
+    },
+	{
+      "id": 99911,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 9",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2009%20540p.mp4",
+      "description": "Chang Ho stands as an informant in Seo Jae Young's trial, and Jih Hoon and Jung Rak search for Chang Ho. "
+    },
+	{
+      "id": 99910,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 10",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2010%20540p.mp4",
+      "description": "Chang Ho calls out Big Mouse, and they respond. An unexpected character turns up at the agreed time."
+    },
+	{
+      "id": 99909,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 11",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2011%20540p.mp4",
+      "description": "Chang Ho shifts the power dynamics in the prison to pressure Big Mouse. Do Ha plants a new warden."
+    },
+	{
+      "id": 99908,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 12",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2012%20540p.mp4",
+      "description": "The warden plans to use the prison riots to take out Changho and Miho."
+    },
+	{
+      "id": 99907,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 13",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2013%20540p.mp4",
+      "description": "The hot-plate restaurant is in ruins. The agitated Chang Ho meets someone unexpected there."
+    },
+	{
+      "id": 99906,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 14",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2014%20540p.mp4",
+      "description": "Chang Ho makes a tempting offer to Chairman Kang. Do Ha conspires with Yoon Gab to get rid of Chang Ho."
+    },
+	{
+      "id": 99905,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 15",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2015%20540p.mp4",
+      "description": "Chang Ho prepares for the full-fledged elections against Do Ha, but Mi Ho's health is in trouble. "
+    },
+	{
+      "id": 99904,
+      "name_category": "Big Mouth",
+      "title": "Big Mouth Episode 16",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/22/2840350976.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBig%20Mouth%20%282022%29%2fBM%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "The TV debate begins, and Mi Ho almost has the smoking gun that will bring down Choi Do Ha."
+    },
+	
+	
+	
+	
+	{
+      "id": 99903,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 1",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2001%20540p.mp4",
+      "description": "Vincenzo Cassano's homecoming is met by distrusting tenants and eager fraudsters. Hong Yu-chan relinquishes his parental rights to Hong Cha-young. "
+    },
+	{
+      "id": 99902,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 2",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2002%20540p.mp4",
+      "description": "Warned about a scheduled demolition of Geumga Plaza, Vincenzo contrives to thwart the attack. Yu-chan receives a call from a whistleblower."
+    },
+	{
+      "id": 99901,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 3",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2003%20540p.mp4",
+      "description": "Vincenzo warns an impassioned Yu Chan about the dangers of a new drug and its even more harmful pharmaceutical company. Choi Myung Hee shows her claws."
+    },
+	{
+      "id": 99900,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 4",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2004%20540p.mp4",
+      "description": "Fighting fire with fire, Yu-chan's supporters unite their efforts to carry out his vision of justice. Vincenzo employs Myung-hee's tactics against her. "
+    },
+	{
+      "id": 99899,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 5",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2005%20540p.mp4",
+      "description": "Jang Joon Woo reminds Jang Han Seo who's the boss. The tenants rally around Vincenzo and Cha Young, who team up to take down Babel Group."
+    },
+	{
+      "id": 99898,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 6",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2006%20540p.mp4",
+      "description": "Both sides use every trick in the book to cause disturbances in and out of the courtroom. Han Seung-hyuk and Myung-hee are introduced to Babel's CEO."
+    },
+	{
+      "id": 99897,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 7",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2007%20540p.mp4",
+      "description": "Stumped by surprise witnesses, Joon-woo and Myung-hee direct their rage toward Cha-young. The tenants gain new appreciation for their building."
+    },
+	{
+      "id": 99896,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 8",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2008%20540p.mp4",
+      "description": "Angered by another conglomerate and its generations of unpunished crimes, Vincenzo tries to charm a young bank president out of investing in Babel."
+    },
+	{
+      "id": 99895,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 9",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2009%20540p.mp4",
+      "description": "Joon-woo wields his power to force loyalty from his partners. Cha-young finds refuge in Vincenzo's apartment following a break-in."
+    },
+	{
+      "id": 99894,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 10",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2010%20540p.mp4",
+      "description": "Seeking revenge instead of liability for the loss of more innocent victims, Vincenzo put his life on the line to lure Babel's CEO out of hiding."
+    },
+	{
+      "id": 99893,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 11",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2011%20540p.mp4",
+      "description": "The search for Jang Han-seok begins with torturing his lackeys for information. An Gi-seok flashes his work badge to free Vincenzo from prosecution."
+    },
+	{
+      "id": 99892,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 12",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2012%20540p.mp4",
+      "description": "Han-seo faces unintended consequences when he takes a shot at Babel's throne. Vincenzo and Cho Ju-yeong finally get Geumga Plaza to themselves."
+    },
+	{
+      "id": 99891,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 13",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2013%20540p.mp4",
+      "description": "Ju-yeong reveals his true motive. As incoming CEO, Han-seok is met with admiration, applause and a mafia-styled surprise from Vincenzo."
+    },
+	{
+      "id": 99890,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 14",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2014%20540p.mp4",
+      "description": "To expose Han-seok’s paper company, Vincenzo and Cha-young go undercover as an enamored couple. Seo Mi-ri reveals her high-tech tricks."
+    },
+	{
+      "id": 99889,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 15",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2015%20540p.mp4",
+      "description": "With ample evidence to lock up Han-seok, Jung In-kuk holds a press conference. Vincenzo channels spirits to turn an ill-famed newspaper against Babel."
+    },
+	{
+      "id": 99888,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 16",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2016%20540p.mp4",
+      "description": "Maddened by Vincenzo's ability to slip out of another one of his bloody traps, Han-seok goes after what Vincenzo cherishes the most."
+    },
+	{
+      "id": 99887,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 17",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2017%20540p.mp4",
+      "description": "A grieving Vincenzo crashes a party to bleed Babel Group dry of its powerful allies. Seung-hyuk reaches out to a high-level commander for help."
+    },
+	{
+      "id": 99886,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 18",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2018%20540p.mp4",
+      "description": "Fearing for his life, Han Seok goes to jail to bide some time. A visitor from Italy tells Vincenzo his help is urgently needed back home."
+    },
+	{
+      "id": 99885,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 19",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2019%20540p.mp4",
+      "description": "Vincenzo and Cha-young present damning evidence against Babel Tower and its influential cronies. Myung-hee proves her loyalty towards Han-seok."
+    },
+	{
+      "id": 99884,
+      "name_category": "Vincenzo",
+      "title": "Vincenzo Episode 20",
+      "image": "https://i.pinimg.com/originals/d9/21/a4/d921a401b2a1f3a9aedc957308ad596f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fVincenzo%20%282021%29%2fVincenzo%20Eps%20-%2020%20END%20540p.mp4",
+      "description": "Han Seok lets nothing stand in his way of revenge. Seeking justice the Mafia way, Vincenzo gives his enemies a slow and painful death."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99883,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 1",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20eps%20-%2001%20540p.mp4",
+      "description": "Naksu casts one last spell to save her soul. Jang Uk looks for the only sorcerer who would dare to help him. Mu-deok gets taken under a new master."
+    },
+	{
+      "id": 99882,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 2",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2002%20540p.mp4",
+      "description": "When Mu Deok refuses Uk's proposal to form an alliance, he convinces her in other ways. Park Jin barricades Songrim to catch a spy."
+    },
+	{
+      "id": 99881,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 3",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2003%20540p.mp4",
+      "description": "Mu Deok sets the terms before beginning proper training. Uk discovers that Heo Yeom left him with a gift he must learn to claim as his own."
+    },
+	{
+      "id": 99880,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 4",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2004%20540p.mp4",
+      "description": "Uk suffers a fever and chills, much to Mu-deok's delight. The Crown Prince visits the Jang household, demanding a family heirloom and a show of respect."
+    },
+	{
+      "id": 99879,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 5",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2005%20540p.mp4",
+      "description": "Mu Deok and Uk arrive at a secluded, empty cabin. Jin Mu orders a body dump. Jin Ho Gyeong offers protection for Uk... at a cost."
+    },
+	{
+      "id": 99878,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 6",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2006%20540p.mp4",
+      "description": "Seo Yul and Park Dang Gu visit Uk at his training ground. Mu Deok pushes her student to the extreme. Jin Cho Yeon prepares a wedding gift."
+    },
+	{
+      "id": 99877,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 7",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2007%20540p.mp4",
+      "description": "The Prince encounters an illusion. Uk demands entry into Jinyowon. Gil Ju goes after Naksu to acquire a body."
+    },
+	{
+      "id": 99876,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 8",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2008%20540p.mp4",
+      "description": "Gil Ju stumbles into town to satisfy his hunger. Uk follows closely behind him. Rumors surface of Naksu's comeback."
+    },
+	{
+      "id": 99875,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 9",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2009%20540p.mp4",
+      "description": "Jin Ho Gyeong looks for her long-lost child. Jin Mu devises a plan to help end that search. Uk and Mu Deok are driven apart."
+    },
+	{
+      "id": 99874,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 10",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2010%20540p.mp4",
+      "description": "Uk is given a book to read. Yul saves a girl at the market. Mu Deok goes through an intensive selection process to become a servant at Songrim."
+    },
+	{
+      "id": 99873,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 11",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2011%20540p.mp4",
+      "description": "Uk loses the will to train. Mu Deok makes a bet with the Prince. At Cheonbugwan, a line of blind girls await judgment."
+    },
+	{
+      "id": 99872,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 12",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2012%20540p.mp4",
+      "description": "An unusual death draws Park Jin’s attention. Uk learns of Naksu’s tragic past. Maid Kim sends Mu Deok on an errand to Cheonbugwan."
+    },
+	{
+      "id": 99871,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 13",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2013%20540p.mp4",
+      "description": "A sudden lightning strike causes damage to Cheonbugwan. Park Jin and Jin Mu dispute who's to blame. Master Lee takes Uk on a special fishing trip."
+    },
+	{
+      "id": 99870,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 14",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2014%20540p.mp4",
+      "description": "Uk faces his tenth and final opponent with a trick or two up his sleeve. Seo Yul keeps Mu Deok close. Jin U Tak plays a trick on his daughter."
+    },
+	{
+      "id": 99869,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 15",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2015%20540p.mp4",
+      "description": "Mu Deok is caught at the site of a bloody murder. Master Lee presents the royal family with a gift and a prophecy. So Yi tracks down a blind friend."
+    },
+	{
+      "id": 99868,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 16",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2016%20540p.mp4",
+      "description": "Park Jin and Jin Ho Gyeong get into a heated dispute as they both lay claim to an artifact. Uk runs into the Prince while on the search for a shaman."
+    },
+	{
+      "id": 99867,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 17",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2017%20540p.mp4",
+      "description": "Mu Deok investigates Jin Bu Yeon’s true identity. Jin Mu convinces Jin Ho Gyeong to make a special announcement at an important assembly."
+    },
+	{
+      "id": 99866,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 18",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2018%20540p.mp4",
+      "description": "Trapped inside an enchanted force field, Mu Deok explores her newfound powers but soon learns of its drawbacks. So Yi makes a deal with a soul shifter."
+    },
+	{
+      "id": 99865,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 19",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2019%20540p.mp4",
+      "description": "Uk comes up with a solution to break the force field that would require him to risk it all. Dang Gu and Cho Yeon make a startling discovery."
+    },
+	{
+      "id": 99864,
+      "name_category": "Alchemy of Souls",
+      "title": "Alchemy of Souls Episode 20",
+      "image": "https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%20%282022%29%2fAOS%20Eps%20-%2020%20END%20540p.mp4",
+      "description": "Love is in the air with a wedding on the way and Uk playing matchmaker. Jin Mu appoints an assassin to do his dirty work and become his scapegoat."
+    },
+	
+	
+	
+	
+	
+	
+	{
+      "id": 99863,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 1",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2001%20540p.mp4",
+      "description": "A search leads Uk into Jinyowon, where he runs into a mysterious woman who is planning an escape. Meanwhile, haunting visions of the dead trouble him."
+    },
+	{
+      "id": 99862,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 2",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2002%20540p.mp4",
+      "description": "Jin Ho Gyeong makes a family secret public. Jin Bu Yeon finds new shelter but realizes that her freedom is limited and time is running out."
+    },
+	{
+      "id": 99861,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 3",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2003%20540p.mp4",
+      "description": "A debate surrounding a secret wedding ends with a shocking announcement. Jin Ho Gyeong tries to summon Bu Yeon back by causing her excruciating pain."
+    },
+	{
+      "id": 99860,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 4",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2004%20540p.mp4",
+      "description": "Flashes of another's memory leads Bu-yeon to find out more about Uk's past heartbreak. News of a feared assassin's return shakes the whole kingdom."
+    },
+	{
+      "id": 99859,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 5",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2005%20540p.mp4",
+      "description": "Yul uncovers the mystery of his ill health as So I becomes desperate to save him. Uk and Bu Yeon continue to hit barriers in their relationship."
+    },
+	{
+      "id": 99858,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 6",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2006%20540p.mp4",
+      "description": "While Yul bears the burden of a heavy secret, Uk investigates a conspiracy involving a mysterious animal that could cause a devastating drought."
+    },
+	{
+      "id": 99857,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 7",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2007%20540p.mp4",
+      "description": "To save a fatally injured mage, Uk gives Jin Mu a firm warning and asks Jin Ho Gyeong for help, who agrees to cooperate under one condition."
+    },
+	{
+      "id": 99856,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 8",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2008%20540p.mp4",
+      "description": "Go Won presents Uk with a choice. Jin Mu sets the next step of his plan in motion. Heo Yun Ok requests to meet Bu Yeon in private."
+    },
+	{
+      "id": 99855,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 9",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2009%20540p.mp4",
+      "description": "As the search for the ice stone continues, Uk reaffirms his alliances while Jin Mu prepares for battle with an army of loyal soul shifters."
+    },
+	{
+      "id": 99854,
+      "name_category": "Alchemy of Souls: Light and Shadow",
+      "title": "Alchemy of Souls: Light and Shadow Episode 10",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/11/23/ljwjpeg-20221123021103.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fAlchemy%20of%20Souls%3a%20Light%20and%20Shadow%20%282022%29%2fAOS2%20Eps%20-%2010%20END%20540p.mp4",
+      "description": "Jin Ho Gyeong takes a risk to protect Jinyowon and its treasures from attack. Having had a glimpse into the future, Uk braces for the inevitable."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99853,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 1",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2001%20540p.mp4",
+      "description": "Whilst being bullied for her looks, Lim Joo Gyung finds comfort in Hyun Bin, a guy who seems to share a common music interest. Falling for his charms, she plans to confess her love to him when she gets recorded by her friend being rejected and made fun of. Being depressed about becoming a laughing stock and having an ugly face inherited from her mother, Lim Joo Gyung decides to jump off the building but backs away as she realises, she does not want to die. Just as she is about to back off, Lee Su Ho (Cha Eun Woo) pulls her back, knocking the glasses from her face. Unable to see, and stumbling down the stairs due to out-of-order elevator, Lee Su Ho decides to help her by carrying her on his back. Lim Joo Gyung safely returns home to a ruckus, while crying, asks her family as to why she doesn’t have her fathers looks. In her room, she questions online, as to how to become beautiful. Amongst many suggestions, someone recommends make up. She tries it by going online and looking at various videos, but ultimately fails as she shows up to school with a horrible make up that gets her more made fun of. Coming back to online, the second time she finally gets various commentators to recommend her products and techniques, and is able to pull off a face changing make up. Now with a make up that makes her “beautiful” and a new school in which Lee Su Ho also attends, she starts a new life with a new face, leaving behind her “ugly face” home."
+    },
+	{
+      "id": 99852,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 2",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2002%20540p.mp4",
+      "description": "As soon as Soo Ho sees Ju Kyung at the comic book store, he recognizes that it’s the same girl he saw on the rooftop. He’s kind of disappointed that she doesn’t seem to remember him. Ju Kyung is anxious to see how Soo Ho will react at school the next day, but strangely he doesn’t seem to recognize her at all."
+    },
+	{
+      "id": 99851,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 3",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2003%20540p.mp4",
+      "description": "It seems Soo Ho knows that the no makeup Ju Kyung at the comic store is the same person as the made up Ju Kyung at school. Ju Kyung feels anxious that he might tell everyone about how ugly she actually is. She promises him that she’ll do anything he asks, but it starts to wear her out."
+    },
+	{
+      "id": 99850,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 4",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2004%20540p.mp4",
+      "description": "Ju Kyung prepares to go on a blind date. She asks her mother for help at her hair salon, but then Seo Jun steps into the salon when Ju Kyung’s not wearing makeup on her face. She tries to avoid meeting him. Meanwhile, Soo Ho participates in a maths competition, but he keeps feeling bothered by the fact that Ju Kyung is meeting with a man on a blind date."
+    },
+	{
+      "id": 99849,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 5",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2005%20540p.mp4",
+      "description": "Soo Ho goes all the way to meet Ju Kyung late at night with a lame excuse. Ju Kyung starts to wonder if Soo Ho has feelings for her. She asks him out. Meanwhile, a first-year student is bullied by her classmates for her ugly looks. This reminds Ju Kyung of her past school life and she decides to offer help."
+    },
+	{
+      "id": 99848,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 6",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2006%20540p.mp4",
+      "description": "Soo Ho’s father visits Saebom High School to meet Soo Ho’s teacher. Everyone at school gets surprised by the fact that Soo Ho’s father is actor Lee Joo Hun. Meanwhile, Ju Kyung runs into the bullies who used to harass her before transferring to Saebom High School. Soo Ho happens to see them and decides to help Ju Kyung."
+    },
+	{
+      "id": 99847,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 7",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2007%20540p.mp4",
+      "description": "Ju Kyung’s heart doesn’t seem to calm down whenever she sees Soo Ho. Unfortunately, she finds out that there is already someone whom Soo Ho likes. Devastated and disappointed, Ju Kyung begins to naturally avoid him. Meanwhile, Hyung Jin, the ace baseball player from Seonil High, confesses his feelings to Ju Kyung. Knowing this, Seo Jun and Soo Ho also feel the surge of affectionate feelings for Ju Kyung. "
+    },
+	{
+      "id": 99846,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 8",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2008%20540p.mp4",
+      "description": "The students of Saebom High School go on a school trip. Soo Ho makes up his mind to tell Ju Kyung that he has feelings for her and even buys jewellery for her. However, Ju Kyung gets heartbroken, thinking that Soo Ho likes Soo Jin. Meanwhile, Hee Kyung gets transferred to a different department at work without prior notice."
+    },
+	{
+      "id": 99845,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 9",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2009%20540p.mp4",
+      "description": "Not long after reassuring each other’s feelings, Ju Kyung and Soo Ho initiate a movie-like plan to keep their relationship secret at school. However, doing so makes it difficult for them to enjoy a typical ordinary date. Soo Ho even puts up with embarrassing moments for Ju Kyung. Meanwhile, Seo Jun is having trouble getting over Ju Kyung when he bumps into her at the least expected place."
+    },
+	{
+      "id": 99844,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 10",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2010%20540p.mp4",
+      "description": "Ju Kyung still doesn’t want to let her friends know that her boyfriend is Soo Ho. Soo Jin tells Ju Kyung that she plans to tell Soo Ho that she has feelings for him. Ju Kyung gets torn between love and friendship. Meanwhile, Soo Ho and Seo Jun happen to meet at Ju Kyung’s house and start to make dumplings with Ju Kyung’s family. "
+    },
+	{
+      "id": 99843,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 11",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2011%20540p.mp4",
+      "description": "After stumbling upon the truth behind Se Yeon’s death, Soo Ho gets into an accident as he runs out of his dad’s office, and Seo Jun also gets involved while trying to save Soo Ho. Hospitalized in the same room, Soo Ho and Seo Jun get to know each other a little better. Meanwhile, Ju Kyung and Soo Ho come to an agreement that they are both responsible for the fight earlier. However, Soo Ho can’t seem to shake off a bitter feeling."
+    },
+	{
+      "id": 99842,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 12",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2012%20540p.mp4",
+      "description": "At school, Soo Ho comes back to his class, and Ju Kyung runs into Hye Min who just transferred. Hye Min asks Ju Kyung if they know each other, but Ju Kyung denies and keeps avoiding her at school. Meanwhile, Soo Jin and Se Mi make a deal, and Se Mi shares with Soo Jin the photos of Ju Kyung without makeup on her face."
+    },
+	{
+      "id": 99841,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 13",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2013%20540p.mp4",
+      "description": "A video of Ju Kyung sends the whole school in turmoil. When Ju Kyung finds out that her past from the old school has been exposed, she runs away. However, it doesn’t bother Soo Ho a bit what others are saying. The only thing that worries him is whether Ju Kyung is okay or not. Meanwhile, Seo Jun does whatever he can to get to the bottom of this happening and is shocked when he finds the person responsible for the video."
+    },
+	{
+      "id": 99840,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 14",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2014%20540p.mp4",
+      "description": "Ju Kyung comes back to school and makes up with Soo Ah. Everyone at school finally finds out that Soo Jin was the one who uploaded the photos and videos of Ju Kyung being bullied. Meanwhile, Soo Ho and Ju Kyung go on a trip to the sea, but Soo Ho forgets to bring his cell phone. Seo Jun desperately tries to reach Soo Ho."
+    },
+	{
+      "id": 99839,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 15",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2015%20540p.mp4",
+      "description": "Ju Kyung and Soo Ho have no other option but to accept the breakup. After, Ju Kyung stumbles upon the fact that Soo Ho is the very boy she met at the Prince Comics when she was young and struggles even more. Meanwhile, Seo Jun finds it difficult to hide feelings toward Ju Kyung and decides to act upon it. Confused by Seo Jun’s unexpected confession, Ju Kyung heads out to Namsan where she bumps into someone."
+    },
+	{
+      "id": 99838,
+      "name_category": "True Beauty",
+      "title": "True Beauty Episode 16",
+      "image": "https://koreanindo.net/wp-content/uploads/2020/11/True-Beauty-1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTrue%20Beauty%20%282020%29%2fTB%20Eps%20-%2016%20540p.mp4",
+      "description": "Ju Kyung and Soo Ho finally confirm that their feelings for one another haven't changed after all these years. After shedding tears from their reunion, they start their happy relationship, which is more grown-up from their high school days. Meanwhile, Seo Jun, who has now moved on from his unrequited love, gets ready to debut while Hee Kyung asks Soo Ho to include Missing Love on Seo Joon's debut album."
+    },
+	
+	
+	
+	{
+      "id": 99837,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E01%20WEB-DL.540p.mp4",
+      "description": "After the success of the Hatch presentation, Jae Hyun gets touted as the presidential candidate. Meanwhile, his wife, Tae Ra, regains her lost memory."
+    },
+	{
+      "id": 99836,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E02%20WEB-DL.540p.mp4",
+      "description": "Tae Ra cannot believe she is No.50, the killer who shot Hae Soo's father fifteen years ago. Chaos ensues at Hatch as super chimpanzee Red gets killed. "
+    },
+	{
+      "id": 99835,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E03%20WEB-DL.540p.mp4",
+      "description": "Jae Hyun declares his candidacy for president, and Kim Seon Duck finally appears. Worried about Tae Ra not acting like herself, Jae Hyun hires a bodyguard. "
+    },
+	{
+      "id": 99834,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 4",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29/Pandora%20E04%20WEB-DL.480p.mp4",
+      "description": "Hae Soo cannot accept that Tae Ra is the killer who took her father's life. Tae Ra confronts Kim Seon Duck and chases the person who manipulated her life."
+    },
+	{
+      "id": 99833,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 5",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E05%20WEB-DL.540p.mp4",
+      "description": "When Yu Ra is found dead, Do Jin, who had an affair with Yu Ra, becomes a prime suspect. Soon after, Hae Soo suggests Tae Ra appear on her talk show."
+    },
+	{
+      "id": 99832,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 6",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E06%20WEB-DL.540p.mp4",
+      "description": "Hae Soo reveals Tae Ra's identity on the talk show. Meanwhile, Sung Chan finds an unexpected item and becomes Tae Ra's ally."
+    },
+	{
+      "id": 99831,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 7",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E07%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99830,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E08%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99829,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 9",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99828,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 10",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99827,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 11",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99826,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99825,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 13",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99824,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 14",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99823,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 15",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99822,
+      "name_category": "Pandora: Beneath the Paradise Ongoing",
+      "title": "Pandora: Beneath the Paradise Episode 16",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99821,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2001%20540p.mp4",
+      "description": "Things aren't going great for Gye Jeol. She gets fired at the hospital she is doing her fellowship and nearly falls when a mysterious man saves her. She falls for him the minute she lays eyes on him, but then he disappears. The man turns out to be Professor Do Jin Woo of the Pilseong Medical Center, who hires her. However, there is something suspicious about him."
+    },
+	{
+      "id": 99820,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2002%20540p.mp4",
+      "description": "Kokdu, the Deity of the Underworld, has possessed Do Jin Woo's body. However, Gye Jeol has no clue where Do Jin Woo has disappeared and begins to face the repercussions. Without knowing Do Jin Woo has become Kokdu, she finally finds him, only to learn that he wants to kill her. "
+    },
+	{
+      "id": 99819,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2003%20540p.mp4",
+      "description": "A clue that could help uncurse Kokdu appears. Kokdu tries to change his fate by seducing Gye Jeol. However, it's not as easy as he thinks. His first attempt puts him in the gutters, and he needs a better way to disguise his true colours. Maybe money will do the trick? Or how about a clinic?"
+    },
+	{
+      "id": 99818,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 4",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2004%20540p.mp4",
+      "description": "Gye Jeol and Kokdu get caught up in a strange, unexplainable car accident with a man who suddenly appears in front of them and then disappears. Meanwhile, Gye Jeol opens her clinic and agrees to date Kokdu. However, will they find their way out through the misunderstandings and secrets and end their date unscathed?"
+    },
+	{
+      "id": 99817,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 5",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2005%20540p.mp4",
+      "description": "Kokdu learns that Han Gye Jeol was Seol Hee all along, and he prepares to propose to her. However, unexpected obstacles get in the way, giving Kokdu a difficult time. Meanwhile, Yi Deun calls Gye Jeol in the middle of the night."
+    },
+	{
+      "id": 99816,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 6",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2006%20540p.mp4",
+      "description": "Jung Won doubts Jin Woo regained his memories and tells him to prove it by doing a test with her. They go on a date, and Kokdu does whatever he can to deceive her. Later, Gye Jeol and Kokdu get caught up in a new crisis with a patient needing emergency medical aid."
+    },
+	{
+      "id": 99815,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 7",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2007%20540p.mp4",
+      "description": "Do Jin Woo is back! Kokdu returns to the underworld, where he helplessly watches over Han Gye Jeol and Do Jin Woo. Will he ever get a second chance to return to the human world and break his curse? Meanwhile, Oksin and Gaksin think of a way to get Gye Jeol to wish Kokdu back."
+    },
+	{
+      "id": 99814,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2008%20540p.mp4",
+      "description": "Kokdu returns! Gye Jeol realizes that she has feeling for Kokdu as she scours the recycling center for Kokdu's desk. Kokdu hears from Gaksin that Gye Jeol cried for his presence, and he makes his move. Meanwhile, Kokdu finds out who has been trying to get the better of them."
+    },
+	{
+      "id": 99813,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 9",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2009%20540p.mp4",
+      "description": "Pil Soo finds out that Kokdu’s only weakness is Gye Jeol. In order to take advantage of Kokdu someday, he keeps an eye on Gye Jeol. To keep her safe from Pil Soo, Kokdu asks her to move in with him. However, as Kokdu is not honest with her and is not able to say he wants to live together because he likes her, Gye Jeol is confused about his intention."
+    },
+	{
+      "id": 99812,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 10",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2010%20540p.mp4",
+      "description": "Gye Jeol and Kokdu are now officially living together under one roof. Although there are some troubles in sharing a home, they try to make things work. Meanwhile, Chul is extremely curious about who his sister’s new boyfriend is. Gye Jeol knows for sure that he will not like Kokdu, but she still introduces him to Chul because he is her only family."
+    },
+	{
+      "id": 99811,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 11",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2011%20540p.mp4",
+      "description": "Kokdu gets released from police custody. Gye Jeol learns about the mysterious list, and Kim Pil Soo sets his sights on Gye Jeol. Meanwhile, Gye Jeol offends Kokdu and looks for a way to apologize but can't find the right time to do it."
+    },
+	{
+      "id": 99810,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2012%20540p.mp4",
+      "description": "How dare you mess with Han Gye Jeol? The conflict between Kokdu and Kim Pil Soo grows fiercer. Luckily, Gye Jeol escapes uninjured, but her brother falls into harm's way. Meanwhile, little by little, Kokdu and Gye Jeol find clues in their past lives."
+    },
+	{
+      "id": 99809,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 13",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2013%20540p.mp4",
+      "description": "Gye Jeol and Kokdu save Han Chul from his abduction. Gye Jeol learns about Kokdu's true nature and identity while rescuing Han Chul, and their trust in one another starts to fade. However, Nam Chul also discovers who Kokdu is and joins forces with him to bring down Kim Pil Soo without telling Gye Jeol."
+    },
+	{
+      "id": 99808,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 14",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2014%20540p.mp4",
+      "description": "Gye Jeol remembers her past life and feels Kokdu's pain and sorrow. However, the truth becomes even more unbearable. Later, the legal battle between Kokdu and Kim Pil Soo begins, and Kokdu suffers from a wound that won't heal in his chest. Meanwhile, Gye Jeol and Kokdu decide to break up."
+    },
+	{
+      "id": 99807,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 15",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2015%20540p.mp4",
+      "description": "Kokdu gets stabbed by Kim Pil Soo. Pil Soo faces a crisis with incriminating evidence while Gye Jeol waits beside Kokdu's hospital bed for him to wake up. Meanwhile, Tae Joong Sik wakes up in the hospital, and Jung Won begs Gye Jeol for forgiveness to be with her brother, Chul."
+    },
+	{
+      "id": 99806,
+      "name_category": "Kokdu: Season of Deity",
+      "title": "Kokdu: Season of Deity Episode 16",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Season_of_Kkokdu.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fKokdu%3a%20Season%20of%20Deity%20%282023%29%2fKSOD%20Eps%20-%2016%20END%20540p.mp4",
+      "description": "Kokdu disappears as Gye Jeol says she loves him. Gye Jeol misses Kokdu dearly and wishes he would come back. However, he is nowhere to be seen except through a present that comes every day. As she longs for him, Gye Jeol gradually regains her everyday life, wishing she would see him again."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99805,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 1",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2001%20540p.mp4",
+      "description": "To appease his grandfather's wishes, Kang Tae Moo agrees to a blind date. Jin Young Seo enlists Shin Ha Ri's help to scare away her latest prospect."
+    },
+	{
+      "id": 99804,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 2",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2002%20540p.mp4",
+      "description": "Tae Moo lies about having a girlfriend to stop the endless barrage of blind dates, with the perfect person in mind to play the part."
+    },
+	{
+      "id": 99803,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 3",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2003%20540p.mp4",
+      "description": "Ha Ri has a long list of facts about Tae Moo to memorize — as well as someone important to meet. Young Seo declares her independence."
+    },
+	{
+      "id": 99802,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 4",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2004%20540p.mp4",
+      "description": "In and outside of work, Ha Ri scrambles to hide her true identity from Tae Moo and his grandfather. A fake one-year anniversary comes up. "
+    },
+	{
+      "id": 99801,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 5",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2005%20540p.mp4",
+      "description": "As payback for being fooled, Tae-moo sets a trap for Ha-ri at a company event. But when she drunkenly apologizes, he has a change of heart."
+    },
+	{
+      "id": 99800,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 6",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2006%20540p.mp4",
+      "description": "When plans for a confession go awry, Tae Moo takes Ha Ri on a date by the sea disguised as a work trip. Cha Sung Hoon confronts a red-faced Young Seo. "
+    },
+	{
+      "id": 99799,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 7",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2007%20540p.mp4",
+      "description": "Tae Moo plays the part of Ha Ri's smitten boyfriend in front of her friends, much to the chagrin of a wary Lee Min Woo and a jealous Go Yoo Ra."
+    },
+	{
+      "id": 99798,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 8",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2008%20540p.mp4",
+      "description": "Calling their kiss a mistake, Ha Ri continues to reject Tae Moo's advances. But an unreturned text and word of his blind date stir up her emotions."
+    },
+	{
+      "id": 99797,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 9",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2009%20540p.mp4",
+      "description": "Jo Yoo Jung falls for Sung Hoon, landing him in hot water with Young Seo. Tae Moo and Ha Ri try to keep their relationship a secret at work."
+    },
+	{
+      "id": 99796,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 10",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2010%20540p.mp4",
+      "description": "Kang Da Goo's suspicions about his grandson's love life are proven true. On a rainy night after work, Ha Ri takes Tae Moo out on a date."
+    },
+	{
+      "id": 99795,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 11",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2011%20540p.mp4",
+      "description": "When Ha Ri's personal life becomes the talk of the town, Tae Moo's grandfather gives her an ultimatum. Young Seo's dad suggests dinner with Sung Hoon."
+    },
+	{
+      "id": 99794,
+      "name_category": "Business Proposal",
+      "title": "Business Proposal Episode 12",
+      "image": "https://0.soompi.io/wp-content/uploads/2022/02/06221940/A-Business-Proposal1.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fA%20Business%20Proposal%20%282022%29%2fBP%20Eps%20-%2012%20END%20540p.mp4",
+      "description": "Ha Ri tries to win Da Goo over by keeping him company at his hospital bedside. A worried Tae Moo asks Ha Ri to go to the U.S. with him."
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99793,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 1",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E01%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99792,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 2",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E02%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99791,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 3",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E03.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99790,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 4",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis%20E04%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99789,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 5",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E05.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99788,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 6",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29%2fOasis.E06.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99787,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 7",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E07.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99786,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 8",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E08.WEB-DL.540p.mp4"
+    },
+	{
+      "id": 99785,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 9",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99784,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 10",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99783,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 11",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99782,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 12",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99781,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 13",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99780,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 14",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99779,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 15",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99778,
+      "name_category": "Oasis Ongoing",
+      "title": "Oasis Episode 16",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99777,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 1",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E01.WEB-DL.540p.mp4",
+      "description": "Lee Seo Jin approaches Shin Sung Han to be her representation in her divorce. Sung Han later meets with a central figure in the case."
+    },
+	{
+      "id": 99776,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 2",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E02.WEB-DL.540p.mp4",
+      "description": "Determined to win, Sung Han convinces Seo Jin to take her case to trial. Park Ae Ran struggles to contain her mother-in-law's belittlement."
+    },
+	{
+      "id": 99775,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 3",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E03.WEB-DL.540p.mp4",
+      "description": "Ae Ran approaches Sung Han for his services. Seo Jin attempts to settle on her next steps post-divorce. Later, Sung Han suffers from visions of the past."
+    },
+	{
+      "id": 99774,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 4",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E04.WEB-DL.540p.mp4",
+      "description": "Upon learning useful intel, Park Yu Seok schemes to antagonize Sung Han. Jang Hyeong Geun finds himself in a daze after receiving distressing news."
+    },
+	{
+      "id": 99773,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 5",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E05.WEB-DL.540p.mp4",
+      "description": "A new lawyer joins Sung Han's firm — but not without aggravating Sung Han first. Hyeong Geun springs into action after receiving an alarming call."
+    },
+	{
+      "id": 99772,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 6",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E06.WEB-DL.540p.mp4",
+      "description": "A figure from the past pays Sung Han a visit — leaving him rattled. Seo Jin begins consulting clients alone. Hyeong Geun says his final goodbye."
+    },
+	{
+      "id": 99771,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 7",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E07.WEB-DL.540p.mp4",
+      "description": "Jin Yeong Ju ups the ante in her war against Sung Han. Seo Jin panics after hearing shocking news about her client — but finds solace nearby."
+    },
+	{
+      "id": 99770,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 8",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E08.WEB-DL.540p.mp4",
+      "description": "Sung Han uses an opportunity to bolster one of his cases — but inconsistencies arise. Seo Jin considers returning to her old job."
+    },
+	{
+      "id": 99769,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 9",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E09.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99768,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 10",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E10.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	{
+      "id": 99767,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 11",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99766,
+      "name_category": "Divorce Attorney Shin",
+      "title": "Divorce Attorney Shin Episode 12",
+      "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	
+	{
+      "id": 99765,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 1",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E01.mp4",
+      "description": "A rumor about how Prince Hwan has been cursed by a ghost has spread throughout the country. He has a dark secret he can't tell anyone. People who are trying to get Hwan dethroned prepare a trap and Hwan must stand against them. Meanwhile, the one who killed Hwan's Master comes to see him of her own free will."
+    },
+	{
+      "id": 99764,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 2",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E02.mp4",
+      "description": "After facing a crisis at the hunting grounds, Hwan finds himself in an unbelievable situation. Jae Yi claims that she's innocent and blames Hwan for the death of her family. Hwan is confused when he finds out Jae Yi knows about his secret. Meanwhile, Jae Yi's servant disguises herself as a man to learn from the mad scientist, Kim Myeong Jin."
+    },
+	{
+      "id": 99763,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 3",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E03.mp4",
+      "description": "Hwan can't trust Jae Yi and tells her to come find him in the East Palace one her own. To get there, Jae Yi turns herself into a eunuch. Meanwhile, Seong On is shock to learn that his father might have something to do with the written prayer incident."
+    },
+	{
+      "id": 99762,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 4",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E04.mp4",
+      "description": "Hwan gives Jae Yi a second test. She must figure out why the messenger he sent to Master Min's house was killed, and Jae Yi finds out it has something to do with Hwan. Finally, Hwan gives the last test which is to solve a serial murder case. Now Jae Yi must face her fiancé."
+    },
+	{
+      "id": 99761,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 5",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E05.mp4",
+      "description": "Hwan, Jae Yi, Myeong Jin and Ga Ram finally meet. They head out to solve the Cardinal Point case. Meanwhile, Seong On feels humiliated since he's competing against Sun Dol and feels upset when he sees Hwan and Sun Dol together."
+    },
+	{
+      "id": 99760,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 6",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E06.mp4",
+      "description": "After Jae Yi proves herself by solving the Cardinal Point case, Hwan affirms his trust in her. Hwan listens to what happened to Jae Yi's family and believes she is innocent. When Seong On and Jae Yi run into each other, Jae Yi finds something regarding her that Seong On has been carrying."
+    },
+	{
+      "id": 99759,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 7",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E07.mp4",
+      "description": "After Hwan decides that he can't trust Jae Yi, he kicks her out of the palace. Ga Ram is ordered a chusoeryeong and is put in danger. Seong On is curious as to why Hwan is looking into the case of his ex-fiancé and Hwan feels lonely now more than ever without Jae Yi."
+    },
+	{
+      "id": 99758,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 8",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E08.mp4",
+      "description": "The Prince's Guards and the War Department have a match of polo while Jae Yi watches. The interrogation of the shaman begins, and she starts to curse the royal family which brings chaos to the capital and the palace."
+    },
+	{
+      "id": 99757,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 9",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E09.mp4",
+      "description": "The palace and the capital is in chaos after the shaman's curse. Jo Won Bo turns the crisis into an opportunity and starts to pressure the royal family. Hwan and Jae Yi tried to prove that a human set fire to the plum tree and they find out that the real culprit is someone they didn't expect."
+    },
+	{
+      "id": 99756,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 10",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E10.mp4",
+      "description": "Thank to Jae Yi, Hwan opens his heart and become friends with Seong On again and they become even closer. Meanwhile, after the shaman's curse, the Byeokcheon case comes to light again. Jae Yi and Hwan look at the Royal Secretary's journal to figure out what happened."
+    },
+	{
+      "id": 99755,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 11",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E11.mp4",
+      "description": "After finding the royal secretary's journal suspicious, Hwan starts investigating what happened in Byeokcheon and the dried peony petals. After getting a mysterious letter, Cho Won Bo tries to subjugate the remnants of the thieves."
+    },
+	{
+      "id": 99754,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 12",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E12.mp4",
+      "description": "Hwan teams up with Jae Yi and Seong On to find a way to leave the palace after getting confined. Jae Yi finally remembers the face of the messenger who was at her house and is in shock. She runs to Hwan after realizing he's in danger."
+    },
+	{
+      "id": 99753,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 13",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E13.mp4",
+      "description": "Jae Yi claims that her memories are true, but Hwan trusts Tae Gang which confuses Jae Yi even more. Meanwhile, to teach 'Woodpecker' a lesson, Ga Ram steps up. Upon learning that the man who tampered with the written prayer is in Paju, Hwan leaves with Jae Yi and Seong On, but they find themselves in danger."
+    },
+	{
+      "id": 99752,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 14",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E14.mp4",
+      "description": "After returning to the palace, Hwan tries to send Jae Yi to Seong On because he doesn't want Jae Yi to get hurt anymore. A mysterious woman comes to Seong On's house. Bounty hunters go to Cho Won Bo about Ga Ram, and while having a good time at the inn, Hwan, Jae Yi, Myeong Jin and Ga Ram are faced with another murder case."
+    },
+	{
+      "id": 99751,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 15",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E15.mp4",
+      "description": "The Manyeondang group manages to get the bracelet Sim Yeong gave to Jae Yi and starts to figure out how Jae Yi's family was murdered. The King announces that the Crown Princess selection will take place soon, so Hwan gets ready to let Jae Yi go. Meanwhile, Prince Myeong Han, who was suffering from nightmares, says something shocking."
+    },
+	{
+      "id": 99750,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 16",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E16.mp4",
+      "description": "The Queen is furious that Won Bo used her son, Prince Myeong Ahn. Hwan tries to meet Park Han Su to find out what happened in Byeokcheon, but Cho Won Bo makes a move first to stop him from talking. Meanwhile, Princess Ha Yeon makes a risky decision to help Prince Myeong Ahn get better, and the Manyeongdang group takes a huge step toward the truth."
+    },
+	{
+      "id": 99749,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 17",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E17.mp4",
+      "description": "Princess Ha Yeon and Prince Myeong Ahn leaves the palace to meet Monk Mu Jin and an assassin follows them. Hwan and Jae Yi ask Tae Gang about the new mystery they unfolded, but Tae Gang says he doesn't know anything about it. Meanwhile, the Queen tells Seong On the truth about Jae Yi and Jae Yi finds herself in danger."
+    },
+	{
+      "id": 99748,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 18",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E18.mp4",
+      "description": "Seong On finds out Sun Dol is actually Min Jae Yi and feels betrayed. Meanwhile, Tae Gang tells Hwan everything about his secret. Hwan, Jae Yi, Myeong Jin and Ga Ram take one step closer to the truth and start to track down the secret letter Min Ho Seung left behind, but another crisis hits them."
+    },
+	{
+      "id": 99747,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 19",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	{
+      "id": 99746,
+      "name_category": "Our Blooming Youth",
+      "title": "Our Blooming Youth Episode 20",
+      "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
+      "link_video": "https://kangmediadev.com/",
+      "description": "This episode is not yet available, please check next week"
+    },
+	
+	
+	
+	
+	{
+      "id": 99745,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 1",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E01.WEB-DL.540p.mp4",
+      "description": "A year ago, an unidentified ball fell over the world. In order to receive additional points for the SAT, where the national mobilization order was issued, high school students write a consent form, and afterschool war activities begin."
+    },
+	{
+      "id": 99744,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 2",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E02.WEB-DL.540p.mp4",
+      "description": "Leaving behind the heavy sphere that fell to the school, Sungjin High School students begin military training. Children getting used to the training, finally going out of school for the first time since the first training day of the first live ammunition shooting... But didn't they have to come out of school?"
+    },
+	{
+      "id": 99743,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 3",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E03.WEB-DL.540p.mp4",
+      "description": "The surviving children from Class 3-2 return to Sugjin High School. The children who learn the reality of the sphere are conflicted about whether to stay at school or leave for the shelter where their parents are. Soldiers stop the children, who eventually decide to leave. At that time!"
+    },
+	{
+      "id": 99742,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 4",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E04.WEB-DL.540p.mp4",
+      "description": "After a lot of hard work, the 1st car on the way to the garrison after exiting the school suffers from an overturning accident. The children in Car No. 1, who fell out, go to a safe place to treat the injured So Yeon. Will they be able to return safely?"
+    },
+	{
+      "id": 99741,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 5",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E05.WEB-DL.540p.mp4",
+      "description": "Students who are no longer wearing school uniforms but military uniforms get used to garrison life by escaping from the threat of the sphere for a while. However, the hope of returning home is short-lived, and now he is put into operation as a supplementary soldier, not a training soldier."
+    },
+	{
+      "id": 99740,
+      "name_category": "Duty After School: Part 1",
+      "title": "Duty After School: Part 1 Episode 6",
+      "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E06.WEB-DL.540p.mp4",
+      "description": "In the midst of a crisis of desperation that is dangerous on all sides. Otherwise, everyone could lose their lives. Can the 3-2 squad recruits safely complete the operation and survive?"
+    }
+	
+	
+	
 	
 	
   ]
