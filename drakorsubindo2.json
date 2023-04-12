@@ -30,7 +30,18 @@
    ],
   "Categories": [
 	
-	
+	{
+      "name_category": "The Secret Romantic Guesthouse",
+      "image": "https://www.pinkvilla.com/english/images/2023/02/1566132207_333089036_437644398535034_6851838482455636340_n_640*360.jpg"
+    },
+	{
+      "name_category": "Bo Ra! Deborah",
+      "image": "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2023/04/070704044848/Drama-Korea-Terbaru-April-2023-Bo-Ra-Deborah.jpg"
+    },
+	{
+      "name_category": "Joseon Attorney: A Morality",
+      "image": "https://www.viu.com/ott/id/articles/wp-content/uploads/2023/04/nonton-streaming-download-drakorindo-joseon-attorney-a-morality-sub-indo-viu-slide-banner.jpg"
+    },
 	{
       "name_category": "Duty After School: Part 1",
       "image": "https://cdn-2.tstatic.net/suryamalang/foto/bank/images2/Download-Drama-Korea-Duty-Aftr-School-Sub-Indo-Episode-1-6-Tamat-Lengkap-dengan-Sinopsisnya.jpg"
@@ -490,16 +501,16 @@
       "name_category": "Call It Love",
       "title": "Call It Love Episode 15",
       "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2015%20540p.mp4",
+      "description": "Hyun Ju and Hee Ja meet again in the same place for the first time in thirteen years."
     },
 	{
       "id": 99952,
       "name_category": "Call It Love",
       "title": "Call It Love Episode 16",
       "image": "https://m.media-amazon.com/images/M/MV5BMzlhY2RkMzQtMGZlNC00MDlhLThmNTUtY2Y1YWIwOTQ4OWM3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fCall%20It%20Love%20%282023%29/CIL%20Eps%20-%2016%20540p.mp4",
+      "description": "Woo Joo and Dong Jin prepare to say goodbye. Will they send each other off smiling?"
     },
 	
 	
@@ -1888,39 +1899,39 @@
     },
 	{
       "id": 99785,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 9",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E09.WEB-DL.540p.mp4",
-      "description": "This episode is not yet available, please check next week"
+      "description": ""
     },
 	{
       "id": 99784,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 10",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E10.WEB-DL.540p.mp4",
-      "description": "This episode is not yet available, please check next week"
+      "description": ""
     },
 	{
       "id": 99783,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 11",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E11.WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99782,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 12",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E12.WEB-DL.540p.mp4",
+      "description": ""
     },
 	{
       "id": 99781,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 13",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/",
@@ -1928,7 +1939,7 @@
     },
 	{
       "id": 99780,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 14",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/",
@@ -1936,7 +1947,7 @@
     },
 	{
       "id": 99779,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 15",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/",
@@ -1944,7 +1955,7 @@
     },
 	{
       "id": 99778,
-      "name_category": "Oasis Ongoing",
+      "name_category": "Oasis",
       "title": "Oasis Episode 16",
       "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
       "link_video": "https://kangmediadev.com/",
@@ -2033,23 +2044,23 @@
       "title": "Divorce Attorney Shin Episode 10",
       "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E10.WEB-DL.540p.mp4",
-      "description": ""
+      "description": "Sung Han takes on Ma Geum Hee's case. Seo Jin makes her long-awaited return to radio. Kim So Yeon and Hyung Geun navigate their budding relationship."
     },
 	{
       "id": 99767,
       "name_category": "Divorce Attorney Shin",
       "title": "Divorce Attorney Shin Episode 11",
       "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E11.WEB-DL.540p.mp4",
+      "description": "Seo Gi Yeong pleads for help from Sung Han. Sung Han changes his mind about Geum Hui's case. Seo Jin receives good news about her career."
     },
 	{
       "id": 99766,
       "name_category": "Divorce Attorney Shin",
       "title": "Divorce Attorney Shin Episode 12",
       "image": "https://www.dramabeans.com/wp-content/uploads/2023/02/0006613658_001_20230206093007772.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDivorce%20Attorney%20Shin%20%282023%29%2fDivorce.Attorney.Shin.E12.WEB-DL.540p.mp4",
+      "description": "In an effort to protect Gi Yeong, Sung Han prepares for the final conflict with his in-laws. Meanwhile, Seo Jin contemplates a hard decision."
     },
 	
 	
@@ -2205,16 +2216,16 @@
       "name_category": "Our Blooming Youth",
       "title": "Our Blooming Youth Episode 19",
       "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E19.mp4",
+      "description": "After finding out what's written in the Jikgeumdo, Hwan and Han Jung Eon are in shock and Jae Yi gets arrested for murder. Hwan is even more shocked to hear Jae Yi admit everything. Jo Won Bo demands that the Crown Prince gets deposed. Meanwhile, Seong On gets an order from the Queen in secret."
     },
 	{
       "id": 99746,
       "name_category": "Our Blooming Youth",
       "title": "Our Blooming Youth Episode 20",
       "image": "https://photos.hancinema.net/photos/photo1610987.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOur%20Blooming%20Youth%20%282023%29%2fOur%20Blooming%20Youth%20E20.mp4",
+      "description": "TAfter finding out about the Queen's secret, Jo Won Bo is furious and the Queen makes a decision when Won Bo threatens her son. Meanwhile, the six arrive at Naewang Village and Hwan tries to convince them. Just then, Jo Won Bo comes once again to slaughter them. Will Hwan be able to protect the people of Byeokcheon?"
     },
 	
 	
@@ -2267,6 +2278,116 @@
       "image": "https://i.mydramalist.com/QJJ4PW_4f.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fDuty%20After%20School%3a%20Part%201%20%282023%29%2fD.A.S.E06.WEB-DL.540p.mp4",
       "description": "In the midst of a crisis of desperation that is dangerous on all sides. Otherwise, everyone could lose their lives. Can the 3-2 squad recruits safely complete the operation and survive?"
+    },
+	
+	
+	{
+      "id": 99739,
+      "name_category": "Joseon Attorney: A Morality",
+      "title": "Joseon Attorney: A Morality Episode 1",
+      "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E01.WEB-DL.540p.mp4",
+      "description": "Han Soo settles in Hanyang and opens an attorney's office. Being notorious for his rude attitude, he gets no customers for a long while. One day, a plum wine seller asks him to file a lawsuit against the leader of the biggest guild in Joseon, and the magistrate holds a court for this case."
+    },
+	{
+      "id": 99738,
+      "name_category": "Joseon Attorney: A Morality",
+      "title": "Joseon Attorney: A Morality Episode 2",
+      "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E02.WEB-DL.540p.mp4",
+      "description": "Han Soo tricks Master Jang into standing as a witness for Pyo, a vicious criminal. He makes Master Jang make a false statement and gets blamed for Pyo's crime instead. Princess Yeon Joo decides to help Han Soo punish both Master Jang and Pyo. After seeing what Han Soo is capable of, she decides to use him for future plans."
+    },
+	{
+      "id": 99737,
+      "name_category": "Joseon Attorney: A Morality",
+      "title": "Joseon Attorney: A Morality Episode 3",
+      "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E03.WEB-DL.540p.mp4",
+      "description": "Lady Yeon, the wife of Commissioner Park, leaves her home to stay in Sowongak. It turns out that Commissioner Park abused her and intentionally killed her father to take all of his property. She wants to file a divorce suit against her husband, but it’s difficult for a woman to do so in Joseon. Then Han Soo steps up to help her."
+    },
+	{
+      "id": 99736,
+      "name_category": "Joseon Attorney: A Morality",
+      "title": "Joseon Attorney: A Morality Episode 4",
+      "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E04.WEB-DL.540p.mp4",
+      "description": "So Won misunderstands Han Soo’s intention and fires him. She finds another attorney to defend Lady Yeon and tries gathering evidence against Commissioner Park. Han Soo also works behind So Won, convincing Myung Wol to testify for Lady Yeon. However, on the day of the trial, no attorney shows up to defend Lady Yeon."
+    },
+	
+	
+	{
+      "id": 99735,
+      "name_category": "Bo Ra! Deborah",
+      "title": "Bo Ra! Deborah Episode 1",
+      "image": "https://kdramadiary.com/wp-content/uploads/2023/03/Bo-ra-Deborah-main-poster-kdramadiary.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fBo%20Ra!%20Deborah%20%282023%29%2fBoRa.E01.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	
+	
+	{
+      "id": 99734,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 1",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E01.WEB-DL.540p.mp4",
+      "description": "While touting her residence service on the street, Dan O encounters a group of hooligans. Fortunately, a stranger emerges and rescues her from the predicament. Undeterred, Dan O continues her efforts and soon encounters a skilled swordsman whom she believes would be an ideal guest. Along with another guest from Garden of Flowers, the four individuals become involved in an unexpected and dangerous situation. "
+    },
+	{
+      "id": 99733,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 2",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E02.WEB-DL.540p.mp4",
+      "description": "Dan O becomes aware of her grave predicament upon discovering that some individuals are plotting to seize control of Garden of Flowers. While dealing with a bothersome man on the street who offers to settle her debt if she marries him, Dan O vehemently refuses this proposal. As she gains further insight into the financial burden left behind by her father, Dan O manages to devise a plan to settle the debt, but without realizing the possible unintended consequences that could arise as a result."
+    },
+	{
+      "id": 99732,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 3",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E03.WEB-DL.540p.mp4",
+      "description": "Garden of Flower is the most significant thing for Dan O, and she is determined to do everything in her power to keep it from being taken away. Dan O informs everyone that she has business in Gwacheon-hyeon and will be away for a few days. Although the three young masters initially show indifference, they end up following her. Dan O keeps her search for Lee Seol a secret, oblivious to the risks that lie ahead if she persists."
+    },
+	{
+      "id": 99731,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 4",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E04.WEB-DL.540p.mp4",
+      "description": "Despite the danger that it may pose, Dan O continues her search for Lee Seol. Meanwhile, the young masters also end up supporting her search, but not everyone is pleased with her endeavour. Her hard-earned clues lead her closer to Lee Seol, and the danger she faces grows as she gets closer. However, the closer she gets, the greater the peril she encounters. Upon returning to the inn after attending to personal matters, Kang San unexpectedly collapses upon encountering Dan O."
+    },
+	{
+      "id": 99730,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 5",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E05.WEB-DL.540p.mp4",
+      "description": "Kang San was found and brought back to Garden of Flowers by Dan O, but his condition appeared critical. However, thanks to Si Yeol's unexpected yet exceptional medical skills, San is able to survive the poisoning. Meanwhile, Dan O hurriedly looks for Si Yeol when she hears the news of his arrest. All her efforts to protect Garden of Flowers seem meaningless, but her care for the young masters continues."
+    },
+	{
+      "id": 99729,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 6",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E06.WEB-DL.540p.mp4",
+      "description": "Dan O is someone who values the safety and happiness of those around her more than anything else. In order to ensure their well-being, she makes the difficult decision to let go of Garden of Flowers, which had been her greatest treasure. However, shortly after doing so, Dan O disappears without explanation. Meanwhile, Master Jang Tae Hwa becomes aware that Dan O may be keeping something from him and orders his men to search for her."
+    },
+	{
+      "id": 99728,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 7",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E07.WEB-DL.540p.mp4",
+      "description": "Dan O is able to evade trouble with the assistance of the watchman. It dawns on her that her recent efforts to locate Lee Seol have endangered the entire Garden of Flowers family, causing her to feel regretful. In the meantime, individuals associated with the palace approach the three young masters, who are beginning to comprehend the underlying motives for the approach and their unavoidable entanglement in the matter."
+    },
+	{
+      "id": 99727,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 8",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E08.WEB-DL.540p.mp4",
+      "description": "Dan O is rescued from a serious threat by Yu Ha, much to San's disappointment for not being the one to save her. Despite this, the danger still hovers over Dan O, and palace officials keep a close watch on her to uncover clues about Lee Seol and the watchman. Upon San's return from the state exam, Dan O urges him to honour his earlier promises and be completely open about himself."
     }
 	
 	
