@@ -1,13 +1,13 @@
  { "Ads": [
     {
      "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
+      "select_backup_ads":"FACEBOOK",
       "main_ads_banner": "ca-app-pub-3379099559308238/3606659165",
       "main_ads_intertitial":"ca-app-pub-3379099559308238/7839765256",
       "main_ads_natives":"ca-app-pub-3379099559308238/6526683587",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_natives":"205311878767771_205312152101077",
+      "backup_ads_banner":"205311878767771_205312085434417",
+      "backup_ads_intertitial":"205311878767771_205312108767748",
       "open_ads_admob":"ca-app-pub-3379099559308238/5213601914",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -30,6 +30,11 @@
    ],
   "Categories": [
 	
+	
+	{
+      "name_category": "Queenmaker",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/03/24/1833146171.jpg"
+    },
 	{
       "name_category": "Stealer: The Treasure Keeper",
       "image": "https://media.suara.com/pictures/653x366/2023/04/12/56799-poster-stealer-the-treasure-keeper-instagramtvndrama.jpg"
@@ -369,14 +374,7 @@
       "description": "While Do Gi wakes up from getting drugged, the bishop comes back to Korea. Now that Do Gi has evidence of how Black Sun is circulating drugs, he sets up a plan. Meanwhile, Ha Jun notices that Rainbow Transport is on Black Sun’s tail. Knowing how skillful Do Gi is, he takes every precaution he can."
     },
 	
-	{
-      "id": 99968,
-      "name_category": "Taxi Driver Season 2",
-      "title": "Taxi Driver Episode 16",
-      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
-    },
+	
 	
 	
 	
@@ -2422,6 +2420,118 @@
       "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2015%20540p.mp4",
       "description": "Rainbow Transport takes in another client. However this time, it is a set-up made by the Bishop and Ha Jun. Not knowing that it is a trap, Do Gi blindly goes into Jangsan Correctional with Gyeong Gu and Jin Eon to save a victim. The only thing that is waiting for him is Ha Jun’s trap that will break Do Gi into pieces."
+    },
+	
+	
+	
+	
+	{
+      "id": 1,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 1",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E01.WEB-DL.540p.mp4",
+      "description": "Hwang Do Hee attempts to quell Oh Kyung Sook's persistent protest against Eunsung Group. Baek Jae Min confides in Do Hee regarding a potential crisis."
+    },
+	{
+      "id": 2,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 2",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E02.WEB-DL.540p.mp4",
+      "description": "Do Hee grapples with the guilt of having caused a tragedy in the name of her job. Jae Min proposes a scheme to jump-start his career ambitions."
+    },
+	{
+      "id": 3,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 3",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E03.WEB-DL.540p.mp4",
+      "description": "After refusing Son Young Sim’s orders, Do Hee risks losing everything she has worked towards. Later, she approaches Kyung Sook with a huge proposal."
+    },
+	{
+      "id": 4,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 4",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E04.WEB-DL.540p.mp4",
+      "description": "A violent incident cements Kyung Sook's decision to run for mayor. Later, Do Hee helps Kyung Sook prepare for her first television debate."
+    },
+	{
+      "id": 5,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 5",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E05.WEB-DL.540p.mp4",
+      "description": "Kyung Sook pushes Seo Min Jung to an uncomfortable position during their debate. Do Hee throws a wrench into Eunsung Group's development plans."
+    },
+	{
+      "id": 6,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 6",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E06.WEB-DL.540p.mp4",
+      "description": "After a tip from an unlikely figure, Min Jung goes all in to take down Kyung Sook. In an attempt to rattle Do Hee, Carl Yoon does the unthinkable."
+    },
+	{
+      "id": 7,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 7",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E07.WEB-DL.540p.mp4",
+      "description": "Kyung Sook begins to question the election as it begins to affect her loved ones — forcing Do Hee to reconsider whether the race is really worth it."
+    },
+	{
+      "id": 8,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 8",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E08.WEB-DL.540p.mp4",
+      "description": "Jae Min is attacked on the campaign trail — but Kyung Sook remains skeptical. Do Hee attempts to regain the upper hand on her opponent."
+    },
+	{
+      "id": 9,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 9",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E09.WEB-DL.540p.mp4",
+      "description": "Carl goes after Kyung Sook's family — forcing her camp to seek out the truth. Running out of options, Do Hee teams up an unlikely partner."
+    },
+	{
+      "id": 10,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 10",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E10.WEB-DL.540p.mp4",
+      "description": "Shocking news about Jae Min creates a problem for his campaign. As the final debate nears, Do Hee reveals her silver bullet to Kyung Sook."
+    },
+	{
+      "id": 11,
+      "name_category": "Queenmaker",
+      "title": "Queenmaker Episode 11",
+      "image": "https://photos.hancinema.net/photos/photo1653186.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fQueenmaker%20%282023%29%2fQueenmaker.E11.WEB-DL.540p.mp4",
+      "description": "As election day looms, Do Hee becomes entangled in a dangerous endgame. She later makes a surprising final move — shocking Kyung Sook."
+    },
+	
+	
+	
+	{
+      "id": 99968,
+      "name_category": "Taxi Driver Season 2",
+      "title": "Taxi Driver Episode 16",
+      "image": "https://paciran.id/wp-content/uploads/2023/02/SBS-Rilis-Poster-Terbaru-Dari-Drama-Taxi-Driver-2.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fTaxi%20Driver%20%282023%29%2fTD2%20Eps%20-%2016%20540p.mp4",
+      "description": ""
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Joseon Attorney: A Morality",
+      "title": "Joseon Attorney: A Morality Episode 5",
+      "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E05.WEB-DL.540p.mp4",
+      "description": "After Commissioner Park dies, Han Soo searches his room and finds the jade dragon. Han Soo, Dong Chi, and So Won head to Cheongsan to find out who gave the jade dragon to Commissioner Park. Han Soo learns it was Lady Park’s doing, so he heads to her house. However, he witnesses a murder scene when he gets there."
     }
 	
   ]
