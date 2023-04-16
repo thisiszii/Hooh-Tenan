@@ -30,7 +30,10 @@
    ],
   "Categories": [
 	
-	
+	{
+      "name_category": "Doctor Cha",
+      "image": "https://i.ytimg.com/vi/kz-wEgSsApI/maxresdefault.jpg"
+    },
 	{
       "name_category": "Queenmaker",
       "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/03/24/1833146171.jpg"
@@ -1541,14 +1544,7 @@
       "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E10%20WEB-DL.540p.mp4",
       "description": "Gyo Jin manages to escape from the Hatch laboratory. Tae Ra saves Hae Soo and the two finally face the truth about what happened fifteen years ago."
     },
-	{
-      "id": 99827,
-      "name_category": "Pandora: Beneath the Paradise",
-      "title": "Pandora: Beneath the Paradise Episode 11",
-      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
-    },
+	
 	{
       "id": 99826,
       "name_category": "Pandora: Beneath the Paradise",
@@ -2540,9 +2536,26 @@
       "image": "https://asianwiki.com/images/9/92/Joseon_Attorney-A_Morality-p01.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fJoseon%20Attorney%3a%20A%20Morality%20%282023%29%2fJ.A.A.M.E06.WEB-DL.540p.mp4",
       "description": "After Commissioner Park dies, Han Soo searches his room and finds the jade dragon. Han Soo, Dong Chi, and So Won head to Cheongsan to find out who gave the jade dragon to Commissioner Park. Han Soo learns it was Lady Park’s doing, so he heads to her house. However, he witnesses a murder scene when he gets there."
+    },
+	
+	
+	{
+      "id": 99827,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 11",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E11%20WEB-DL.540p.mp4",
+      "description": ""
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Doctor Cha",
+      "title": "Doctor Cha Episode 1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Doctor_Cha.jpg/250px-Doctor_Cha.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDoctor%20Cha%20%282023%29%2fDoctor.Cha.E01.WEB-DL.540p.mp4",
+      "description": ""
     }
-	
-	
 	
   ]
 }
