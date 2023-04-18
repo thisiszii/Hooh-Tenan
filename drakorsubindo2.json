@@ -1544,15 +1544,6 @@
       "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E10%20WEB-DL.540p.mp4",
       "description": "Gyo Jin manages to escape from the Hatch laboratory. Tae Ra saves Hae Soo and the two finally face the truth about what happened fifteen years ago."
     },
-	
-	{
-      "id": 99826,
-      "name_category": "Pandora: Beneath the Paradise",
-      "title": "Pandora: Beneath the Paradise Episode 12",
-      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
-    },
 	{
       "id": 99825,
       "name_category": "Pandora: Beneath the Paradise",
@@ -1920,14 +1911,7 @@
       "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E12.WEB-DL.540p.mp4",
       "description": ""
     },
-	{
-      "id": 99781,
-      "name_category": "Oasis",
-      "title": "Oasis Episode 13",
-      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
-      "link_video": "https://kangmediadev.com/",
-      "description": "This episode is not yet available, please check next week"
-    },
+	
 	{
       "id": 99780,
       "name_category": "Oasis",
@@ -2545,7 +2529,7 @@
       "title": "Pandora: Beneath the Paradise Episode 11",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E11%20WEB-DL.540p.mp4",
-      "description": ""
+      "description": "Jae Hyun cannot read Hae Soo's intentions. Tae Ra and Gyo Jin try to stop Hatch's second presentation."
     },
 	
 	{
@@ -2555,6 +2539,42 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Doctor_Cha.jpg/250px-Doctor_Cha.jpg",
       "link_video": "https://kangmediadev.com/drakorsubindo%2fDoctor%20Cha%20%282023%29%2fDoctor.Cha.E01.WEB-DL.540p.mp4",
       "description": ""
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Doctor Cha",
+      "title": "Doctor Cha Episode 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Doctor_Cha.jpg/250px-Doctor_Cha.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fDoctor%20Cha%20%282023%29%2fDoctor.Cha.E02.WEB-DL.540p.mp4",
+      "description": ""
+    },
+	
+	{
+      "id": 99826,
+      "name_category": "Pandora: Beneath the Paradise",
+      "title": "Pandora: Beneath the Paradise Episode 12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandora_-_Beneath_the_Paradise.png",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fPandora%3a%20Beneath%20the%20Paradise%20%282023%29%2fPandora%20E12%20WEB-DL.540p.mp4",
+      "description": "Tae Ra and Hae Soo cooperate in finding Jae Hyun's weakness before the second Hatch presentation."
+    },
+	
+	{
+      "id": 16,
+      "name_category": "The Secret Romantic Guesthouse",
+      "title": "The Secret Romantic Guesthouse Episode 9",
+      "image": "https://koreanindo.net/wp-content/uploads/2023/02/The-Secret-Romantic-Guesthouse-3.jpeg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fThe%20Secret%20Romantic%20Guesthouse%20%282023%29%2fT.S.R.G.E09.WEB-DL.540p.mp4",
+      "description": "San returns to the palace to fulfill his duty. Now that Dan O finds out his true identity, she is worried about him day and night as he is surrounded by enemies. Therefore, she looks for a way for him to escape and leave the country. Meanwhile, Lord Sin plans to put a fake Lee Seol on the throne."
+    },
+	
+	{
+      "id": 99781,
+      "name_category": "Oasis",
+      "title": "Oasis Episode 13",
+      "image": "https://asianwiki.com/images/2/2e/Oasis_Korean_Drama-p1.jpg",
+      "link_video": "https://kangmediadev.com/drakorsubindo%2fOasis%20%282023%29/Oasis.E13.WEB-DL.540p.mp4",
+      "description": "This episode is not yet available, please check next week"
     }
 	
   ]
