@@ -1,0 +1,2400 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "main_ads_banner": "ca-app-pub-3379099559308238/2367167443",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/4617964250",
+      "main_ads_rewards":"ca-app-pub-3379099559308238/9351416189",
+      "backup_ads_banner":"1226121568044567_1226121711377886",
+      "backup_ads_intertitial":"1226121568044567_1226121754711215",
+      "backup_ads_rewards":"1226121568044567_1226121794711211",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Gas",
+      "high_paying_keyword_3": "Mortgage",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Loans",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "SKINS-MOD":
+  [
+    
+	
+	
+	{
+      "title": "Gatotkaca Sentinel",
+      "image": "https://liquipedia.net/commons/images/thumb/0/07/Gatotkaca_Sentinel_Skin.jpg/800px-Gatotkaca_Sentinel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gatotkaca%20Sentinel.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4sb5g7l8w7kygys/Gatotkaca+Sentinel.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy Astrocat",
+      "image": "https://liquipedia.net/commons/images/thumb/2/26/Kimmy_Astrocat_Skin.jpg/800px-Kimmy_Astrocat_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Astrocat.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/l6auvgk66is005a/Kimmy+Astrocat.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Angela Heartstring",
+      "image": "https://liquipedia.net/commons/images/thumb/0/0e/Angela_Heartstring_Skin.jpg/800px-Angela_Heartstring_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Heartstring.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gmxf9kc2b2z35k1/Angela+Heartstring.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harley Great Inventor",
+      "image": "https://liquipedia.net/commons/images/thumb/5/59/Harley_Great_Inventor_Skin.jpg/800px-Harley_Great_Inventor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harley%20Great%20Inventor.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s8xoitb0kmh1g84/Harley+Great+Inventor.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Beatrix Space Agent",
+      "image": "https://liquipedia.net/commons/images/thumb/0/06/Beatrix_Space_Agent_Skin.jpg/800px-Beatrix_Space_Agent_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Space%20Agent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8x4kabd41h7p228/Beatrix+Space+Agent.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Bren Esports",
+      "image": "https://i.ibb.co/crdQF1Z/MLBB-Bren-Esports-Lancelot.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Bren%20Esports.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v97zp72ww8fuw68/Lancelot+Bren+Esports.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Agent Z",
+      "image": "https://liquipedia.net/commons/images/thumb/1/17/Granger_Agent_Z_Skin.jpg/800px-Granger_Agent_Z_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Agent%20Z.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5ngntnmqj0gkpel/Granger+Agent+Z.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Lightborn Overrider",
+      "image": "https://liquipedia.net/commons/images/thumb/a/a9/Granger_Lightborn_-_Overrider_Skin.jpg/800px-Granger_Lightborn_-_Overrider_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Lightborn%20Overrider.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tqfocqy4end4fkk/Granger+Lightborn+Overrider.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yi Sun-Shin Fleet Warden",
+      "image": "https://liquipedia.net/commons/images/thumb/2/27/Yi_Sun-Shin_Fleet_Warden_Skin.jpg/800px-Yi_Sun-Shin_Fleet_Warden_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yi%20Sun-Shin%20Fleet%20Warden.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0bhzgnlxg84wfp7/Yi+Sun-Shin+Fleet+Warden.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Natan Captain Chrono",
+      "image": "https://liquipedia.net/commons/images/0/0e/Natan_Captain_Chrono_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Natan%20Captain%20Chrono.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oqru0e1lxr3ynzd/Natan+Captain+Chrono.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Khufra Gentleman Thief",
+      "image": "https://liquipedia.net/commons/images/thumb/0/07/Khufra_Gentleman_Thief_Skin.jpg/800px-Khufra_Gentleman_Thief_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Khufra%20Gentleman%20Thief.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/85tnb152dp7rzst/Khufra+Gentleman+Thief.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena Gemini Shadow",
+      "image": "https://liquipedia.net/commons/images/thumb/e/e1/Karina_Gemini_-_Halo_Skin.jpg/800px-Karina_Gemini_-_Halo_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20Gemini%20Shadow.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/z124rojdew047dv/Selena+Gemini+Shadow.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Layla Blazing Gun",
+      "image": "https://liquipedia.net/commons/images/thumb/d/d2/Layla_Blazing_Gun_Skin.jpg/800px-Layla_Blazing_Gun_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Layla%20Blazing%20Gun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qi4z2h4wrnnryue/Layla+Blazing+Gun.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ruby Lady Zombie",
+      "image": "https://liquipedia.net/commons/images/thumb/7/78/Ruby_Lady_Zombie_Skin.jpg/800px-Ruby_Lady_Zombie_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ruby%20Lady%20Zombie.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fdqejqis7iok3au/Ruby+Lady+Zombie.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Biosoldier",
+      "image": "https://liquipedia.net/commons/images/thumb/8/88/Granger_Biosoldier_Skin.jpg/800px-Granger_Biosoldier_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Biosoldier.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9nxa12v8wcxwadv/Granger+Biosoldier.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy Bio Frontier",
+      "image": "https://liquipedia.net/commons/images/thumb/5/59/Kimmy_Bio_Frontier_Skin.jpg/800px-Kimmy_Bio_Frontier_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Bio%20Frontier.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nk78sax4p0qlm0l/Kimmy+Bio+Frontier.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Popol and Kupa Trouble Makers",
+      "image": "https://liquipedia.net/commons/images/thumb/4/41/Popol_and_Kupa_Trouble_Makers_Skin.jpg/800px-Popol_and_Kupa_Trouble_Makers_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Popol%20and%20Kupa%20Trouble%20Makers.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/o0fn1g2ngei55va/Popol+and+Kupa+Trouble+Makers.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Jawhead Cyber Ranger",
+      "image": "https://liquipedia.net/commons/images/thumb/8/88/Jawhead_Cyber_Ranger_Skin.jpg/800px-Jawhead_Cyber_Ranger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Jawhead%20Cyber%20Ranger.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ek1d467tefsj15e/Jawhead+Cyber+Ranger.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Grock Codename Rhino",
+      "image": "https://liquipedia.net/commons/images/thumb/2/29/Grock_Codename_Rhino_Skin.jpg/800px-Grock_Codename_Rhino_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Grock%20Codename%20Rhino.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f7c7t6l1s1grzjh/Grock+Codename+Rhino.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Christmas Carnival",
+      "image": "https://liquipedia.net/commons/images/thumb/0/0e/Lancelot_Christmas_Carnvial_Skin.jpg/800px-Lancelot_Christmas_Carnvial_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Christmas%20Carnival.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/m5mq74b7cse8fe4/Lancelot+Christmas+Carnival.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Straw Doll",
+      "image": "https://liquipedia.net/commons/images/thumb/e/ea/Cyclops_Straw_Doll_Skin.jpg/800px-Cyclops_Straw_Doll_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Straw%20Doll.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hxjlr3lk5jnpfzq/Cyclops+Straw+Doll.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Tigreal Lightborn Defender",
+      "image": "https://liquipedia.net/commons/images/thumb/4/4d/Tigreal_Lightborn_-_Defender_Skin.jpg/800px-Tigreal_Lightborn_-_Defender_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Tigreal%20Lightborn%20Defender.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vpnufnwtq1hnjlq/Tigreal+Lightborn+Defender.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valir Infernal Blaze",
+      "image": "https://liquipedia.net/commons/images/thumb/2/2f/Valir_Infernal_Blaze_Skin.jpg/800px-Valir_Infernal_Blaze_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valir%20Infernal%20Blaze.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vl6cudfhntfn3kd/Valir+Infernal+Blaze.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Grock Monitor Lizard",
+      "image": "https://liquipedia.net/commons/images/thumb/a/ac/Grock_V.E.N.O.M._Monitor_Lizard_Skin.jpg/800px-Grock_V.E.N.O.M._Monitor_Lizard_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Grock%20Monitor%20Lizard.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8xk21wl1jzhdq5k/Grock+Monitor+Lizard.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Akai Kung Fu Panda",
+      "image": "https://liquipedia.net/commons/images/thumb/3/33/Akai_Kung_Fu_Panda_Skin.jpg/800px-Akai_Kung_Fu_Panda_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Akai%20Kung%20Fu%20Panda.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/oti7yerdgrl05eh/Akai+Kung+Fu+Panda.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lunox Butterfly Seraphim",
+      "image": "https://liquipedia.net/commons/images/thumb/6/65/Lunox_Butterfly_Seraphim_Skin.jpg/800px-Lunox_Butterfly_Seraphim_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lunox%20Butterfly%20Seraphim.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9yq2te080rybfms/Lunox+Butterfly+Seraphim.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Lifeguard",
+      "image": "https://liquipedia.net/commons/images/thumb/1/17/Fanny_Lifeguard_Skin.jpg/800px-Fanny_Lifeguard_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Lifeguard.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bh7f38fp5z468g2/Fanny+Lifeguard.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "X.Borg Bumblebee",
+      "image": "https://liquipedia.net/commons/images/thumb/a/ad/X.Borg_Bumblebee_Skin.jpg/800px-X.Borg_Bumblebee_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/X.Borg%20Bumblebee.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dh78jro8oddrlyw/X.Borg+Bumblebee.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Megatron",
+      "image": "https://liquipedia.net/commons/images/thumb/9/9a/Granger_Megatron_Skin.jpg/800px-Granger_Megatron_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Megatron.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9b51jabgbdojtp4/Granger+Megatron.zip/file",
+      "size_skins": "18 MB",
+      "coins": 100
+    },
+	{
+      "title": "Roger Grimlock",
+      "image": "https://liquipedia.net/commons/images/thumb/0/05/Roger_Grimlock_Skin.jpg/800px-Roger_Grimlock_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Grimlock.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7hwj2x8k5gcbrzd/Roger+Grimlock.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Khufra Dreadful Clown",
+      "image": "https://liquipedia.net/commons/images/b/b7/Khufra_Dreadful_Clown_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Khufra%20Dreadful%20Clown.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k4swgv0zekrcwor/Khufra+Dreadful+Clown.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kaja Skyblocker",
+      "image": "https://liquipedia.net/commons/images/4/47/Kaja_Skyblocker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kaja%20Skyblocker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/er9k3s8qtmt9iwa/Kaja+Skyblocker.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Saber Iron Hound",
+      "image": "https://i.ibb.co/kQLwbnB/saber-iron-hound-starlight-skin-wallpaper-hd.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Saber%20Iron%20Hound.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/z9dk52mhs9pjdmo/Saber+Iron+Hound.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Estes Blacklist International",
+      "image": "https://i.ibb.co/WWpCYvH/44389724c1eb737defe39ecdec14228f.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Estes%20Blacklist%20International.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/75y7lw7on0pmsj7/Estes+Blacklist+International.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena Thunder Flash",
+      "image": "https://liquipedia.net/commons/images/8/87/Selena_Thunder_Flash_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20Thunder%20Flash.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tjj7x0twpj9zmtq/Selena+Thunder+Flash.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Saber Codename Storm",
+      "image": "https://liquipedia.net/commons/images/f/f4/Saber_Codename_-_Storm_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Saber%20Codename%20Storm.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/64r1hhheshmkr3e/Saber+Codename+Storm.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou King of Muay Thai",
+      "image": "https://liquipedia.net/commons/images/2/2e/Chou_King_of_Muay_Thai_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20King%20of%20Muay%20Thai.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/bzelh8srfcpcv5d/Chou+King+of+Muay+Thai.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Blazing Trace",
+      "image": "https://liquipedia.net/commons/images/3/3a/Claude_Blazing_Trace_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Blazing%20Trace.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kpl6844h3fglro2/Claude+Blazing+Trace.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Johnson Optimus Prime",
+      "image": "https://liquipedia.net/commons/images/7/7e/Johnson_Optimus_Prime_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Johnson%20Optimus%20Prime.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dsppmmhgmbb8v04/Johnson+Optimus+Prime.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Atlas Space Mech",
+      "image": "https://liquipedia.net/commons/images/a/a6/Atlas_Space_Mech_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Atlas%20Space%20Mech.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zbirymcd7iav51a/Atlas+Space+Mech.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Starfall Knight",
+      "image": "https://liquipedia.net/commons/images/2/26/Granger_Starfall_Knight_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Starfall%20Knight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mcewntka8h4g0j0/Granger+Starfall+Knight.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous King of Supremacy",
+      "image": "https://liquipedia.net/commons/images/2/2b/Aldous_King_of_Supremacy_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20King%20of%20Supremacy.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k5e0iy863mku1as/Aldous+King+of+Supremacy.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Saber Onimaru",
+      "image": "https://liquipedia.net/commons/images/a/af/Saber_Onimaru_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Saber%20Onimaru.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tz52ohj104w6pbr/Saber+Onimaru.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Go Ballistic",
+      "image": "https://liquipedia.net/commons/images/2/29/Chou_Go_Ballistic_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Go%20Ballistic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/88ns2p0k4b0nwjy/Chou+Go+Ballistic.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Johnson Wreck King",
+      "image": "https://liquipedia.net/commons/images/6/62/Johnson_Wreck_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Johnson%20Wreck%20King.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hm5qp5lj6cqfyja/Johnson+Wreck+King.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aurora Aquarius",
+      "image": "https://liquipedia.net/commons/images/a/a2/Aurora_Aquarius_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aurora%20Aquarius.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nzxwk9wv46hax6w/Aurora+Aquarius.zip/file",
+      "size_skins": "18 MB",
+      "coins": 100
+    },
+	{
+      "title": "Badang Fist of Zen",
+      "image": "https://liquipedia.net/commons/images/9/9c/Badang_Fist_of_Zen_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Badang%20Fist%20of%20Zen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/op4as2gxi0nxg70/Badang+Fist+of+Zen.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling M-World",
+      "image": "https://liquipedia.net/commons/images/4/45/Ling_M-World_Ling_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20M-World.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v2tguecej4yac9m/Ling+M-World.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Sun Spring Blessings",
+      "image": "https://liquipedia.net/commons/images/6/63/Sun_Spring_Blessings_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Sun%20Spring%20Blessings.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f1dno6fw4zse61g/Sun+Spring+Blessings.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Athena Asamiya",
+      "image": "https://liquipedia.net/commons/images/7/79/Guinevere_Athena_Asamiya_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Athena%20Asamiya.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fazluolt3t4wqwh/Guinevere+Athena+Asamiya.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Estes Galaxy Dominator",
+      "image": "https://i.ibb.co/98NwkGk/bc32b02eda44a0069ecb32d70bf9468c.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Estes%20Galaxy%20Dominator.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ym96h6ylfhezg91/Estes+Galaxy+Dominator.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Dragon Siryu",
+      "image": "https://liquipedia.net/commons/images/6/62/Chou_Dragon_Siryu_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Dragon%20Siryu.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/o50f8ir5dfrxplo/Chou+Dragon+Siryu.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Floral Knight",
+      "image": "https://liquipedia.net/commons/images/6/6a/Lancelot_Floral_Knight_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Floral%20Knight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zzbf8y9dz1ic3qt/Lancelot+Floral+Knight.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Emperor Scorpion",
+      "image": "https://liquipedia.net/commons/images/b/b5/Gusion_V.E.N.O.M._Emperor_Scorpion_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Emperor%20Scorpion.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0u8ula7igaed388/Gusion+Emperor+Scorpion.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harith Lightborn Inspirer",
+      "image": "https://liquipedia.net/commons/images/a/ab/Harith_Lightborn_-_Inspirer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20Lightborn%20Inspirer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/omxjfjuepgkl0j8/Harith+Lightborn+Inspirer.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Sun Wicked Flames",
+      "image": "https://liquipedia.net/commons/images/3/3a/Sun_Wicked_Flames_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Sun%20Wicked%20Flames.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kapzlnloqjsc2dg/Sun+Wicked+Flames.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Lady Crane",
+      "image": "https://liquipedia.net/commons/images/8/87/Guinevere_Lady_Crane_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Lady%20Crane.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/a8m7fmohm98lbdc/Guinevere+Lady+Crane.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hilda Aries",
+      "image": "https://liquipedia.net/commons/images/3/30/Hilda_Aries_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hilda%20Aries.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/i9p4yrmbjlt55fu/Hilda+Aries.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Zilong Summer Waves",
+      "image": "https://liquipedia.net/commons/images/c/c0/Zilong_Summer_Waves_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Summer%20Waves.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1oc2y9hfsg6tq6u/Zilong+Summer+Waves.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Bane Soul Defiler",
+      "image": "https://i.ibb.co/5jDrYCC/bane-soul-defiler-epic-skin-wallpaper-hd.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bane%20Soul%20Defiler.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wzumesftmqrslp5/Bane+Soul+Defiler.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Vale Keeper Of The Winds",
+      "image": "https://i.ibb.co/F4yGJ0H/MLBB-Keeperofthe-Winds-Vale.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Keeper%20Of%20The%20Winds.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/09trkfjp411ejnu/Vale+Keeper+Of+The+Winds.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Martis Searing Maw",
+      "image": "https://liquipedia.net/commons/images/2/21/Martis_Searing_Maw_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Martis%20Searing%20Maw.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/or835h8xuiem85i/Martis+Searing+Maw.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Sun Simian Curse",
+      "image": "https://liquipedia.net/commons/images/d/df/Sun_Simian_Curse_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Sun%20Simian%20Curse.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s7399525bte648p/Sun+Simian+Curse.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kagura Water Lily",
+      "image": "https://liquipedia.net/commons/images/5/5b/Kagura_Water_Lily_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Water%20Lily.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s1rz6duikktdek4/Kagura+Water+Lily.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Minotaur Taurus",
+      "image": "https://liquipedia.net/commons/images/b/ba/Minotaur_Taurus_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Minotaur%20Taurus.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q1scxngi7mcfidx/Minotaur+Taurus.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Bad Bro",
+      "image": "https://liquipedia.net/commons/images/6/64/Claude_Bad_Bro_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Bad%20Bro.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dlklhompylk7ish/Claude+Bad+Bro.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Pharsa Hierophant",
+      "image": "https://liquipedia.net/commons/images/f/ff/Pharsa_Hierophant_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Pharsa%20Hierophant.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/p3ddk727e14w0lg/Pharsa+Hierophant.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Estes Rattan Dragon",
+      "image": "https://liquipedia.net/commons/images/d/dd/Estes_Rattan_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Estes%20Rattan%20Dragon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nyxfxnjr0k5ukuh/Estes+Rattan+Dragon.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Earths Mightiest",
+      "image": "https://liquipedia.net/commons/images/f/f8/Claude_Earth%27s_Mightiest_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Earths%20Mightiest.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ot5lbk6icjh39ay/Claude+Earths+Mightiest.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lunox Dawn Revelation",
+      "image": "https://liquipedia.net/commons/images/3/3d/Lunox_Dawn_Revelation_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lunox%20Dawn%20Revelation.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ruvtapvg2urvs60/Lunox+Dawn+Revelation.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody Lethal Fang",
+      "image": "https://liquipedia.net/commons/images/c/ca/Brody_Lethal_Fang_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20Lethal%20Fang.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wfvp4oywsk59qoc/Brody+Lethal+Fang.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ruby Edelweiss",
+      "image": "https://liquipedia.net/commons/images/2/20/Ruby_Edelweiss_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ruby%20Edelweiss.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/g384d2hg24pwtmx/Ruby+Edelweiss.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Argus Darth Vader",
+      "image": "https://liquipedia.net/commons/images/4/44/Argus_Darth_Vader_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Argus%20Darth%20Vader.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/du6ijnqcre1w27s/Argus+Darth+Vader.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Christmas Carnival",
+      "image": "https://liquipedia.net/commons/images/b/b2/Claude_Christmas_Carnival_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Christmas%20Carnival.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ezmnqfsv9khzl8i/Claude+Christmas+Carnival.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Royal Matador",
+      "image": "https://liquipedia.net/commons/images/0/05/Lancelot_Royal_Matador_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Royal%20Matador.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sxfdpwt6ikoh8mq/Lancelot+Royal+Matador.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Paquito Fulgent Punch",
+      "image": "https://liquipedia.net/commons/images/b/be/Paquito_Fulgent_Punch_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Paquito%20Fulgent%20Punch.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qyyqsbu08xjgdi6/Paquito+Fulgent+Punch.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kagura Rainy Walk",
+      "image": "https://liquipedia.net/commons/images/c/c2/Kagura_Rainy_Walk_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Rainy%20Walk.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kwl9be9wl514cas/Kagura+Rainy+Walk.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lapu-Lapu Special Force",
+      "image": "https://liquipedia.net/commons/images/e/eb/Lapu-Lapu_Special_Force_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lapu-Lapu%20Special%20Force.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/na3gh4tqe06re1i/Lapu-Lapu+Special+Force.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Psion of Tomorrow",
+      "image": "https://liquipedia.net/commons/images/6/69/Guinevere_Psion_of_Tomorrow_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Psion%20of%20Tomorrow.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7zrzzow843wgqpb/Guinevere+Psion+of+Tomorrow.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Benedetta Street Blow",
+      "image": "https://liquipedia.net/commons/images/9/9a/Benedetta_Street_Blow_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Street%20Blow.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/smlbdtwuikjc640/Benedetta+Street+Blow.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Lightborn Ranger",
+      "image": "https://liquipedia.net/commons/images/a/ad/Fanny_Lightborn_-_Ranger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Lightborn%20Ranger.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1grn3p466sjqw6d/Fanny+Lightborn+Ranger.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Angela Floral Elf",
+      "image": "https://liquipedia.net/commons/images/8/85/Angela_Floral_Elf_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Floral%20Elf.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9ml9zen0molgv50/Angela+Floral+Elf.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Popol and Kupa Soundwave and Ravage",
+      "image": "https://liquipedia.net/commons/images/b/b0/Popol_and_Kupa_Soundwave_and_Ravage_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Popol%20and%20Kupa%20Soundwave%20and%20Ravage.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uzykb78wh6semg0/Popol+and+Kupa+Soundwave+and+Ravage.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Pharsa Empress Phoenix",
+      "image": "https://liquipedia.net/commons/images/0/02/Pharsa_Empress_Phoenix_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Pharsa%20Empress%20Phoenix.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uk8c4we036bcqdu/Pharsa+Empress+Phoenix.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Shadow Omen",
+      "image": "https://liquipedia.net/commons/images/1/11/Clint_Shadow_Omen_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Shadow%20Omen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/igvl0nsobyu46k1/Clint+Shadow+Omen.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody Ore-chemist",
+      "image": "https://liquipedia.net/commons/images/9/9f/Brody_Ore-chemist_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20Ore-chemist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e1jfjw4r2dligyd/Brody+Ore-chemist.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Martis Capricorn",
+      "image": "https://liquipedia.net/commons/images/a/a1/Martis_Capricorn_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Martis%20Capricorn.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/smvx6fu9l5pcdgn/Martis+Capricorn.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Empyrean Flame",
+      "image": "https://liquipedia.net/commons/images/3/3e/Lancelot_Empyrean_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Empyrean%20Flame.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/u2a6cjjhjp2bs0r/Lancelot+Empyrean+Flame.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Cosmo Guard",
+      "image": "https://liquipedia.net/commons/images/8/8f/Ling_Cosmo_Guard_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Cosmo%20Guard.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hnrefcajaoiuri6/Ling+Cosmo+Guard.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Khufra Volcanic Overlord",
+      "image": "https://liquipedia.net/commons/images/0/03/Khufra_Volcanic_Overlord_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Khufra%20Volcanic%20Overlord.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vgj6puzon5ttu3n/Khufra+Volcanic+Overlord.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Operator CL",
+      "image": "https://liquipedia.net/commons/images/e/ea/Clint_Operator_CL_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Operator%20CL.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mgxvh59tplbw9lo/Clint+Operator+CL.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hayabusa Experiment 21",
+      "image": "https://liquipedia.net/commons/images/0/0d/Hayabusa_Experiment_21_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hayabusa%20Experiment%2021.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x5h8tntxjfjch6o/Hayabusa+Experiment+21.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco Blazing Axe",
+      "image": "https://liquipedia.net/commons/images/7/7e/Franco_Blazing_Axe_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Blazing%20Axe.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v4nlaxzqbpxniwu/Franco+Blazing+Axe.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Lotus",
+      "image": "https://liquipedia.net/commons/images/1/19/Guinevere_Lotus_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Lotus.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/p546j630luyvm0p/Guinevere+Lotus.zip/file",
+      "size_skins": "3 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kagura Soryu Maiden",
+      "image": "https://liquipedia.net/commons/images/0/01/Kagura_Soryu_Maiden_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Soryu%20Maiden.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/96c8i8ettb0htdd/Kagura+Soryu+Maiden.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valir Phoenix Ikki",
+      "image": "https://liquipedia.net/commons/images/e/e2/Valir_Phoenix_Ikki_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valir%20Phoenix%20Ikki.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/i03412juxr0ocy9/Valir+Phoenix+Ikki.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harith EVOS Legends",
+      "image": "https://i.ibb.co/D1HPYcZ/harith-evos-mobile-legends-skin-uhdpaper-com-hd-7-1787.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20EVOS%20Legends.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yajpdrzc54hyaz1/Harith+EVOS+Legends.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy FO Jet Trooper",
+      "image": "https://liquipedia.net/commons/images/7/79/Kimmy_FO_Jet_Trooper_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20FO%20Jet%20Trooper.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/19f5lc422719bmr/Kimmy+FO+Jet+Trooper.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Dragon Boy",
+      "image": "https://liquipedia.net/commons/images/3/30/Chou_Dragon_Boy_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Dragon%20Boy.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gmpb720lw4ro31e/Chou+Dragon+Boy.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "X.Borg Tesla Maniac",
+      "image": "https://liquipedia.net/commons/images/7/7d/X.Borg_Tesla_Maniac_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/X.Borg%20Tesla%20Maniac.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7c87pt2deoq5d3v/X.Borg+Tesla+Maniac.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Roger Fiend Haunter",
+      "image": "https://liquipedia.net/commons/images/d/d0/Roger_Fiend_Haunter_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Fiend%20Haunter.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kue61hjhs4s6cpz/Roger+Fiend+Haunter.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Yokai Warlock",
+      "image": "https://i.ibb.co/4t28NNw/MLBB-Yokai-Warlock-Cyclops-1024x576-1.png",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Yokai%20Warlock.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/g9zzy2trvsr52k7/Cyclops+Yokai+Warlock.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Leomord Inferno Soul",
+      "image": "https://liquipedia.net/commons/images/9/9b/Leomord_Inferno_Soul_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Leomord%20Inferno%20Soul.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/00e1g4yyck0cp3g/Leomord+Inferno+Soul.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alpha General Void",
+      "image": "https://liquipedia.net/commons/images/3/33/Alpha_General_Void_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alpha%20General%20Void.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/n2riwuhy6oou2b9/Alpha+General+Void.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valir Leo Ikki",
+      "image": "https://liquipedia.net/commons/images/4/4a/Valir_Leo_Ikki_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valir%20Leo%20Ikki.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/jlcdlxg05watmgi/Valir+Leo+Ikki.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Balmond God of Mountains",
+      "image": "https://liquipedia.net/commons/images/4/4c/Balmond_God_of_Mountains_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Balmond%20God%20of%20Mountains.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0vcn19cagatwhur/Balmond+God+of+Mountains.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alucard Obsidian Blade",
+      "image": "https://liquipedia.net/commons/images/5/5c/Alucard_Obsidian_Blade_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alucard%20Obsidian%20Blade.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/a3896cirgbnvtdq/Alucard+Obsidian+Blade.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alucard Child of the Fall",
+      "image": "https://liquipedia.net/commons/images/a/ac/Alucard_Child_of_the_Fall_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alucard%20Child%20of%20the%20Fall.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ss91ydd5hlh858j/Alucard+Child+of+the+Fall.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alucard Lightborn Striker",
+      "image": "https://liquipedia.net/commons/images/f/f0/Alucard_Lightborn_-_Striker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alucard%20Lightborn%20Striker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/atsef4ajmt93aki/Alucard+Lightborn+Striker.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alucard Obi-wan Kenobi",
+      "image": "https://liquipedia.net/commons/images/c/cf/Alucard_Obi-wan_Kenobi_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alucard%20Obi-wan%20Kenobi.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7uc4cm747wy8rc8/Alucard+Obi-wan+Kenobi.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Miya Doom Catalyst",
+      "image": "https://liquipedia.net/commons/images/6/6f/Miya_Doom_Catalyst_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Doom%20Catalyst.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fo7u8kuf9ovdjyn/Miya+Doom+Catalyst.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aulus War Lion",
+      "image": "https://liquipedia.net/commons/images/c/c6/Aulus_War_Lion_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aulus%20War%20Lion.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dohvrjops3k2qbp/Aulus+War+Lion.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Beatrix Light Chaser",
+      "image": "https://liquipedia.net/commons/images/6/6a/Beatrix_Light_Chaser_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Light%20Chaser.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x90p4de3anrlp3z/Beatrix+Light+Chaser.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Paquito Fist of Light",
+      "image": "https://liquipedia.net/commons/images/b/be/Paquito_Fulgent_Punch_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Paquito%20Fist%20of%20Light.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/iqiwygiadzt35eo/Paquito+Fist+of+Light.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Blood Spear",
+      "image": "https://liquipedia.net/commons/images/0/0d/Moskov_Blood_Spear_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Blood%20Spear.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tepk218yz1ezm02/Moskov+Blood+Spear.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Badang Sagittarius Seiya",
+      "image": "https://liquipedia.net/commons/images/b/b1/Badang_Sagittarius_Seiya_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Badang%20Sagittarius%20Seiya.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3c6rqgil28e8s9u/Badang+Sagittarius+Seiya.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Benedetta Death Oath",
+      "image": "https://liquipedia.net/commons/images/b/be/Benedetta_Death_Oath_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Death%20Oath.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mc8v3wwpqzv7vod/Benedetta+Death+Oath.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody Quantum Grip",
+      "image": "https://i.ibb.co/mD6t82L/MLBB-Quantum-Grip-Brody.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20Quantum%20Grip.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nl30izaae1tr6t5/Brody+Quantum+Grip.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Luo Yi Elysium Guardian",
+      "image": "https://liquipedia.net/commons/images/7/76/Luo_Yi_Elysium_Guardian_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Luo%20Yi%20Elysium%20Guardian.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5sdzc0epbxsqqbr/Luo+Yi+Elysium+Guardian.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yu Zhong Blood Serpent",
+      "image": "https://liquipedia.net/commons/images/b/b2/Yu_Zhong_Blood_Serpent_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Blood%20Serpent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/d9w8stcssvno66q/Yu+Zhong+Blood+Serpent.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Zilong Glorious General",
+      "image": "https://liquipedia.net/commons/images/0/0d/Zilong_Glorious_General_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Glorious%20General.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/seqr9jfpv71ygz5/Zilong+Glorious+General.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Blazing Force",
+      "image": "https://liquipedia.net/commons/images/a/a9/Aldous_Blazing_Force_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Blazing%20Force.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vw6m4wo7f5qn2q2/Aldous+Blazing+Force.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harley Dream Caster",
+      "image": "https://liquipedia.net/commons/images/9/91/Harley_Dream_Caster_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harley%20Dream%20Caster.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5t726zga5ckvlol/Harley+Dream+Caster.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Vale Supernal Tempest",
+      "image": "https://liquipedia.net/commons/images/8/8f/Vale_Supernal_Tempest_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Supernal%20Tempest.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4ndn09xfvo7qnky/Vale+Supernal+Tempest.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harith Psychic",
+      "image": "https://i.ibb.co/t4gY25H/maxresdefault.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20Psychic.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tv5bxh7e6i28jvn/Harith+Psychic.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Esmeralda Light Envoy",
+      "image": "https://liquipedia.net/commons/images/8/8a/Esmeralda_Light_Envoy_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20Light%20Envoy.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sviqtjatl4uuhxe/Esmeralda+Light+Envoy.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Starscream",
+      "image": "https://liquipedia.net/commons/images/b/b4/Aldous_Starscream_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Starscream.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0edasf90idg0qeg/Aldous+Starscream.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Master Yoda",
+      "image": "https://liquipedia.net/commons/images/1/1a/Cyclops_Master_Yoda_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Master%20Yoda.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kqmnm3y6833ztqq/Cyclops+Master+Yoda.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Night Owl",
+      "image": "https://liquipedia.net/commons/images/e/e6/Gusion_Night_Owl_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Night%20Owl.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5tud154oc8bc7s8/Gusion+Night+Owl.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Nana Aqua Pura",
+      "image": "https://liquipedia.net/commons/images/6/6d/Nana_Aqua_Pura_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Nana%20Aqua%20Pura.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v4g1gakltpmya3f/Nana+Aqua+Pura.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Twilight Dragon",
+      "image": "https://liquipedia.net/commons/images/e/e4/Moskov_Twilight_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Twilight%20Dragon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e4jgo5lhsmol0k3/Moskov+Twilight+Dragon.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hanabi Rakshesha",
+      "image": "https://liquipedia.net/commons/images/1/1c/Hanabi_Rakshesha_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hanabi%20Rakshesha.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mnrkechyh7099c1/Hanabi+Rakshesha.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Neon Lightwheel",
+      "image": "https://liquipedia.net/commons/images/6/67/Karrie_Neon_Lightwheel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Neon%20Lightwheel.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6ynojp4j3na70as/Karrie+Neon+Lightwheel.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Miya Modena Butterfly",
+      "image": "https://liquipedia.net/commons/images/8/84/Miya_Modena_Butterfly_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Modena%20Butterfly.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nsr8z3off7ffjzw/Miya+Modena+Butterfly.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Esmeralda The Foreseer",
+      "image": "https://liquipedia.net/commons/images/a/ab/Esmeralda_The_Foreseer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20The%20Foreseer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5rfmtyundgntpw7/Esmeralda+The+Foreseer.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Bruno Firebolt",
+      "image": "https://liquipedia.net/commons/images/9/96/Bruno_Firebolt_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bruno%20Firebolt.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/umufrvegrck9v5g/Bruno+Firebolt.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hanabi Moonlit Ninja",
+      "image": "https://i.ibb.co/wyBKJw3/hanabi-moonlit-ninja-skin-8k-wallpaper-by-newjer53-dftr9j1-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hanabi%20Moonlit%20Ninja.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2q1qcu4k6zx9zx3/Hanabi+Moonlit+Ninja.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Thamuz General Kai",
+      "image": "https://liquipedia.net/commons/images/0/07/Thamuz_General_Kai_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Thamuz%20General%20Kai.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/y2n2993axabkicm/Thamuz+General+Kai.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Wanwan Pixel Blast",
+      "image": "https://liquipedia.net/commons/images/b/b0/Wanwan_Pixel_Blast_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Wanwan%20Pixel%20Blast.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qb60xmgtt6c5aeg/Wanwan+Pixel+Blast.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Freya Raven Shogun",
+      "image": "https://liquipedia.net/commons/images/9/90/Freya_Raven_Shogun_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Freya%20Raven%20Shogun.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/17tkrg6eti8n4rb/Freya+Raven+Shogun.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lesley Angelic Agent",
+      "image": "https://liquipedia.net/commons/images/c/c4/Lesley_Angelic_Agent_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lesley%20Angelic%20Agent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qdpseshgv0x3pza/Lesley+Angelic+Agent.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Paquito Manny Pacquiao",
+      "image": "https://liquipedia.net/commons/images/d/de/Paquito_Manny_Pacquiao_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Paquito%20Manny%20Pacquiao.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9rcdsjgw0bsu3f3/Paquito+Manny+Pacquiao.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy Frost Wing",
+      "image": "https://liquipedia.net/commons/images/5/5f/Kimmy_Frost_Wing_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Frost%20Wing.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s8od4qiks5ufi5k/Kimmy+Frost+Wing.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Martis God of War",
+      "image": "https://liquipedia.net/commons/images/9/98/Martis_God_of_War_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Martis%20God%20of%20War.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2ab08ct4m9haerp/Martis+God+of+War.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Dyrroth Venom Cobra",
+      "image": "https://liquipedia.net/commons/images/5/5a/Dyrroth_V.E.N.O.M._Cobra_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Venom%20Cobra.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dmq76tgarfl1gf6/Dyrroth+Venom+Cobra.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena STUN",
+      "image": "https://liquipedia.net/commons/images/c/cf/Selena_S.T.U.N._Selena_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20STUN.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5sc75rk5pnfa3jl/Selena+STUN.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Doom Incarnate",
+      "image": "https://liquipedia.net/commons/images/5/52/Moskov_Doom_Incarnate_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Doom%20Incarnate.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/srw08206clvx86h/Moskov+Doom+Incarnate.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Zilong Empyrean Paladin",
+      "image": "https://liquipedia.net/commons/images/6/69/Zilong_Empyrean_Paladin_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Empyrean%20Paladin.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0a2agcwdbvjwhna/Zilong+Empyrean+Paladin.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Soul Revelation",
+      "image": "https://liquipedia.net/commons/images/d/d7/Gusion_Soul_Revelation_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Soul%20Revelation.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/aw39gm9alhztct3/Gusion+Soul+Revelation.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Dyrroth Naraka Flame",
+      "image": "https://liquipedia.net/commons/images/5/5f/Dyrroth_Naraka_Flame_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Naraka%20Flame.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9f3kp1vupsyqado/Dyrroth+Naraka+Flame.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hayabusa Shura",
+      "image": "https://liquipedia.net/commons/images/a/a3/Hayabusa_Shura_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hayabusa%20Shura.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/o68b4f1yyjzewao/Hayabusa+Shura.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Lord Shen",
+      "image": "https://liquipedia.net/commons/images/f/f5/Ling_Lord_Shen_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Lord%20Shen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7i0on08zxi6u7zh/Ling+Lord+Shen.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aamon Noble Crest",
+      "image": "https://liquipedia.net/commons/images/f/f1/Aamon_Noble_Crest_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aamon%20Noble%20Crest.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/s9xiluyr6am5dau/Aamon+Noble+Crest.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena Lady Vengeance",
+      "image": "https://liquipedia.net/commons/images/d/d4/Selena_Lady_Vengeance_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20Lady%20Vengeance.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9auujmb0you6qwv/Selena+Lady+Vengeance.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ruby Mecha Maiden",
+      "image": "https://liquipedia.net/commons/images/7/7a/Ruby_Mecha_Maiden_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ruby%20Mecha%20Maiden.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qqe1c79v1qugm2f/Ruby+Mecha+Maiden.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Angela Cyber Cherubin",
+      "image": "https://liquipedia.net/commons/images/e/e2/Angela_Cyber_Cherubin_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Cyber%20Cherubin.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/v1ezkjcgilzgce4/Angela+Cyber+Cherubin.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cecilion Crimson Wings",
+      "image": "https://liquipedia.net/commons/images/0/0a/Cecilion_Crimson_Wings_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cecilion%20Crimson%20Wings.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/aid3s6stmteh5wy/Cecilion+Crimson+Wings.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Bruno Halo Striker",
+      "image": "https://liquipedia.net/commons/images/4/47/Bruno_Halo_Striker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bruno%20Halo%20Striker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uztgz0ovo85ve11/Bruno+Halo+Striker.zip/file",
+      "size_skins": "17 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Realm Watcher",
+      "image": "https://liquipedia.net/commons/images/c/c8/Aldous_Realm_Watcher_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Realm%20Watcher.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/55dgeuklwars7tm/Aldous+Realm+Watcher.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Layla Miss Hikari",
+      "image": "https://liquipedia.net/commons/images/2/21/Layla_Miss_Hikari_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Layla%20Miss%20Hikari.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/f9vgsur9xg3vcjx/Layla+Miss+Hikari.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Mecha Dragon",
+      "image": "https://liquipedia.net/commons/images/7/75/Claude_Mecha_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Mecha%20Dragon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gupkbd3cuzl4ewv/Claude+Mecha+Dragon.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hayabusa Shadow of Obscurity",
+      "image": "https://liquipedia.net/commons/images/d/d2/Hayabusa_Shadow_of_Obscurity_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hayabusa%20Shadow%20of%20Obscurity.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1la3c4f7htelfo1/Hayabusa+Shadow+of+Obscurity.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Dimension Walker",
+      "image": "https://liquipedia.net/commons/images/3/33/Gusion_Dimension_Walker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Dimension%20Walker.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pei7yhf8l7jxe54/Gusion+Dimension+Walker.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kagura Exorcist",
+      "image": "https://liquipedia.net/commons/images/7/77/Kagura_Exorcist_Kagura_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Exorcist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lxe2g1hll8pc654/Kagura+Exorcist.zip/file",
+      "size_skins": "33 MB",
+      "coins": 100
+    },
+	{
+      "title": "Leomord Shadow Knight",
+      "image": "https://liquipedia.net/commons/images/a/a0/Leomord_Shadow_Knight_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Leomord%20Shadow%20Knight.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/23yfor8vufmeti1/Leomord+Shadow+Knight.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aamon Cyber Assassins",
+      "image": "https://i.ibb.co/56wwH1k/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aamon%20Cyber%20Assassins.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9864nzu8qhie10w/Aamon+Cyber+Assassins.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Skylark",
+      "image": "https://liquipedia.net/commons/images/b/bc/Fanny_Skylark_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Skylark.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/67h69gtcyoq80er/Fanny+Skylark.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Hawkwatch",
+      "image": "https://liquipedia.net/commons/images/9/95/Karrie_Hawkwatch_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Hawkwatch.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/crlxkz3v0wj530f/Karrie+Hawkwatch.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Change New Moon",
+      "image": "https://liquipedia.net/commons/images/f/f4/Chang%27e_New_Moon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Change%20New%20Moon.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lw9z8fjyragqdxl/Change+New+Moon.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou STUN",
+      "image": "https://liquipedia.net/commons/images/1/11/Chou_S.T.U.N._Chou_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20STUN.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4y0g3mcgk7psq6v/Chou+STUN.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Thunderfist",
+      "image": "https://liquipedia.net/commons/images/4/42/Chou_Thunderfist_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Thunderfist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9l1bev9yknauchz/Chou+Thunderfist.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Libra Siryu",
+      "image": "https://liquipedia.net/commons/images/f/f8/Chou_Libra_Siryu_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Libra%20Siryu.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zy33gvbg7d1zjkq/Chou+Libra+Siryu.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody STUN",
+      "image": "https://liquipedia.net/commons/images/9/91/Brody_S.T.U.N._Brody_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20STUN.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/iur2jcck8iy5wev/Brody+STUN.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Julian Megumi Fushiguro",
+      "image": "https://i.ibb.co/qJ1TnZp/megumi-fushiguro-x-mobile-legends-8k-wallpaper-by-newjer53-dfph2zk-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Julian%20Megumi%20Fushiguro.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dzkim92n60i2bip/Julian+Megumi+Fushiguro.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Melissa Nobara Kugisaki",
+      "image": "https://i.ibb.co/WpQ633C/nobara-kugisaki-x-mobile-legends-8k-wallpaper-by-newjer53-dfph3lh-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Melissa%20Nobara%20Kugisaki.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rgso1i2foukrnpq/Melissa+Nobara+Kugisaki.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yi Sun-Shin Lone Destructor",
+      "image": "https://liquipedia.net/commons/images/3/3c/Yi_Sun-Shin_Lone_Destructor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yi%20Sun-Shin%20Lone%20Destructor.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rmyt0f170icm5wr/Yi+Sun-Shin+Lone+Destructor.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valentina Cyber Agent",
+      "image": "https://i.ibb.co/m6RJFrX/valentina-starlight-skin-cyber-agent-by-hatis2-dfrj6rd-350t.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valentina%20Cyber%20Agent.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q0e142guanqdgyf/Valentina+Cyber+Agent.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yin Yuji Itadori",
+      "image": "https://i.ibb.co/TYqGnph/yugi-itadori-x-mobile-legends-8k-wallpaper-by-newjer53-dfpb8hk-fullview.png",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yin%20Yuji%20Itadori.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/t5wc2ze0fys0pja/Yin+Yuji+Itadori.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Natan Tidal Lord",
+      "image": "https://i.ibb.co/nQv2jxt/4227f6e309637a5d57a5597328b8e006.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Natan%20Tidal%20Lord.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wealjwzsl33dwy3/Natan+Tidal+Lord.zip/file",
+      "size_skins": "23 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion K",
+      "image": "https://liquipedia.net/commons/images/e/e4/Gusion_K%27_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20K.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/7a9tzffoktjx57c/Gusion+K.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Dyrroth Orochi Chris",
+      "image": "https://liquipedia.net/commons/images/a/ac/Dyrroth_Orochi_Chris_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Orochi%20Chris.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2gfkzf5lf53tu8u/Dyrroth+Orochi+Chris.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yu Zhong Exorcist",
+      "image": "https://liquipedia.net/commons/images/9/94/Yu_Zhong_Exorcist_Yu_Zhong_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Exorcist.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wx793rdnd8wyfiy/Yu+Zhong+Exorcist.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Crimson Blast",
+      "image": "https://i.ibb.co/xh8Vv03/Fq67-G6wa-YAEj-Wwf.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Crimson%20Blast.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6cuta4e74kjq94m/Clint+Crimson+Blast.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Edith Ancient Warden",
+      "image": "https://i.ibb.co/SRX5ZdG/Fst-Zo8-YXs-AABpdm.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Edith%20Ancient%20Warden.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pieci59w42ktuv7/Edith+Ancient+Warden.zip/file",
+      "size_skins": "19 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gloo Jellyman",
+      "image": "https://img.esportsku.com/wp-content/uploads//2021/09/Gloo-ml-mobile-legends.jpeg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gloo%20Jellyman.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/njeq0s6gmlur99j/Gloo+Jellyman.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Roger Phantom Pirate",
+      "image": "https://cdn.oneesports.gg/cdn-data/2023/03/MLBB_PhantomPirate_Roger_portrait.jpeg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Phantom%20Pirate.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9oa4hnno6aq22cw/Roger_Phantom_Pirate.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Violet Spear",
+      "image": "https://dailyspin.id/wp-content/uploads/2023/03/Starlight-Mei-2023.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Violet%20Spear.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/568b8suf3p19qi3/Moskov_Violet_Spear.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Miya Atomic Pop",
+      "image": "https://i.ibb.co/mB2fsP0/miya-atomic-pop-skin-8k-wallpaper-by-newjer53-dftr4e3-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Atomic%20Pop.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9vdgaz4g78oi7k0/Miya_Atomic_Pop.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco Wheatfield Nightmare",
+      "image": "https://liquipedia.net/commons/images/thumb/9/9a/Franco_Wheatfield_Nightmare_Skin.jpg/475px-Franco_Wheatfield_Nightmare_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Wheatfield%20Nightmare.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lrhc79iu76e2xvm/Franco_Wheatfield_Nightmare.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco Valhalla Ruler",
+      "image": "https://i.ibb.co/xz19pFy/valhalla-ruler-franco-mobile-legends-ml-wallpaper-2048x1152-49.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Valhalla%20Ruler.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pcossprr4cx72op/Franco_Valhalla_Ruler.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco King of Hell",
+      "image": "https://i.ibb.co/4pzC3Kt/Fi-21-An-Vs-AAS3t3-format-jpg-name-large.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20King%20of%20Hell.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/6xleb8oeo0futto/Franco_King_of_Hell.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lesley Hawk-eyed Sniper",
+      "image": "https://cdn.oneesports.id/cdn-data/sites/2/2022/11/Mobile-Legends_Lesley-Hawk-eyed-Sniper.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lesley%20Hawk-eyed%20Sniper.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/timvperou9dxf10/Lesley_Hawk-eyed_Sniper.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lesley Falcon Mistress",
+      "image": "https://i.ibb.co/vmKHmwg/lesley-mobile-legends-bang-bang-devushka-oruzhie-fentezi.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lesley%20Falcon%20Mistress.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/na3dsrx1gt7606n/Lesley_Falcon_Mistress.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Serene Plume",
+      "image": "https://i.ibb.co/NW67Hz6/ling-serene-plume-skin-mobile-legends-hd-wallpaper-1920x1080-uhdpaper-com-383-1-a.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Serene%20Plume.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wi57wigix7qvphy/Ling_Serene_Plume.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Eudora Atomic Pop",
+      "image": "https://i.ibb.co/pdz1vpQ/Fr-Vp-Jv-Qa-EAMBF6v.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Eudora%20Atomic%20Pop.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ps5pduygcr88ur7/Eudora_Atomic_Pop.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Swordmaster",
+      "image": "https://i.ibb.co/rk3WXq1/lancelot-mobile-legends-skin-uhdpaper-com-hd-8-1815.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Swordmaster.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/kxjjot70q960bux/Lancelot_Swordmaster.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Heart Afloat",
+      "image": "https://i.ibb.co/rp3qzdL/fanny-and-claude-valentines-skin-8k-wallpaper-by-newjer53-dfpb7fl-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Heart%20Afloat.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sfa70isnxpgaslr/Claude_Heart_Afloat.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Heart Afloat",
+      "image": "https://i.ibb.co/rp3qzdL/fanny-and-claude-valentines-skin-8k-wallpaper-by-newjer53-dfpb7fl-fullview.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Heart%20Afloat.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fb9or4pay36wc53/Fanny_Heart_Afloat.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Blade Of Kibou",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgZHMDIj66eXjGFgkYNRK9G7jp_xwGjwV2VVoUso-JmiAkPJCwKnulgz9CmQc1TSRB_IR82twrvb8iawO1ejYwvQTCTwH8C9cMigaJlWD9L8ND8q1QzguGHda-dHCuYcvaPF6LxdjQI3og54FISpPS2qgf9rlfXPNqM-2e9y_8PX7VhGvmoqSLI5bSnPQ=w1200-h630-p-k-no-nu",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Blade%20Of%20Kibou.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0jne7asbdv4q6qf/Fanny_Blade_Of_Kibou.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Pisces",
+      "image": "https://wallpapers.com/images/hd/lancelot-mobile-legend-pisces-skin-official-poster-bclfm8n6ybr3bea0.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Pisces.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nproii31hgbov4q/Lancelot_Pisces.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Beatrix Stellar Brilliance",
+      "image": "https://i.ytimg.com/vi/bIiqMauWzA8/maxresdefault.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Stellar%20Brilliance.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/n4yh53jxyxdhv7j/Beatrix_Stellar_Brilliance.zip/file",
+      "size_skins": "31 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Street Punk",
+      "image": "https://1.bp.blogspot.com/-eloRxOuI6kk/X26z_9ZU1II/AAAAAAAAIgM/zm5HjojIuY8aDPdLeaNxsi1kSPDVdzyxgCNcBGAsYHQ/w919/ling-street-punk-skin-mobile-legends-uhdpaper.com-4K-6.2994-wp.thumbnail.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Street%20Punk.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/necamn0qp8oiq1p/Ling_Street_Punk.zip/file",
+      "size_skins": "4 MB",
+      "coins": 100
+    },
+	{
+      "title": "Xavier Jujutsu Kaisen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNe5pLIXzAT_evpAkohawXq_GXLHwd4lPAYEi36qBg77gSol0dK_DKTTu59M0LhvI5c7ENBBlZK5JX3_inHG5Rdun6BRTBf9-MSmOfLaXxGAxCwZs0_l-lYzacQp_JljAoKaJIt6J_jdJhhJdSszZrVpPtyWbsiGLIzsgzicq6vip6JuxM7MurVFgbg/s3544/xavier-satoru-gojo-jujutsu-kaisen-skin-wallpaper-hd.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Jujutsu%20Kaisen.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mo8p50jnjr2m0fz/Xavier_Jujutsu_Kaisen.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Dragon Tamer",
+      "image": "https://dailyspin.id/wp-content/uploads/2021/06/ling-night-shade-skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Dragon%20Tamer.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0sa93p70h147p0i/Ling_Dragon_Tamer.zip/file",
+      "size_skins": "8 MB",
+      "coins": 100
+    },
+	{
+      "title":"Chou Iori Yagami",
+      "image":"https://cdn.upstation.asia/wp-content/uploads/2022/01/skin-chou-1024x576.jpg",
+      "url_skins":"https://kangmediadev.com/lonelygaming/mlskin/Chou%20Iori%20Yagami.zip",
+      "alterntif_url_skin":"https://www.mediafire.com/file/i1c0g5ctus57g8j/Chou_Iori_Yagami.zip/file",
+      "size_skins": "6 MB",
+      "coins":100
+    }
+	
+   
+  ],
+  "SKINS-ORIGINAL":
+  [
+    
+	{
+      "title": "Aamon Original",
+      "image": "https://liquipedia.net/commons/images/7/76/Aamon_Duke_of_Shards_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aamon%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wf6dnz0roc9qhgw/Aamon+Original.zip/file",
+      "size_skins": "12 MB",
+      "coins": 100
+    },
+	{
+      "title": "Akai Original",
+      "image": "https://liquipedia.net/commons/images/thumb/c/cd/Akai_Panda_Warrior_Skin.jpg/800px-Akai_Panda_Warrior_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Akai%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qu21tkgfzfvbnrp/Akai+Original.zip/file",
+      "size_skins": "44 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aldous Original",
+      "image": "https://liquipedia.net/commons/images/2/21/Aldous_Contractor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aldous%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/yfsjggekhcxobp0/Aldous+Original.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alpha Original",
+      "image": "https://liquipedia.net/commons/images/2/2d/Alpha_Blade_of_Enmity_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alpha%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qo231g6bsbg0iz7/Alpha+Original.zip/file",
+      "size_skins": "45 MB",
+      "coins": 100
+    },
+	{
+      "title": "Alucard Original",
+      "image": "https://liquipedia.net/commons/images/a/a0/Alucard_Demon_Hunter_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Alucard%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mm520nepd3iptsi/Alucard+Original.zip/file",
+      "size_skins": "47 MB",
+      "coins": 100
+    },
+	{
+      "title": "Angela Original",
+      "image": "https://liquipedia.net/commons/images/b/b8/Angela_Bunnylove_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Angela%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rg6mzpc94si2ksv/Angela+Original.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Argus Original",
+      "image": "https://liquipedia.net/commons/images/f/f0/Argus_Dark_Angel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Argus%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/t5gitkfs0b4tac7/Argus+Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Atlas Original",
+      "image": "https://liquipedia.net/commons/images/8/80/Atlas_Ocean_Gladiator_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Atlas%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fws19m7hdgrvld2/Atlas+Original.zip/file",
+      "size_skins": "23 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aulus Original",
+      "image": "https://liquipedia.net/commons/images/b/b6/Aulus_Warrior_of_Ferocity_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aulus%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/g8l64plgfm4yjj4/Aulus+Original.zip/file",
+      "size_skins": "22 MB",
+      "coins": 100
+    },
+	{
+      "title": "Aurora Original",
+      "image": "https://liquipedia.net/commons/images/6/61/Aurora_Frost_Oracle_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Aurora%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/nj22x2g6dboiwuz/Aurora+Original.zip/file",
+      "size_skins": "17 MB",
+      "coins": 100
+    },
+	{
+      "title": "Badang Original",
+      "image": "https://liquipedia.net/commons/images/c/cc/Badang_Tribal_Warrior_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Badang%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uyzs1tob1x0o3b3/Badang+Original.zip/file",
+      "size_skins": "43 MB",
+      "coins": 100
+    },
+	{
+      "title": "Balmond Original",
+      "image": "https://liquipedia.net/commons/images/5/54/Balmond_Bloody_Beast_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Balmond%20Original.zip",
+      "alterntif_url_skin": "htgotps://www.mediafire.com/file/jqua4khw553oysi/Balmond+Original.zip/file",
+      "size_skins": "32 MB",
+      "coins": 100
+    },
+	{
+      "title": "Bane Original",
+      "image": "https://liquipedia.net/commons/images/9/97/Bane_Frozen_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bane%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/h1ybixn5xm4d6nu/Bane+Original.zip/file",
+      "size_skins": "18 MB",
+      "coins": 100
+    },
+	{
+      "title": "Beatrix Original",
+      "image": "https://image.akurat.co/uploads/gallery/2022/10/gal_6350f1f9c2dca7-62393984-17929636.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Beatrix%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uj971ag34x4rz7o/Beatrix_Original.zip/file",
+      "size_skins": "22 MB",
+      "coins": 100
+    },
+	{
+      "title": "Benedetta Original",
+      "image": "https://liquipedia.net/commons/images/5/5e/Benedetta_Shadow_Ranger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Benedetta%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/n0fwnygj10o714c/Benedetta+Original.zip/file",
+      "size_skins": "36 MB",
+      "coins": 100
+    },
+	{
+      "title": "Brody Original",
+      "image": "https://liquipedia.net/commons/images/6/6a/Brody_The_Lone_Star_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Brody%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4a18zqquen0t890/Brody+Original.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Bruno Original",
+      "image": "https://liquipedia.net/commons/images/a/a4/Bruno_The_Protector_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Bruno%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/onncdvidnz5qkd9/Bruno+Original.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cecilion Original",
+      "image": "https://liquipedia.net/commons/images/b/b6/Cecilion_Embrace_of_Night_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cecilion%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/csc4tg5sjun8qqj/Cecilion+Original.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Change Original",
+      "image": "https://liquipedia.net/commons/images/8/8e/Chang%27e_Moon_Palace_Immortal_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Change%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qkz0h8ja81g1ubr/Change+Original.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Chou Original",
+      "image": "https://wallpapercave.com/wp/wp5890636.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Chou%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/664qu55shcbujb9/Chou_Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Claude Original",
+      "image": "https://i.ibb.co/2gWc67w/claude-mobile-legends-ml-tapete-2560x1600-7.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Claude%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dqlf51ujtcs7i8u/Claude_Original.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Clint Original",
+      "image": "https://liquipedia.net/commons/images/thumb/5/57/Clint_West_Justice_Skin.jpg/800px-Clint_West_Justice_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Clint%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dbifh9omnmniv87/Clint+Original.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Cyclops Original",
+      "image": "https://liquipedia.net/commons/images/7/75/Cyclops_Starsoul_Magician_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Cyclops%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/mgpua6bd1bmjljs/Cyclops+Original.zip/file",
+      "size_skins": "25 MB",
+      "coins": 100
+    },
+	{
+      "title": "Dyrroth Original",
+      "image": "https://liquipedia.net/commons/images/d/d3/Dyrroth_Prince_of_the_Abyss_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Dyrroth%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/htkbvo7uzsojpti/Dyrroth+Original.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Edith Original",
+      "image": "https://liquipedia.net/commons/images/thumb/9/97/Edith_Forsaken_Warden_Skin.jpg/800px-Edith_Forsaken_Warden_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Edith%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/glorodnxoih6tx4/Edith+Original.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Esmeralda Original",
+      "image": "https://liquipedia.net/commons/images/7/7e/Esmeralda_Astrologer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Esmeralda%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2xgod5vb6r1exp6/Esmeralda+Original.zip/file",
+      "size_skins": "48 MB",
+      "coins": 100
+    },
+	{
+      "title": "Estes Original",
+      "image": "https://liquipedia.net/commons/images/7/77/Estes_Moon_Elf_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Estes%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/q3s2pmtih2k7w2o/Estes+Original.zip/file",
+      "size_skins": "33 MB",
+      "coins": 100
+    },
+	{
+      "title": "Eudora Original",
+      "image": "https://i.ibb.co/j8WB9p2/eudora-revamped-mobile-legends-project-next-uhdpaper-com-hd-5-2873.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Eudora%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/e8t5lnxji59vcyo/Eudora_Original.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Fanny Original",
+      "image": "https://storage.indoesports.com/images/foto-fanny-mlbb-mobile-legends.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Fanny%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/vqs1tfiphnirkkf/Fanny_Original.zip/file",
+      "size_skins": "20 MB",
+      "coins": 100
+    },
+	{
+      "title": "Franco Original",
+      "image": "https://i.ibb.co/55ZcXBQ/franco-mobile-legends-ml-wallpaper-1280x800-3.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Franco%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/sb7ejcnoet2k3wo/Franco_Original.zip/file",
+      "size_skins": "16 MB",
+      "coins": 100
+    },
+	{
+      "title": "Freya Original",
+      "image": "https://liquipedia.net/commons/images/5/59/Freya_Valkyrie_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Freya%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wmw7eiiguryfpzy/Freya+Original.zip/file",
+      "size_skins": "52 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gatotkaca Original",
+      "image": "https://liquipedia.net/commons/images/thumb/9/97/Gatotkaca_Iron_Steel_Skin.jpg/800px-Gatotkaca_Iron_Steel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gatotkaca%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8u26ljg0aybaitu/Gatotkaca+Original.zip/file",
+      "size_skins": "23 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gloo Original",
+      "image": "https://liquipedia.net/commons/images/thumb/f/f4/Gloo_Swamp_Spirits_Skin.jpg/800px-Gloo_Swamp_Spirits_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gloo%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/egruyx0wwynp4mm/Gloo+Original.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Granger Original",
+      "image": "https://liquipedia.net/commons/images/f/fd/Granger_Death_Chanter_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Granger%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/pxnvemne9bhzits/Granger+Original.zip/file",
+      "size_skins": "39 MB",
+      "coins": 100
+    },
+	{
+      "title": "Grock Original",
+      "image": "https://liquipedia.net/commons/images/thumb/5/56/Grock_Fortress_Titan_Skin.jpg/800px-Grock_Fortress_Titan_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Grock%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1x8n0h9wwy15f93/Grock+Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Guinevere Original",
+      "image": "https://liquipedia.net/commons/images/7/7d/Guinevere_Ms._Violet_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Guinevere%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ziv8votmy1m6atp/Guinevere+Original.zip/file",
+      "size_skins": "35 MB",
+      "coins": 100
+    },
+	{
+      "title": "Gusion Original",
+      "image": "https://liquipedia.net/commons/images/e/e6/Gusion_Holy_Blade_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Gusion%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/gzng8yex0uzaf28/Gusion+Original.zip/file",
+      "size_skins": "22 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hanabi Original",
+      "image": "https://liquipedia.net/commons/images/e/ee/Hanabi_Scarlet_Flower_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hanabi%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9lu8ubnygqu8b74/Hanabi+Original.zip/file",
+      "size_skins": "50 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harith Original",
+      "image": "https://liquipedia.net/commons/images/e/ee/Harith_Time_Traveler_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harith%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/0ifq3407qoqd3xi/Harith+Original.zip/file",
+      "size_skins": "28 MB",
+      "coins": 100
+    },
+	{
+      "title": "Harley Original",
+      "image": "https://liquipedia.net/commons/images/f/fe/Harley_Mage_Genius_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Harley%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/t1il0n5jvtx4n6f/Harley+Original.zip/file",
+      "size_skins": "33 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hayabusa Original",
+      "image": "https://liquipedia.net/commons/images/9/97/Hayabusa_Crimson_Shadow_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hayabusa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/5i597l760bp9fsj/Hayabusa+Original.zip/file",
+      "size_skins": "21 MB",
+      "coins": 100
+    },
+	{
+      "title": "Hilda Original",
+      "image": "https://liquipedia.net/commons/images/c/c3/Hilda_Power_of_Megalith_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Hilda%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/8ae3vgjwc7dnvj9/Hilda+Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Jawhead Original",
+      "image": "https://liquipedia.net/commons/images/thumb/4/4f/Jawhead_Steel_Sweetheart_Skin.jpg/800px-Jawhead_Steel_Sweetheart_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Jawhead%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9vfp1pwua7e3878/Jawhead+Original.zip/file",
+      "size_skins": "21 MB",
+      "coins": 100
+    },
+	{
+      "title": "Johnson Original",
+      "image": "https://liquipedia.net/commons/images/3/3b/Johnson_Mustang_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Johnson%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/su6k6v9gxy3avlp/Johnson+Original.zip/file",
+      "size_skins": "41 MB",
+      "coins": 100
+    },
+	{
+      "title": "Julian Original",
+      "image": "https://liquipedia.net/commons/images/7/7d/Julian_Scarlet_Raven_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Julian%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/d373cb0u75s11he/Julian+Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kagura Original",
+      "image": "https://liquipedia.net/commons/images/f/f4/Kagura_Onmyouji_Master_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kagura%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3ezkr24vi0zhfaw/Kagura+Original.zip/file",
+      "size_skins": "23 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kaja Original",
+      "image": "https://liquipedia.net/commons/images/0/05/Kaja_Nazar_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kaja%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/2xzk09orr5m14np/Kaja+Original.zip/file",
+      "size_skins": "24 MB",
+      "coins": 100
+    },
+	{
+      "title": "Karrie Original",
+      "image": "https://liquipedia.net/commons/images/1/1d/Karrie_Lost_Star_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Karrie%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/dap2jjekfer526y/Karrie+Original.zip/file",
+      "size_skins": "7 MB",
+      "coins": 100
+    },
+	{
+      "title": "Khufra Original",
+      "image": "https://liquipedia.net/commons/images/0/0e/Khufra_Desert_Tyant_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Khufra%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/1yqhheq7qdq2il2/Khufra+Original.zip/file",
+      "size_skins": "21 MB",
+      "coins": 100
+    },
+	{
+      "title": "Kimmy Original",
+      "image": "https://liquipedia.net/commons/images/9/94/Kimmy_Jetpack_Rebel_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Kimmy%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/x80jpgjpimua2gj/Kimmy+Original.zip/file",
+      "size_skins": "33 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lancelot Original",
+      "image": "https://mobsgame.ru/wp-content/uploads/2020/02/316395-Lancelot-Mobile-Legends-4K-1536x864.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lancelot%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3fi0shgejcoruas/Lancelot_Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lapu-Lapu Original",
+      "image": "https://liquipedia.net/commons/images/e/e7/Lapu-Lapu_Courageous_Blade_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lapu-Lapu%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/4k14s98tx1nv5sv/Lapu-Lapu+Original.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Layla Original",
+      "image": "https://liquipedia.net/commons/images/3/31/Layla_Energy_Gunner_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Layla%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/liii6j9kp2hiakf/Layla+Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Leomord Original",
+      "image": "https://liquipedia.net/commons/images/b/b2/Leomord_Sworn_Sword_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Leomord%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/txkkqg84aqjq43j/Leomord+Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lesley Original",
+      "image": "https://cdn.oneesports.id/cdn-data/sites/2/2022/09/MLBB_Lesley-1024x576-1.png",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lesley%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uucx0gjsghlxjz1/Lesley_Original.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ling Original",
+      "image": "https://gamefinity.id/wp-content/uploads/2021/08/Mobile-Legends-Ling.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ling%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/b1pldo31yaidp4b/Ling_Original.zip/file",
+      "size_skins": "27 MB",
+      "coins": 100
+    },
+	{
+      "title": "Lunox Original",
+      "image": "https://liquipedia.net/commons/images/3/38/Lunox_Twilight_Goddess_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Lunox%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/l7twdksz46kbioh/Lunox+Original.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Luo Yi Original",
+      "image": "https://liquipedia.net/commons/images/3/3d/Luo_Yi_Yin-yang_Geomancer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Luo%20Yi%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/lezicnrcmdrka7w/Luo+Yi+Original.zip/file",
+      "size_skins": "39 MB",
+      "coins": 100
+    },
+	{
+      "title": "Martis Original",
+      "image": "https://liquipedia.net/commons/images/3/33/Martis_Ashura_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Martis%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/znd7cvwvposmxaz/Martis+Original.zip/file",
+      "size_skins": "27 MB",
+      "coins": 100
+    },
+	{
+      "title": "Melissa Original",
+      "image": "https://liquipedia.net/commons/images/9/91/Melissa_Cursed_Needle_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Melissa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ctu0x4674laotcp/Melissa+Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Minotaur Original",
+      "image": "https://liquipedia.net/commons/images/1/15/Minotaur_Son_of_Minos_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Minotaur%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/r0py0fj36zhy175/Minotaur+Original.zip/file",
+      "size_skins": "5 MB",
+      "coins": 100
+    },
+	{
+      "title": "Miya Original",
+      "image": "https://liquipedia.net/commons/images/thumb/a/aa/Miya_Moonlight_Archer_Skin.jpg/475px-Miya_Moonlight_Archer_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Miya%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/wuaappbvf54fpji/Miya_Original.zip/file",
+      "size_skins": "11 MB",
+      "coins": 100
+    },
+	{
+      "title": "Moskov Original",
+      "image": "https://liquipedia.net/commons/images/thumb/b/b4/Moskov_Spear_of_Quiescence_Skin.jpg/475px-Moskov_Spear_of_Quiescence_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Moskov%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3g8fy4qohgi4dav/Moskov_Original.zip/file",
+      "size_skins": "9 MB",
+      "coins": 100
+    },
+	{
+      "title": "Nana Original",
+      "image": "https://liquipedia.net/commons/images/3/34/Nana_Sweet_Leonin_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Nana%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/9b5nfcphuq2xh52/Nana+Original.zip/file",
+      "size_skins": "42 MB",
+      "coins": 100
+    },
+	{
+      "title": "Natan Original",
+      "image": "https://liquipedia.net/commons/images/b/b6/Natan_Spacetime_Walker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Natan%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/amfa8320r555t8l/Natan+Original.zip/file",
+      "size_skins": "10 MB",
+      "coins": 100
+    },
+	{
+      "title": "Paquito Original",
+      "image": "https://liquipedia.net/commons/images/a/a2/Paquito_The_Heavenly_Fist_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Paquito%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/h1z1gbq59hpw349/Paquito+Original.zip/file",
+      "size_skins": "40 MB",
+      "coins": 100
+    },
+	{
+      "title": "Pharsa Original",
+      "image": "https://liquipedia.net/commons/images/3/36/Pharsa_Wings_of_Vengeance_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Pharsa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/xo9e94y6k129k7q/Pharsa+Original.zip/file",
+      "size_skins": "46 MB",
+      "coins": 100
+    },
+	{
+      "title": "Popol and Kupa Original",
+      "image": "https://liquipedia.net/commons/images/8/82/Popol_and_Kupa_Iceland_Companions_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Popol%20and%20Kupa%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/exo5hacvyv4lmil/Popol+and+Kupa+Original.zip/file",
+      "size_skins": "18 MB",
+      "coins": 100
+    },
+	{
+      "title": "Roger Original",
+      "image": "https://liquipedia.net/commons/images/thumb/1/1c/Roger_Dire_Wolf_Hunter_Skin.jpg/475px-Roger_Dire_Wolf_Hunter_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Roger%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/hl5f09tlzfzh3rg/Roger_Original.zip/file",
+      "size_skins": "37 MB",
+      "coins": 100
+    },
+	{
+      "title": "Ruby Original",
+      "image": "https://liquipedia.net/commons/images/c/c0/Ruby_Little_Red_Hood_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Ruby%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/qwzcw41cj62ykct/Ruby+Original.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Saber Original",
+      "image": "https://liquipedia.net/commons/images/b/b2/Saber_Wandering_Sword_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Saber%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/tqih7t4mv3fla43/Saber+Original.zip/file",
+      "size_skins": "26 MB",
+      "coins": 100
+    },
+	{
+      "title": "Selena Original",
+      "image": "https://liquipedia.net/commons/images/4/4b/Selena_Abyssal_Witch_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Selena%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fk23hpn7ewqx44u/Selena+Original.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Sun Original",
+      "image": "https://liquipedia.net/commons/images/d/d3/Sun_Monkey_King_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Sun%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/fqkusr87h6sahk9/Sun+Original.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Thamuz Original",
+      "image": "https://liquipedia.net/commons/images/f/fb/Thamuz_Lord_Lava_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Thamuz%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ybdqr855kknkan8/Thamuz+Original.zip/file",
+      "size_skins": "15 MB",
+      "coins": 100
+    },
+	{
+      "title": "Tigreal Original",
+      "image": "https://liquipedia.net/commons/images/thumb/8/88/Tigreal_Warrior_Of_Dawn_Skin.jpg/800px-Tigreal_Warrior_Of_Dawn_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Tigreal%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/rtypzmoo00huloq/Tigreal+Original.zip/file",
+      "size_skins": "30 MB",
+      "coins": 100
+    },
+	{
+      "title": "Vale Original",
+      "image": "https://liquipedia.net/commons/images/4/4f/Vale_Windtalker_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vale%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/k5lyxcnnz71yrb3/Vale+Original.zip/file",
+      "size_skins": "30 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valentina Original",
+      "image": "https://liquipedia.net/commons/images/1/1d/Valentina_Prophetess_of_the_Night_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valentina%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/iekhn3hsqp2c9qw/Valentina+Original.zip/file",
+      "size_skins": "6 MB",
+      "coins": 100
+    },
+	{
+      "title": "Valir Original",
+      "image": "https://liquipedia.net/commons/images/2/22/Valir_Son_of_Flames_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Valir%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/776mtpl5etbtd52/Valir+Original.zip/file",
+      "size_skins": "56 MB",
+      "coins": 100
+    },
+	{
+      "title": "Vexana Original",
+      "image": "https://liquipedia.net/commons/images/d/d3/Vexana_Shimmer_of_Hope_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Vexana%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/eovt49dndqu8unb/Vexana+Original.zip/file",
+      "size_skins": "13 MB",
+      "coins": 100
+    },
+	{
+      "title": "Wanwan Original",
+      "image": "https://liquipedia.net/commons/images/3/34/Wanwan_Agile_Tiger_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Wanwan%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/haf33665hb0qkwv/Wanwan+Original.zip/file",
+      "size_skins": "32 MB",
+      "coins": 100
+    },
+	{
+      "title": "X.Borg Original",
+      "image": "https://liquipedia.net/commons/images/9/99/X.Borg_Firaga_Armor_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/X.Borg%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/ma5qe3w5h152lr6/X.Borg+Original.zip/file",
+      "size_skins": "36 MB",
+      "coins": 100
+    },
+	{
+      "title": "Xavier Original",
+      "image": "https://gamebrott.com/wp-content/uploads/2022/05/xavier-mobile-legends-hd-wallpaper-uhdpaper.com-334@1@g.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Xavier%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/88d4j2fv5bnp27m/Xavier_Original.zip/file",
+      "size_skins": "17 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yi Sun-Shin Original",
+      "image": "https://liquipedia.net/commons/images/f/f5/Yi_Sun-Shin_Paenlong_Legend_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yi%20Sun-Shin%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/zb4ggpetbystylg/Yi+Sun-Shin+Original.zip/file",
+      "size_skins": "20 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yin Original",
+      "image": "https://liquipedia.net/commons/images/2/27/Yin_Martial_Genius_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yin%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/3pj0itl6e1iuknt/Yin+Original.zip/file",
+      "size_skins": "24 MB",
+      "coins": 100
+    },
+	{
+      "title": "Yu Zhong Original",
+      "image": "https://liquipedia.net/commons/images/4/41/Yu_Zhong_Black_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Yu%20Zhong%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/viwi3pgj01bty7g/Yu+Zhong+Original.zip/file",
+      "size_skins": "14 MB",
+      "coins": 100
+    },
+	{
+      "title": "Zilong Original",
+      "image": "https://liquipedia.net/commons/images/b/b2/Zilong_Spear_of_Dragon_Skin.jpg",
+      "url_skins": "https://kangmediadev.com/lonelygaming/mlskin/Zilong%20Original.zip",
+      "alterntif_url_skin": "https://www.mediafire.com/file/uvacr8lkmx8iwhb/Zilong+Original.zip/file",
+      "size_skins": "57 MB",
+      "coins": 100
+    }
+	
+	
+	
+	
+	
+	
+	
+  ],
+  "GUIDE":
+  [
+    {
+      "title":"How to install script Manual?",
+      "image":"https://i.ibb.co/0K3vjgT/gusion-cosmic-gleam-skin-mobile-legends-uhdpaper-com-hd-6-2934.jpg",
+      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/manualinstall.html"
+    },
+    {
+      "title":"How to install script Auto?",
+      "image":"https://i.ibb.co/Z6k0Hcs/saber-codename-storm-skin-mobile-legends-uhdpaper-com-4-K-21.jpg",
+      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/autoinstall.html"
+    },
+    {
+      "title":"How to backup or restore skin?",
+      "image":"https://i.ibb.co/FXtVm2N/miya-modena-butterfly-legend-skin-mobile-legends-hd-wallpaper-1920x1080-uhdpaper-com-171-1-a.jpg",
+      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/backup.html"
+    },
+	{
+      "title":"How to get coins?",
+      "image":"https://i.ibb.co/QHCCNCj/alucard-obsidian-blade-skin-mobile-legends-uhdpaper-com-hd-6-3004.jpg",
+      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/getcoins.html"
+    },
+	{
+      "title":"Request skin and play with author",
+      "image":"https://liquipedia.net/commons/images/d/d2/Hayabusa_Shadow_of_Obscurity_Skin.jpg",
+      "description":"https://kangmediadev.com/lonelygaming/mlskin/tutorial/request.html"
+    }
+  
+  ]
+}
